@@ -12,10 +12,9 @@ The GGO has already researched a bit what they and their users want for this stu
 * Grades
 * Education Progress
 * Urgent
-* Statements ???
+* Statements
 
 #### Secondary information
-* Statements ???
 * Team sites
 * Teacher contact information
 * Events
@@ -31,7 +30,6 @@ The GGO has already researched a bit what they and their users want for this stu
 * Link to HvA organization.
 
 #### questions
-* Waar moet mededelingen komen?
 * Waar moet mail komen?
 * Waar moet news komen?
 
@@ -42,7 +40,7 @@ The GGO has already researched a bit what they and their users want for this stu
 * Students wants to receive push notifications when changes occur in their schedule, when they receive a new grade and when a course has new information.
 * Course overview must have a link to brightspace.
 * All customizable options and settings must be visible on one page.
-* Customizable and personal news
+* Customizable and personal news.
 * Customizable push notifications, both layout and the content.
 
 ### Final notes
