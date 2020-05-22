@@ -1,12 +1,14 @@
 # Meesterproef @cmda-minor-web 1920
 
-## Debriefing
+## Design rationale
+
+### Debriefing
 I am going to build a student portal for the organization Goed Georganiseerd Onderwijs. They are an organization of the HVA that works with students to improve the school.
 
 The GGO has already researched a bit what they and their users want for this student portal application. The students of the HVA would like to have the following information and features inside of the application:
 
-### Information
-#### Primary information
+#### Information
+##### Primary information
 * Schedule
 * Course info
 * Grades
@@ -14,12 +16,12 @@ The GGO has already researched a bit what they and their users want for this stu
 * Urgent
 * Statements
 
-#### Secondary information
+##### Secondary information
 * Team sites
 * Teacher contact information
 * Events
 
-#### Tertiary information
+##### Tertiary information
 * link to A-Z list
 * link to Brightspace
 * link to SIS
@@ -29,11 +31,11 @@ The GGO has already researched a bit what they and their users want for this stu
 * Link to HvA addresses
 * Link to HvA organization.
 
-#### questions
+##### Other information
 * Waar moet mail komen?
 * Waar moet news komen?
 
-### Features
+#### Features
 * All information must be available on one location.
 * MijnHvA.nl and MijnHvApp must contain the same information and must look and feel the same as the new app.
 * The portal looks and apps must be customizable by a user.
@@ -43,8 +45,16 @@ The GGO has already researched a bit what they and their users want for this stu
 * Customizable and personal news.
 * Customizable push notifications, both layout and the content.
 
-### Final notes
+#### Final notes
 * The app must be actual, real time, personal and school related.
 * Students wants to know the difference between news en Statements.
 * Absence of teachers is only useful when the app is real time.
 * Schedule needs to have holidays and deadlines.
+
+## Product biography (Think, Make, Check)
+### Think
+We had an meeting with the guys from GGO (Goed Georganiseerd Onderwijs), they told us what they want in their application. 
+
+
+
+## Reflection
