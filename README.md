@@ -53,7 +53,11 @@ The GGO has already researched a bit what they and their users want for this stu
 
 ## Product biography (Think, Make, Check)
 ### Think
-We had an meeting with the guys from GGO (Goed Georganiseerd Onderwijs), they told us what they want in their application. 
+We had a meeting with the guys from GGO (Goed Georganiseerd Onderwijs), they told us what they want a student portal app with the features I described above in the debriefing.
+
+They said it is important to figure out how to design the web page with all the features in mind. So the first thing I am going to do for this project is to create a wireframe I can present next Monday.
+### Make
+
 
 
 
