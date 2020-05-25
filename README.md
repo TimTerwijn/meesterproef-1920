@@ -59,6 +59,13 @@ They said it is important to figure out how to design the web page with all the 
 ### Make
 
 
+### Check
+Vrijdag ochtend presenteren
+
+Na inloggen notivacaties zien, ongelezen notivicaties bovenaan en dikgedrukt met bolletjes. verschil tussen urgent en niet urgent (rooster wijziging en toets later in de maand). 
+
+Eerste keer doorgelinkt een uitleg daarna een I voor info (denk aan u verlaat deze site, maar dan met wat het is)
+
 
 
 ## Reflection
