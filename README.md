@@ -55,8 +55,10 @@ The GGO has already researched a bit what they and their users want for this stu
 ### Think
 We had a meeting with the guys from GGO (Goed Georganiseerd Onderwijs), they told us what they want a student portal app with the features I described above in the debriefing.
 
-They said it is important to figure out how to design the web page with all the features in mind. So the first thing I am going to do for this project is to create a wireframe I can present next Monday.
+They said it is important to figure out how to design the web page with all the features in mind. So the first thing I am going to do for this project is to create a wireframe I can present next Monday. I do not like endless scrolling inside of an application, and I also do not want to use a classic menu for this application thats why I was inspired to make something like a pocket knive. It's compact, easy to use and it has a lot of tools.
+
 ### Make
+
 
 
 ### Check
@@ -65,6 +67,10 @@ Vrijdag ochtend presenteren
 Na inloggen notivacaties zien, ongelezen notivicaties bovenaan en dikgedrukt met bolletjes. verschil tussen urgent en niet urgent (rooster wijziging en toets later in de maand). 
 
 Eerste keer doorgelinkt een uitleg daarna een I voor info (denk aan u verlaat deze site, maar dan met wat het is)
+
+Open in nieuw tab, niet opniew inloggen
+
+
 
 
 
