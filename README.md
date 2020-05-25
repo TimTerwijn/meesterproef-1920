@@ -58,20 +58,22 @@ We had a meeting with the guys from GGO (Goed Georganiseerd Onderwijs), they tol
 They said it is important to figure out how to design the web page with all the features in mind. So the first thing I am going to do for this project is to create a wireframe I can present next Monday. I do not like endless scrolling inside of an application, and I also do not want to use a classic menu for this application thats why I was inspired to make something like a pocket knive. It's compact, easy to use and it has a lot of tools.
 
 ### Make
+As you can see in figure one, my prototype is based on a pocket knife. You can use one of the buttons on the left part of the sceen to open a tab on the right part of the screen. It is possible to read your Schedule, Grades or Education Progress with the bigger buttons in the top left. The smaller buttons in the bottom left are links to other HvA tools.  
 
+And of course as you can see in figure two, it is also possible to visit the site on your mobile phone. The right part of the screen dissapears and when you use one of the buttons you eigther open the Schedule, Grades or Education Progress page or when you use the smaller buttons, you are send to the other HvA tools.  
 
+![Desktop prototype](docs/img/desktop-prototype1.PNG "Desktop prototype")  
+Figure 1: My first desktop prototype.  
+
+![Mobile prototype](docs/img/mobile-prototype1.PNG "Desktop prototype")  
+Figure 2: My first mobile prototype.  
 
 ### Check
-Vrijdag ochtend presenteren
+So today we had the first demo, I presented my work to the product owners and a lot of students. I gained a lot of usefull information what they would like in the app. First of all it is importand to see your notivications when you visit the page. The students also wants their unread notivations on top of the list, bolt and maybe some bulbs. There must also be a diffrence between urgend and normal notivications. Urgent notivications are notivications like last minute schedule changes.  
 
-Na inloggen notivacaties zien, ongelezen notivicaties bovenaan en dikgedrukt met bolletjes. verschil tussen urgent en niet urgent (rooster wijziging en toets later in de maand). 
+Students also want a pupup when they are leaving the site trough a link for the first time. In this pupup they want information of what they are about to visit. If they procede the message is never shown again. You can see this information again when you press the I next to the link. If you do not procede, the popup is shown again when you press the link. After you procede a page is opened in a new tab. It is important that an user does not have to log in again in the opened webpage.
 
-Eerste keer doorgelinkt een uitleg daarna een I voor info (denk aan u verlaat deze site, maar dan met wat het is)
-
-Open in nieuw tab, niet opniew inloggen
-
-
-
+### Think
 
 
 ## Reflection
