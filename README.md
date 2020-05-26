@@ -74,7 +74,16 @@ So today we had the first demo, I presented my work to the product owners and a 
 Students also want a pupup when they are leaving the site trough a link for the first time. In this pupup they want information of what they are about to visit. If they procede the message is never shown again. You can see this information again when you press the I next to the link. If you do not procede, the popup is shown again when you press the link. After you procede a page is opened in a new tab. It is important that an user does not have to log in again in the opened webpage.
 
 Students also like to have access to mail, but it is not so important. It is okay to link to the webmail of the HvA.  
+
 ### Think
+As I said above I need to make some changes to my prototype. First of all, when a user visit the main paige, he sees his notivications. I would also like to add some breadcrumbs where users can see where they are on the website and it is posible to go back to the main page quickly. Unreaded notivication are bolt and on top of the page, and urgent notivications have a red exclamation mark.
+
+When an user clicks one of the buttons for the first time he gets a pupup with the information of that functionality when he accepts the functionality is shown, else he returns to the last screen. If an functionality is accepted the popup is never shown again unless you press the I next to a functionality button on the left side of the screen.
+
+Lastly I want to add the mail to the less important buttons.
+
+### Make
+
 
 
 ## Reflection
