@@ -13,10 +13,10 @@ The GGO has already researched a bit what they and their users want for this stu
 * Course info
 * Grades
 * Education Progress
-* Urgent
-* Statements
+* Urgent statements
 
 ##### Secondary information
+* Statements
 * Team sites
 * Teacher contact information
 * Events
