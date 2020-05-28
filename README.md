@@ -80,7 +80,13 @@ As I said above I need to make some changes to my prototype. First of all, when 
 
 When an user clicks one of the buttons for the first time he gets a pupup with the information of that functionality when he accepts the functionality is shown, else he returns to the last screen. If an functionality is accepted the popup is never shown again unless you press the I next to a functionality button on the left side of the screen.
 
-Lastly I want to add the mail to the less important buttons.
+And I also want to add the mail to the less important buttons.
+
+Some time later I received a mail from Sevval with extra feedback form the students. They gave me the following feedback:
+* They want a swipe function to split the homepage of the mobile version in two parts.
+* The students want to customize their page so they can decide what is importand and whats not for them self.
+* News and Notifications need some icon with a number to show how much unreaded things their are.
+* One student wanted a name, email and phone number of the teacher in schegual. But I think Name is enough because they can find the teacher inside contacts. 
 
 ### Make
 
@@ -92,3 +98,4 @@ Lastly I want to add the mail to the less important buttons.
 I talked with Janno about my issue that I would not like to use a server and a real time application. Because I think the product owner does not need one for his requirements. Also I think I can learn the most as an ICT student if I fucus on the UX part of this project. Janno told me that I could focus on the WAFS, BT and PWA courses by using a client side app with JSON with three layers and faster loading. But I have to ask Koop and Joost first to be sure if it is okay. He also mentioned that it would be cool to make use of progressive disclosure, I told him about my pocket knive choices and that I already unintentional made use of it. But I am going definitely reasearch progressive disclosure in a few days.  
 
 #### Design
+I talked with Koop about my designs. He told me that it was useless to test the way I am testing now. I should let the students test my work. This is something I am going to do tomorrow by letting the users downloading a PDF. He also told me that the pocketknive type of prototype most of the times is not going to work. However the demo is tomorrow so I have deceided to let my users deceide if they think the prototype is not helpfull. I also asked Koop about the server, but he wanted to make a diffrent meeting for that.
