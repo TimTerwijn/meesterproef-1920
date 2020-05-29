@@ -88,9 +88,19 @@ Some time later I received a mail from Sevval with extra feedback form the stude
 * News and Notifications need some icon with a number to show how much unreaded things their are.
 * One student wanted a name, email and phone number of the teacher in schegual. But I think Name is enough because they can find the teacher inside contacts. 
 
-### Make
+### Make !!!!! todo
+As you can see in figure one, my prototype is based on a pocket knife. You can use one of the buttons on the left part of the sceen to open a tab on the right part of the screen. It is possible to read your Schedule, Grades or Education Progress with the bigger buttons in the top left. The smaller buttons in the bottom left are links to other HvA tools.  
 
+And of course as you can see in figure two, it is also possible to visit the site on your mobile phone. The right part of the screen dissapears and when you use one of the buttons you eigther open the Schedule, Grades or Education Progress page or when you use the smaller buttons, you are send to the other HvA tools.  
 
+![Desktop prototype](docs/img/desktop-prototype1.PNG "Desktop prototype")  
+Figure 1: My first desktop prototype.  
+
+![Mobile prototype](docs/img/mobile-prototype1.PNG "Desktop prototype")  
+Figure 2: My first mobile prototype.  
+
+### Check
+Today I splitted my demo in three parts. First of all I wanted to ask the student some questions about their wishes. Secondly because Koop gave me the feedback that I needed
 
 ## Reflection
 ### Week 2
