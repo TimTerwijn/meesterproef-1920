@@ -117,9 +117,17 @@ Also they wanted the app to be customizable. They want to chose what tool is imp
 
 On the app side it is hard to know that there is a swipe function in the menu thats why I need some kind of indicator. Like bubbles thats instagram uses.
 
-Lastly the info button must become red if someone has seen its information. And they should only open when someone press them, not when you open the tool for the first time.
+Lastly the info button must become black if someone has seen its information. And they should only open when someone press them, not when you open the tool for the first time.
 
 ### Think
+First of all, I believe it is not smart to show all the information of the the teacher inside the schedule. The container has only space for one more piece of text. I want to make it this whay that if you click on an item in the schedule you see more, like information about the teacher.
+
+Secondly, I think the customization should be a button inside the less importand tools, here you have all the options like customizing your home screen.
+
+Thirdly, to split of news, I want to make a menu in the top part of the news tool, here you can select each of the 4 categories.
+
+### Make
+
 
 ## Reflection
 ### Week 2
