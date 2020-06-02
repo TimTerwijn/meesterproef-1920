@@ -88,19 +88,38 @@ Some time later I received a mail from Sevval with extra feedback form the stude
 * News and Notifications need some icon with a number to show how much unreaded things their are.
 * One student wanted a name, email and phone number of the teacher in schegual. But I think Name is enough because they can find the teacher inside contacts. 
 
-### Make !!!!! todo
-As you can see in figure one, my prototype is based on a pocket knife. You can use one of the buttons on the left part of the sceen to open a tab on the right part of the screen. It is possible to read your Schedule, Grades or Education Progress with the bigger buttons in the top left. The smaller buttons in the bottom left are links to other HvA tools.  
+### Make
+As you can see the figures below, I made some changes and added some pages. Now you can see the notivications, news, result and schedule page. I also added some icons and a gray background with a coloured icon to the selected page. And as you can see in figure 3, 4 and 5 the newest item is on top except for unread items, those are higer and the urgent messages are on top of that.
 
-And of course as you can see in figure two, it is also possible to visit the site on your mobile phone. The right part of the screen dissapears and when you use one of the buttons you eigther open the Schedule, Grades or Education Progress page or when you use the smaller buttons, you are send to the other HvA tools.  
+You can also see the i in each tool button for information and a number if there are unread items inside a tool.
 
-![Desktop prototype](docs/img/desktop-prototype1.PNG "Desktop prototype")  
-Figure 1: My first desktop prototype.  
+![Desktop prototype](docs/img/prototype2-home.PNG "Desktop prototype")  
+Figure 3: The home and notivcations page of the second prototype.
+
+![Desktop prototype](docs/img/prototype2-nieuws.PNG "Desktop prototype")  
+Figure 4: The news page of the second prototype.
+
+![Desktop prototype](docs/img/prototype2-results.PNG "Desktop prototype")  
+Figure 5: The result page of the second prototype.  
+
+![Desktop prototype](docs/img/prototype2-rooster.PNG "Desktop prototype")  
+Figure 6: The schedule page of the second prototype.    
 
 ![Mobile prototype](docs/img/mobile-prototype1.PNG "Desktop prototype")  
-Figure 2: My first mobile prototype.  
+Figure 7: The second mobile prototype.  
 
 ### Check
-Today I splitted my demo in three parts. First of all I wanted to ask the student some questions about their wishes. Secondly because Koop gave me the feedback that I needed
+Today I splitted my demo in three parts. First of all I wanted to ask the student some questions about their wishes from last week. Secondly I wanted to let a student test my app by him self because Koop gave me feedback that I should not present my prototypes. And lastly I presented the things the student had not tested of my prototype.
+
+I wanted to know why the students want their teachers information inside their schedule because there is a teacher contact button. But they told me that sometimes the information is outdated and they would like to see the teacher information as quickly as possible. 
+
+Also they wanted the app to be customizable. They want to chose what tool is important for them and what is not. But it does not have any priority. News must be spitted into 4 categories: "opleiding (oc), vakeltijd stud (fmr) , hva breed (cvbr) and medezegingscahap".
+
+On the app side it is hard to know that there is a swipe function in the menu thats why I need some kind of indicator. Like bubbles thats instagram uses.
+
+Lastly the info button must become red if someone has seen its information. And they should only open when someone press them, not when you open the tool for the first time.
+
+### Think
 
 ## Reflection
 ### Week 2
