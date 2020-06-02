@@ -105,7 +105,7 @@ Figure 5: The result page of the second prototype.
 ![Desktop prototype](docs/img/prototype2-rooster.PNG "Desktop prototype")  
 Figure 6: The schedule page of the second prototype.    
 
-![Mobile prototype](docs/img/mobile-prototype1.PNG "Desktop prototype")  
+![Mobile prototype](docs/img/mobile-prototype2.PNG "Desktop prototype")  
 Figure 7: The second mobile prototype.  
 
 ### Check
