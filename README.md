@@ -135,7 +135,7 @@ I also make some kind of menu as you can see in figure nine tho split the news i
 ![Desktop prototype](docs/img/prototype3-info.PNG "Desktop prototype")  
 Figure 8: Showing the information.  
 
-![Desktop prototype](docs/img/prototype2-nieuws.PNG "Desktop prototype")  
+![Desktop prototype](docs/img/prototype3-nieuws.PNG "Desktop prototype")  
 Figure 9: The news page of the third prototype.
 
 ## Reflection
