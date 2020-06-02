@@ -127,7 +127,16 @@ Secondly, I think the customization should be a button inside the less importand
 Thirdly, to split of news, I want to make a menu in the top part of the news tool, here you can select each of the 4 categories.
 
 ### Make
+As you can see in figure eight I added a speech bubble when someone presses the I button, after the user clicks anywhere it disapears and the I button gets disabled by changing to black. 
 
+I also make some kind of menu as you can see in figure nine tho split the news into four parts. I do not know how to split them because I can't find anything in the JSON for now, but it is nice to show something new to the students.  
+
+
+![Desktop prototype](docs/img/prototype3-info.PNG "Desktop prototype")  
+Figure 8: Showing the information.  
+
+![Desktop prototype](docs/img/prototype2-nieuws.PNG "Desktop prototype")  
+Figure 9: The news page of the third prototype.
 
 ## Reflection
 ### Week 2
