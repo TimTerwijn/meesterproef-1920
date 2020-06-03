@@ -145,3 +145,10 @@ I talked with Janno about my issue that I would not like to use a server and a r
 
 #### Design
 I talked with Koop about my designs. He told me that it was useless to test the way I am testing now. I should let the students test my work. This is something I am going to do tomorrow by letting the users downloading a PDF. He also told me that the pocketknive type of prototype most of the times is not going to work. However the demo is tomorrow so I have deceided to let my users deceide if they think the prototype is not helpfull. I also asked Koop about the server, but he wanted to make a diffrent meeting for that.
+
+### Week 3
+#### Code 
+This week I talked again with Janno and I told him that I have a lot to documentate and to prototype. This takes a lot of my time and I do not have the time to write code yet. I asked him if he had any tips for me. He told me that I should tell the product owner that I also have a deadline and I should focus on coding. He also told me that small changes are okay but should not allow big changes. I agreed with him. Later that day I also had a weekly standup with Koop. I told him about my converversation with Janno, but he disagrees. He told me that it is okay if I the product owner would like big changes in the last week because a happy product owner (and students in my case) are important for this project. He also said to me that it was really important that I started coding this week as soon as possible. I asked him if I do not waste a lot of time if I start code now because edditing code takes a lot of time. He did disagrees again, he told me that if I do it right by having a clean html and a css it would not take a lot of time. After that I made the decicion to add the last most important things to the prototype, then start coding as soon as possible.  
+
+#### Design  
+
