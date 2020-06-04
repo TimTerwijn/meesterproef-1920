@@ -1,59 +1,100 @@
 #menu{
     height: 100%;
-    display: grid;
-    place-items: center;
-    /* font-size: 0.9rem; */
 }
 
+/* IE CSS */
 #menu>article{
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    grid-template-rows: auto auto;
-    column-gap: 10px;
-    row-gap: 10px;
-}
-
-#menu>article>section{
-    height: 100px;
-    width: 100px;
-    border: 2px solid black;
-    display: grid;
-    grid-template-columns: 50% 50%;
-    grid-template-rows: 1rem auto 1.35rem;
-    padding: 3px;
-}
-
-#menu>article>section>div:nth-child(1){
-    color: red;
-}
-
-#menu>article>section>div:nth-child(2){
-
-}
-
-#menu>article>section>div:nth-child(2)>p{
-    float: right;
     text-align: center;
-    background-color: red;
-    width: 1rem;
-    border-radius: 72%;
-    color: white;
-    font-size: 14px;
-    /* padding-left: 2px; */
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
-#menu>article>section>div:nth-child(3){
-    grid-column-end: span 2;
-    display: grid;
+#menu p, #menu i{
+    display: none;
 }
 
-#menu>article>section>div:nth-child(3)>i{
-    font-size: 54px;
-    justify-self: center;
+/* show only text */
+#menu a>div:nth-child(4)>p{
+    display: block;
 }
 
-#menu>article>section>div:nth-child(4){
-    grid-column-end: span 2;
-    text-align: center;
-    font-size: 0.78rem;
+@supports (display: grid) {
+    /* remove IE styles */
+    #menu>article{
+        text-align: initial;
+        position: initial;
+        top: initial;
+        -webkit-transform: translateY(0);
+        -ms-transform: translateY(0);
+        transform: translateY(0);
+    }
+
+    #menu p, #menu i{
+        display: initial;
+    }
+
+    /* Acutal css */
+    #menu{
+        display: grid;
+        place-items: center;
+    }
+
+    #menu>article{
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        grid-template-rows: auto auto;
+        column-gap: 10px;
+        row-gap: 10px;
+    }
+
+    #menu>article>a{
+        height: 100px;
+        width: 100px;
+        border: 2px solid black;
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-rows: 1rem auto 1.35rem;
+        padding: 3px;
+        color: black;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+    #menu>article>a>div:nth-child(1){
+        color: red;
+    }
+
+    #menu>article>a>div:nth-child(2){
+
+    }
+
+    #menu>article>a>div:nth-child(2)>p{
+        float: right;
+        text-align: center;
+        background-color: red;
+        width: 1rem;
+        border-radius: 72%;
+        color: white;
+        font-size: 14px;
+        /* padding-left: 2px; */
+    }
+
+    #menu>article>a>div:nth-child(3){
+        grid-column-end: span 2;
+        display: grid;
+    }
+
+    #menu>article>a>div:nth-child(3)>i{
+        font-size: 54px;
+        justify-self: center;
+    }
+
+    #menu>article>a>div:nth-child(4){
+        grid-column-end: span 2;
+        text-align: center;
+        font-size: 0.78rem;
+    }
 }
