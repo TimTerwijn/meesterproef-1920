@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "status": "200",
+        "message": "OK",
+        "totalItems": 1,
+        "totalPages": 1,
+        "pageSize": 1,
+        "integrationLatency": "380"
+    },
+    "_embedded": {
+        "items": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/persons/me/527434829"
+                    }
+                },
+                "personId": "527434829",
+                "givenName": "Kees",
+                "surnamePrefix": "",
+                "surname": "Tasnee",
+                "displayName": "Kees Tasnee",
+                "dateOfBirth": "1982-04-11",
+                "affiliations": [
+                    "student"
+                ],
+                "initials": "H"
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "/v2/persons/me/527434829"
+        }
+    }
+}

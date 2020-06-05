@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "status": "200",
+        "message": "OK",
+        "took": "6353",
+        "totalItems": 14,
+        "totalPages": 2,
+        "pageSize": 10
+    },
+    "_embedded": {
+        "items": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/652afc86-8a4a-4052-b1e5-b462a6656e54?newsFeed=announcements"
+                    }
+                },
+                "newsItemId": "652afc86-8a4a-4052-b1e5-b462a6656e54",
+                "title": "Multimedia & Ondernemen",
+                "content": "<div class=\"ExternalClass8898A6ECC3F2459F843E559EAFC057BF\"><p>​De opdracht graag in 1 document per duo&#160;uploaden in dropbox. Deadline vr. 26 jan.&#160;Richtlijnen voor het inleveren&#160;van de verschillende onderdelen&#160;vind&#160;je op de beoordelingsformulieren&#160;​onder&#160;randvoorwaarden.&#160;​Succes!</p></div>",
+                "publishDateTime": "2018-01-11T13:59:00",
+                "lastModified": null,
+                "urgent": false,
+                "tags": []
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/66b18318-3389-40b7-be3d-54b1163de848?newsFeed=announcements"
+                    }
+                },
+                "newsItemId": "66b18318-3389-40b7-be3d-54b1163de848",
+                "title": "werkcollege 7 proeftoets",
+                "content": "<div class=\"ExternalClassB8855AE57ADC40AAB2EE3910377F231E\"><p>​Beste studenten, </p><p>Werkcollege 7, proeftoets Health and Diet wordt vanmiddag om 15.00uur aan beide klassen&#160; (A en B) gezamelijk aangeboden.</p><p>E.e.a. heeft te maken met het lokaal B030 wat&#160;geen goed lokaal is om een toets te doen.</p><p>We zitten vanmiddag in lokaal A4.34. De proef toets wordt nabesproken. De uitleg komt NIET op mijnHvA.</p><p>Het spijt me dat de les die voor klas 33A&#160;nog staat op vrijdag de 12e &#160;niet weggehaald kan worden, deze gaat in ieder geval NIET door.</p><p>groet</p><p>Jacqueline &#160;</p></div>",
+                "publishDateTime": "2018-01-11T08:37:00",
+                "lastModified": null,
+                "urgent": true,
+                "tags": []
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/491d1567-956b-4430-9d29-3826210e6a54?newsFeed=announcements"
+                    }
+                },
+                "newsItemId": "491d1567-956b-4430-9d29-3826210e6a54",
+                "title": "Psychologie van het eten",
+                "content": "<div class=\"ExternalClassAD185144539344AEA4F7CC27A4A48D43\"><p>​<font size=\"2\" face=\"Tahoma\" color=\"black\"><span dir=\"ltr\" style=\"font-size&#58;10pt;\"><div style=\"margin-top&#58;0px;margin-bottom&#58;0px;\">Beste studenten,</div></span></font></p><font size=\"2\" face=\"Tahoma\" color=\"black\"><span dir=\"ltr\" style=\"font-size&#58;10pt;\"><br/><div style=\"margin-top&#58;0px;margin-bottom&#58;0px;\">De honoursmodule ‘Psychologie<br/> van het eten’ vindt plaats in blok 3 en 4 en start begin februari. Heb <br/>je interesse? Meld je dan snel aan, want er zijn maar een beperkt aantal<br/> plaatsen. Zie bijlage voor meer info over<br/>het programma. Graag aanmelding via Hanna Zijlstra, <a href=\"https&#58;//webmail.hva.nl/owa/a.pruiksma%40hva.nl/redir.aspx?C=_Yoc6dmOxNS0kNd0lv7OIiRxptEf52fKUByB8-yjC-4xK3zOV1jVCA..&amp;URL=mailto&#58;j.w.zijlstra%40hva.nl\" target=\"_blank\">j.w.zijlstra@hva.nl</a>&#160; </div></span></font></div>",
+                "publishDateTime": "2018-01-10T18:29:00",
+                "lastModified": null,
+                "urgent": false,
+                "tags": []
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/27fab60d-af30-4064-9ce4-e5e28473638c?newsFeed=announcements"
+                    }
+                },
+                "newsItemId": "27fab60d-af30-4064-9ce4-e5e28473638c",
+                "title": "Oefentoets opnieuw open",
+                "content": "<div class=\"ExternalClass8D6CBCFD36CE4C68BCF91427BDD9EA96\"><p>​Beste studenten,</p><p>De oefentoets staat nogmaals open om te oefenen voor de herkansing. Let op&#58; de oefentoets gaat alleen over hoofdstuk 1 t/m 4 en de echte toets over alle toetsstof.</p><p>De link naar de testvision, het programma waarin de toets gemaakt is, is&#58;<span lang=\"NL\" style=\"font-family&#58;&quot;calibri&quot;,sans-serif;font-size&#58;11pt;\"><a href=\"https&#58;//hva.testvision.nl/online/fe/login_tva.htm\" target=\"_blank\"><span style=\"font-family&#58;&quot;tahoma&quot;,sans-serif;font-size&#58;10pt;\">https&#58;//hva.testvision.nl/online/fe/login_tva.htm</span></a></span><span lang=\"NL\"></span></p><p>Kies voor de optie&#58; aanmelden via applicatie en aanmelden via surfconnext.</p><p>De antwoorden staan bij het studiemateriaal. Daar staat ook de casus van de chauffeurs, die kun je ook nogmaals maken om te oefenen.<br></p><p>Vriendelijke groet,</p><p>Yvonne Booij</p></div>",
+                "publishDateTime": "2018-01-09T14:29:00",
+                "lastModified": null,
+                "urgent": false,
+                "tags": []
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/b6222918-9369-4225-9248-8b28776b984e?newsFeed=announcements"
+                    }
+                },
+                "newsItemId": "b6222918-9369-4225-9248-8b28776b984e",
+                "title": "Twitteraccount @HvA student opgeheven",
+                "content": "<div class=\"ExternalClass83B9704A090442BDABC07F4BCFF53771\"><p>​Het twitteraccount @HvA_student is opgeheven. Volg voortaan @HvA voor informatie over de HvA.</p></div>",
+                "publishDateTime": "2018-01-09T11:23:00",
+                "lastModified": null,
+                "urgent": false,
+                "tags": [
+                    "Student"
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/0e33d5c5-83ab-4668-830e-1fb3ae6a318f?newsFeed=announcements"
+                    }
+                },
+                "newsItemId": "0e33d5c5-83ab-4668-830e-1fb3ae6a318f",
+                "title": "Update beveiligingslekken processoren",
+                "content": "<div class=\"ExternalClass336B743221BC48A49605A49CB671C4C5\"><p>​Door ICTS beheerde systemen en apparaten</p><p>ICTS voert de updates van door hen beheerde apparatuur en systemen in de loop van de komende twee weken zo snel mogelijk door. Niet alle updates komen echter tegelijk beschikbaar, de updates zullen daarom gefaseerd plaatsvinden.</p><h4>Wat merk je daarvan?</h4><p>We verwachten dat eindgebruikers geen hinder zullen ondervinden van de updates.</p><h4>Wat kun je zelf doen?</h4><p>Installeer updates voor apparaten die je zelf beheert (zoals bijvoorbeeld je mobiele telefoon en eigen laptop), zoals je dat gewend bent. De meeste apparaten geven automatisch een melding wanneer er een nieuwe update beschikbaar is. Apple, Microsoft en Intel werken nog aan deze update, het zal dus enkele dagen duren voor deze beschikbaar is.</p><h4>Vragen?</h4><p>Met vragen kun je je wenden tot de ICTS Servicedesk&#58; +31 (0)20 525 1402.</p></div>",
+                "publishDateTime": "2018-01-08T15:55:00",
+                "lastModified": null,
+                "urgent": false,
+                "tags": [
+                    "Gast, Medewerker, Student"
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/69a9e57a-721b-4972-bcf6-1ebedb6f916c?newsFeed=announcements"
+                    }
+                },
+                "newsItemId": "69a9e57a-721b-4972-bcf6-1ebedb6f916c",
+                "title": "Informatie: Aanmelding hertentamen Kritisch redeneren",
+                "content": "<div class=\"ExternalClassD300BAD2639143E99E9BCFBA3C4CB161\">Beste student,<p>Hierbij ontvang je&#160;alvast de&#160;Aanmelding van de toetscasus&#160;voor het&#160;hertentamen dat op 23 januari 2019 zal plaatsvinden.&#160;Op 23 januari&#160;ontvang je aanvullende informatie om de casus verder uit te werken.</p><p>Tijdens het gehele hertentamen mag je <span lang=\"NL\" style=\"text-decoration&#58;underline;\">de meegebrachte informatiebronnen</span> zoals boeken, samenvattingen, prints en dergelijke gebruiken. Deze informatie is persoonlijk en mag tijdens het&#160;hertentamen NIET uitgewisseld worden met medestudenten. Er mag geen gebruik gemaakt worden van digitale informatiebronnen zoals laptop, telefoon, smartwatches etc.</p><p>&#160;</p><p>Heel veel succes!<a href=\"/studiedelen/fbsv-3000HPKR17-3000DKLR17/1718/PublishingImages/Lists/Aankondigingen/Huidige%20mededelingen/aanmelding%20student%20Herkansing%20KR%20januari%202018%20doc.docx\"><img width=\"16\" height=\"16\" class=\"ms-asset-icon ms-rtePosition-4\" src=\"/_layouts/15/images/icdocx.png\" alt=\"\" />aanmelding student Herkansing KR januari 2018 doc.docx</a></p><p>Docenten Kritisch Redeneren <span aria-hidden=\"true\"></span></p></div>",
+                "publishDateTime": "2018-01-08T12:31:00",
+                "lastModified": null,
+                "urgent": false,
+                "tags": []
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/16b909c6-89e7-4478-bd30-943240314f78?newsFeed=announcements"
+                    }
+                },
+                "newsItemId": "16b909c6-89e7-4478-bd30-943240314f78",
+                "title": "Informatie: hertentamen toets kritisch redeneren",
+                "content": "<div class=\"ExternalClass00FF94F5C732459EB104DFDBB83245BF\"><p>​</p>Beste student,<p>Hierbij ontvang je&#160;alvast de&#160;Aanmelding van de toetscasus&#160;voor het&#160;hertentamen dat op 23 januari 2019 zal plaatsvinden.&#160;Op 23 januari&#160;ontvang je aanvullende informatie om de casus verder uit te werken.</p><p>Tijdens het gehele hertentamen mag je <span lang=\"NL\" style=\"text-decoration&#58;underline;\">de meegebrachte informatiebronnen</span> zoals boeken, samenvattingen, prints en dergelijke gebruiken. Deze informatie is persoonlijk en mag tijdens het&#160;hertentamen NIET uitgewisseld worden met medestudenten. Er mag geen gebruik gemaakt worden van digitale informatiebronnen zoals laptop, telefoon, smartwatches etc.<a href=\"/studiedelen/fbsv-3000DKLR17/1718/PublishingImages/Lists/Aankondigingen/Huidige%20mededelingen/aanmelding%20student%20Herkansing%20KR%20januari%202018%20doc.docx\"><img width=\"16\" height=\"16\" class=\"ms-asset-icon ms-rtePosition-4\" src=\"/_layouts/15/images/icdocx.png\" alt=\"\" />aanmelding student Herkansing KR januari 2018 doc.docx</a></p><p>&#160;</p><p>Heel veel succes!</p><p>Docenten Kritisch Redeneren <span aria-hidden=\"true\"></span></p></div>",
+                "publishDateTime": "2018-01-08T12:28:00",
+                "lastModified": null,
+                "urgent": false,
+                "tags": []
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/41e731c2-dbde-49cc-800d-a53b7d27d638?newsFeed=announcements"
+                    }
+                },
+                "newsItemId": "41e731c2-dbde-49cc-800d-a53b7d27d638",
+                "title": "Beveiligingslekken processoren: update apparaten noodzakelijk",
+                "content": "<div class=\"ExternalClass2879E16298444992824A995C412F5BA9\"><p>​De mogelijke gevolgen hiervan worden op dit moment nog onderzocht. Er zijn vooralsnog geen aanwijzingen dat het lek misbruikt wordt. De fabrikanten werken aan updates om deze beveiligingslekken te dichten.</p><p><strong>Wat kun je zelf doen?</strong></p><p>Installeer updates voor apparaten die je zelf beheert (zoals bijvoorbeeld je mobiele telefoon en eigen laptop), zoals je dat gewend bent. De meeste apparaten geven automatisch een melding wanneer er een nieuwe update beschikbaar is. Apple, Microsoft en intel werken nog aan deze update, het zal dus enkele dagen duren voor deze beschikbaar is. </p><p><strong>Door ICTS beheerde apparaten</strong></p><p>De updates van door ICTS beheerde apparatuur verzorgt ICTS. Zodra de updates die de beveiligingslekken dichten beschikbaar zijn, zal ICTS deze doorvoeren. Maandag aanstaande geeft ICTS een update met betrekking tot de voortgang en ontwikkelingen. </p><p>Met vragen kun je je wenden tot de ICTS Servicedesk&#58; +31 (0)20 525 1402. </p></div>",
+                "publishDateTime": "2018-01-05T14:00:00",
+                "lastModified": null,
+                "urgent": false,
+                "tags": [
+                    "Gast, Medewerker, Student"
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/f256d8a3-bc0e-4587-9305-35621bc32ee5?newsFeed=announcements"
+                    }
+                },
+                "newsItemId": "f256d8a3-bc0e-4587-9305-35621bc32ee5",
+                "title": "Met ICT het onderwijs verbeteren? Doe mee met HvA Grassroots! ",
+                "content": "<div class=\"ExternalClass2A135C1F3D0B4BB7B113592918CB89C6\"><p>Zo gaat de opleiding Forensisch Onderzoek van de Faculteit Techniek een 360 graden camera gebruiken om beelden te maken van een oefen-plaats delict en wordt een feedback-applicatie ingezet om de taalvaardigheid van studenten van de opleiding Leraar Geschiedenis te verbeteren. </p><p><strong>Voorwaarden</strong></p><p>Om kans te maken op 1.000 euro om jouw idee uit te voeren moet het in ieder geval voldoen aan de volgende voorwaarden&#58;</p><ul style=\"list-style-type&#58;disc;\"><li>Het is direct inzetbaar in het onderwijs.</li><li>Je idee maakt gebruik van een ICT-toepassing.</li></ul><p><strong>Meer informatie</strong></p><p>Voor meer informatie, inspiratie en om je alvast in te schrijven, ga je naar <a href=\"http&#58;//www.hva.nl/etalage/etalagesites/hva-in-de-etalage/hva-in-de-etalage/content/folder/grassroots/grassroots.html\">hva.nl/grassroots</a>. </p></div>",
+                "publishDateTime": "2018-01-03T13:11:00",
+                "lastModified": null,
+                "urgent": false,
+                "tags": [
+                    "Gast, Medewerker, Student"
+                ]
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "/v2/news-items/me?pageNumber=0&pageSize=10&principalId=500741127&newsFeed=announcements"
+        },
+        "next": {
+            "href": "/v2/news-items/me?pageNumber=1&pageSize=10&principalId=500741127&newsFeed=announcements"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "status": "200",
+        "message": "OK",
+        "total": "1",
+        "took": "237"
+    },
+    "data": [
+        {
+            "userId": "bheersc1",
+            "studentId": "bheersc1",
+            "username": "Bas Heerschop",
+            "email": "B.Heerschop@uva.nl",
+            "university": "Universiteit van Amsterdam",
+            "universityCode": "UvA",
+            "attributes": [
+                {
+                    "programPlan": [
+                        "0"
+                    ]
+                }
+            ]
+        }
+    ]
+}

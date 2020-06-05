@@ -1,0 +1,310 @@
+{
+    "meta": {
+        "status": "200",
+        "message": "OK",
+        "totalItems": 179,
+        "totalPages": 6,
+        "pageSize": 30,
+        "integrationLatency": "823"
+    },
+    "_embedded": {
+        "items": [
+            {
+                "testResultId": "4A66AE50-A",
+                "description": "4,8",
+                "assessmentType": "Paper",
+                "testDate": "2017-10-20T00:00:00+02:00",
+                "grade": "4,8",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2017",
+                "academicYearId": "2172",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "3017HPMVPA",
+                        "title": "Man. Vaardigheden 5.1, pa",
+                        "level": "Bachelor",
+                        "id": "Man. Vaardigheden 5.1, pa",
+                        "href": null
+                    }
+                }
+            },
+            {
+                "testResultId": "812A72DA-0",
+                "description": "-",
+                "assessmentType": "- Clus/o1h",
+                "testDate": "2017-10-20T00:00:00+02:00",
+                "grade": "-",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2017",
+                "academicYearId": "8888",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "3000HPMV17",
+                        "title": "Managementvaardigheden 5.1",
+                        "level": "Bachelor",
+                        "id": "Managementvaardigheden 5.1",
+                        "href": null
+                    }
+                }
+            },
+            {
+                "testResultId": "7F61A463-2",
+                "description": "6,3",
+                "assessmentType": "Opdracht",
+                "testDate": "2017-07-11T00:00:00+02:00",
+                "grade": "6,3",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2016",
+                "academicYearId": "2160",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "2016HW42OP",
+                        "title": "Werken met groep 4.2, op",
+                        "level": "Bachelor",
+                        "id": "Werken met groep 4.2, op",
+                        "href": null
+                    }
+                }
+            },
+            {
+                "testResultId": "9D6BD172-A",
+                "description": "vold.",
+                "assessmentType": "Toets prak",
+                "testDate": "2017-07-11T00:00:00+02:00",
+                "grade": "V",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2016",
+                "academicYearId": "2162",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "2016HW42PR",
+                        "title": "Werken met groep 4.2, pr",
+                        "level": "Bachelor",
+                        "id": "Werken met groep 4.2, pr",
+                        "href": null
+                    }
+                }
+            },
+            {
+                "testResultId": "BA94EEB4-C",
+                "description": "6",
+                "assessmentType": "- Clus/o1h",
+                "testDate": "2017-07-11T00:00:00+02:00",
+                "grade": "6",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2016",
+                "academicYearId": "8888",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "2000HW4216",
+                        "title": "Werken met groepen 4.2",
+                        "level": "Bachelor",
+                        "id": "Werken met groepen 4.2",
+                        "href": null
+                    }
+                }
+            },
+            {
+                "testResultId": "61997997-4",
+                "description": "geen res.",
+                "assessmentType": "- Clus/o1h",
+                "testDate": "2017-07-05T00:00:00+02:00",
+                "grade": "GR",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2016",
+                "academicYearId": "2162",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "2000VKV116",
+                        "title": "Vrije keuzepunt",
+                        "level": "Bachelor",
+                        "id": "Vrije keuzepunt",
+                        "href": null
+                    }
+                }
+            },
+            {
+                "testResultId": "0B51ABC4-C",
+                "description": "7,9",
+                "assessmentType": "Toets schr",
+                "testDate": "2017-07-05T00:00:00+02:00",
+                "grade": "7,9",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2016",
+                "academicYearId": "2162",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "2016HM42TS",
+                        "title": "Management 4.2, ts",
+                        "level": "Bachelor",
+                        "id": "Management 4.2, ts",
+                        "href": null
+                    }
+                }
+            },
+            {
+                "testResultId": "14D3825B-4",
+                "description": "8",
+                "assessmentType": "- Clus/o1h",
+                "testDate": "2017-07-05T00:00:00+02:00",
+                "grade": "8",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2016",
+                "academicYearId": "8888",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "2000HM4216",
+                        "title": "Management 4.2",
+                        "level": "Bachelor",
+                        "id": "Management 4.2",
+                        "href": null
+                    }
+                }
+            },
+            {
+                "testResultId": "31910305-C",
+                "description": "5,8",
+                "assessmentType": "Toets schr",
+                "testDate": "2017-07-03T00:00:00+02:00",
+                "grade": "5,8",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2016",
+                "academicYearId": "2162",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "2016HOVOTS",
+                        "title": "Onderv.& voedselovergev.4.2,ts",
+                        "level": "Bachelor",
+                        "id": "Onderv.& voedselovergev.4.2,ts",
+                        "href": null
+                    }
+                }
+            },
+            {
+                "testResultId": "598B8491-F",
+                "description": "vold.",
+                "assessmentType": "Toets schr",
+                "testDate": "2017-07-03T00:00:00+02:00",
+                "grade": "V",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2016",
+                "academicYearId": "2160",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "2016HOVOPR",
+                        "title": "Onderv.& voedselovergev.4.2, p",
+                        "level": "Bachelor",
+                        "id": "Onderv.& voedselovergev.4.2, p",
+                        "href": null
+                    }
+                }
+            },
+            {
+                "testResultId": "82486FD6-0",
+                "description": "7,0",
+                "assessmentType": "Opdracht",
+                "testDate": "2017-07-03T00:00:00+02:00",
+                "grade": "7,0",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2016",
+                "academicYearId": "2160",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "2016HP42OP",
+                        "title": "S S Psychologie. 4.2, op",
+                        "level": "Bachelor",
+                        "id": "S S Psychologie. 4.2, op",
+                        "href": null
+                    }
+                }
+            },
+            {
+                "testResultId": "E889C59C-8",
+                "description": "vold.",
+                "assessmentType": "Toets prak",
+                "testDate": "2017-07-03T00:00:00+02:00",
+                "grade": "V",
+                "comment": null,
+                "passed": null,
+                "academicYear": "2016",
+                "academicYearId": "2160",
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "course": {
+                        "levelId": "10",
+                        "courseCatalogueId": "2016HP42PR",
+                        "title": "S S Psychologie. 4.2, pr",
+                        "level": "Bachelor",
+                        "id": "S S Psychologie. 4.2, pr",
+                        "href": null
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "/v2/test-results/me?pageNumber=1&pageSize=30&principalId=500741127"
+        },
+        "next": {
+            "href": "/v2/test-results/me?pageNumber=2&pageSize=30&principalId=500741127"
+        }
+    }
+}

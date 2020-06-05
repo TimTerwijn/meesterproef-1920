@@ -1,0 +1,604 @@
+{
+    "meta": {
+        "status": "200",
+        "message": "OK",
+        "totalItems": 30,
+        "totalPages": 3,
+        "pageSize": 10,
+        "integrationLatency": "1126"
+    },
+    "_embedded": {
+        "items": [
+            {
+                "scheduleId": "2017sm1prd!0C25D92F8615F0C9A2090DEC7CB2F65F-20171219",
+                "student": "enta",
+                "startDateTime": "2017-12-19T12:00:00+01:00",
+                "endDateTime": "2017-12-19T12:50:00+01:00",
+                "description": "supervision / consultancy",
+                "tags": [
+                    "HvA/Web"
+                ],
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "courses": [
+                        {
+                            "href": null,
+                            "title": "Spreekuur (1216STUDBG)",
+                            "id": "FT/A_1000STUD16_AB"
+                        }
+                    ],
+                    "lecturers": [
+                        {
+                            "href": null,
+                            "title": "M.D. van Houten"
+                        }
+                    ],
+                    "educationalDepartment": {
+                        "title": "Aviation",
+                        "id": null,
+                        "href": null
+                    },
+                    "scheduleFeed": {
+                        "href": "http://mytimetable-acc.hva.nl/ical?5a391b60&eu=ZW50YQ==&h=AIYfpGlAih010M9ocFvwS7rSdvWtbO6XdQVxHGt5a3A="
+                    }
+                },
+                "highlightTag": false,
+                "notes": [
+                    "",
+                    null,
+                    ""
+                ]
+            },
+            {
+                "scheduleId": "2017sm1prd!0C25D92F8615F0C9A2090DEC7CB2F95B-20171220",
+                "student": "enta",
+                "startDateTime": "2017-12-20T10:20:00+01:00",
+                "endDateTime": "2017-12-20T12:00:00+01:00",
+                "description": "lecture",
+                "tags": [
+                    "HvA/Web"
+                ],
+                "_embedded": {
+                    "rooms": [
+                        {
+                            "roomId": "2017sm1prd!LWB D1.18",
+                            "abbreviation": "LWB D1.18",
+                            "name": "LWB D1.18",
+                            "_links": {
+                                "self": {
+                                    "href": null
+                                },
+                                "building": {
+                                    "href": null,
+                                    "title": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "courses": [
+                        {
+                            "href": null,
+                            "title": "2ENG HC CNS/Avionica systemen  (1217ENG4HC)",
+                            "id": "FT/A_12002ENG17_B"
+                        }
+                    ],
+                    "lecturers": [
+                        {
+                            "href": null,
+                            "title": "A. N. Vardy"
+                        }
+                    ],
+                    "educationalDepartment": {
+                        "title": "Aviation",
+                        "id": null,
+                        "href": null
+                    },
+                    "scheduleFeed": {
+                        "href": "http://mytimetable-acc.hva.nl/ical?5a391b60&eu=ZW50YQ==&h=AIYfpGlAih010M9ocFvwS7rSdvWtbO6XdQVxHGt5a3A="
+                    }
+                },
+                "highlightTag": false,
+                "notes": [
+                    "",
+                    null,
+                    ""
+                ]
+            },
+            {
+                "scheduleId": "2017sm1prd!FEF5DD583A3AD3B98C575BF911349652-20171220",
+                "student": "enta",
+                "startDateTime": "2017-12-20T12:00:00+01:00",
+                "endDateTime": "2017-12-20T13:40:00+01:00",
+                "description": "seminar / tutorial",
+                "tags": [
+                    "HvA/Web"
+                ],
+                "_embedded": {
+                    "rooms": [
+                        {
+                            "roomId": "2017sm1prd!LWB C0.62",
+                            "abbreviation": "LWB C0.62",
+                            "name": "LWB C0.62",
+                            "_links": {
+                                "self": {
+                                    "href": null
+                                },
+                                "building": {
+                                    "href": null,
+                                    "title": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "courses": [
+                        {
+                            "href": null,
+                            "title": "Basiswisk. & Integraalrek. Werkcollege 2 (1217WIS2WC)",
+                            "id": "FT/A_1200WISK17_B"
+                        }
+                    ],
+                    "lecturers": [
+                        {
+                            "href": null,
+                            "title": "J.M. Schuurmans"
+                        }
+                    ],
+                    "educationalDepartment": {
+                        "title": "Aviation",
+                        "id": null,
+                        "href": null
+                    },
+                    "scheduleFeed": {
+                        "href": "http://mytimetable-acc.hva.nl/ical?5a391b60&eu=ZW50YQ==&h=AIYfpGlAih010M9ocFvwS7rSdvWtbO6XdQVxHGt5a3A="
+                    }
+                },
+                "highlightTag": false,
+                "notes": [
+                    "",
+                    null,
+                    ""
+                ]
+            },
+            {
+                "scheduleId": "2017sm1prd!0C25D92F8615F0C9A2090DEC7CB2F7D6-20171220",
+                "student": "enta",
+                "startDateTime": "2017-12-20T15:20:00+01:00",
+                "endDateTime": "2017-12-20T17:00:00+01:00",
+                "description": "seminar / tutorial",
+                "tags": [
+                    "HvA/Web"
+                ],
+                "_embedded": {
+                    "rooms": [
+                        {
+                            "roomId": "2017sm1prd!LWB A1.20",
+                            "abbreviation": "LWB A1.20",
+                            "name": "LWB A1.20",
+                            "_links": {
+                                "self": {
+                                    "href": null
+                                },
+                                "building": {
+                                    "href": null,
+                                    "title": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "courses": [
+                        {
+                            "href": null,
+                            "title": "2ENG Werkcollege 1 (1217ENG1WC)",
+                            "id": "FT/A_12002ENG17_B"
+                        }
+                    ],
+                    "lecturers": [
+                        {
+                            "href": null,
+                            "title": "M.J. Pagen"
+                        }
+                    ],
+                    "educationalDepartment": {
+                        "title": "Aviation",
+                        "id": null,
+                        "href": null
+                    },
+                    "scheduleFeed": {
+                        "href": "http://mytimetable-acc.hva.nl/ical?5a391b60&eu=ZW50YQ==&h=AIYfpGlAih010M9ocFvwS7rSdvWtbO6XdQVxHGt5a3A="
+                    }
+                },
+                "highlightTag": false,
+                "notes": [
+                    "",
+                    null,
+                    ""
+                ]
+            },
+            {
+                "scheduleId": "2017sm1prd!0C25D92F8615F0C9A2090DEC7CB2F7FE-20171221",
+                "student": "enta",
+                "startDateTime": "2017-12-21T10:20:00+01:00",
+                "endDateTime": "2017-12-21T12:00:00+01:00",
+                "description": "lecture",
+                "tags": [
+                    "HvA/Web"
+                ],
+                "_embedded": {
+                    "rooms": [
+                        {
+                            "roomId": "2017sm1prd!LWB D1.18",
+                            "abbreviation": "LWB D1.18",
+                            "name": "LWB D1.18",
+                            "_links": {
+                                "self": {
+                                    "href": null
+                                },
+                                "building": {
+                                    "href": null,
+                                    "title": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "courses": [
+                        {
+                            "href": null,
+                            "title": "2ENG HC Elektrische systemen  (1217ENG2HC)",
+                            "id": "FT/A_12002ENG17_B"
+                        }
+                    ],
+                    "lecturers": [
+                        {
+                            "href": null,
+                            "title": "G.M. Falco"
+                        }
+                    ],
+                    "educationalDepartment": {
+                        "title": "Aviation",
+                        "id": null,
+                        "href": null
+                    },
+                    "scheduleFeed": {
+                        "href": "http://mytimetable-acc.hva.nl/ical?5a391b60&eu=ZW50YQ==&h=AIYfpGlAih010M9ocFvwS7rSdvWtbO6XdQVxHGt5a3A="
+                    }
+                },
+                "highlightTag": false,
+                "notes": [
+                    "",
+                    null,
+                    ""
+                ]
+            },
+            {
+                "scheduleId": "2017sm1prd!0C25D92F8615F0C9A2090DEC7CB2F8FF-20171221",
+                "student": "enta",
+                "startDateTime": "2017-12-21T13:40:00+01:00",
+                "endDateTime": "2017-12-21T15:20:00+01:00",
+                "description": "lecture",
+                "tags": [
+                    "HvA/Web"
+                ],
+                "_embedded": {
+                    "rooms": [
+                        {
+                            "roomId": "2017sm1prd!LWB D1.18",
+                            "abbreviation": "LWB D1.18",
+                            "name": "LWB D1.18",
+                            "_links": {
+                                "self": {
+                                    "href": null
+                                },
+                                "building": {
+                                    "href": null,
+                                    "title": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "courses": [
+                        {
+                            "href": null,
+                            "title": "2ENG HC Hydraulische en pneumatische systemen  (1217ENG3HC)",
+                            "id": "FT/A_12002ENG17_B"
+                        }
+                    ],
+                    "lecturers": [
+                        {
+                            "href": null,
+                            "title": "J.T. Hieminga"
+                        }
+                    ],
+                    "educationalDepartment": {
+                        "title": "Aviation",
+                        "id": null,
+                        "href": null
+                    },
+                    "scheduleFeed": {
+                        "href": "http://mytimetable-acc.hva.nl/ical?5a391b60&eu=ZW50YQ==&h=AIYfpGlAih010M9ocFvwS7rSdvWtbO6XdQVxHGt5a3A="
+                    }
+                },
+                "highlightTag": false,
+                "notes": [
+                    "",
+                    null,
+                    ""
+                ]
+            },
+            {
+                "scheduleId": "2017sm1prd!0C25D92F8615F0C9A2090DEC7CB2F8F7-20171221",
+                "student": "enta",
+                "startDateTime": "2017-12-21T15:20:00+01:00",
+                "endDateTime": "2017-12-21T17:00:00+01:00",
+                "description": "seminar / tutorial",
+                "tags": [
+                    "HvA/Web"
+                ],
+                "_embedded": {
+                    "rooms": [
+                        {
+                            "roomId": "2017sm1prd!LWB C1.85",
+                            "abbreviation": "LWB C1.85",
+                            "name": "LWB C1.85",
+                            "_links": {
+                                "self": {
+                                    "href": null
+                                },
+                                "building": {
+                                    "href": null,
+                                    "title": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "courses": [
+                        {
+                            "href": null,
+                            "title": "2ENG Werkcollege 2 (1217ENG2WC)",
+                            "id": "FT/A_12002ENG17_B"
+                        }
+                    ],
+                    "lecturers": [
+                        {
+                            "href": null,
+                            "title": "M.J. Pagen"
+                        }
+                    ],
+                    "educationalDepartment": {
+                        "title": "Aviation",
+                        "id": null,
+                        "href": null
+                    },
+                    "scheduleFeed": {
+                        "href": "http://mytimetable-acc.hva.nl/ical?5a391b60&eu=ZW50YQ==&h=AIYfpGlAih010M9ocFvwS7rSdvWtbO6XdQVxHGt5a3A="
+                    }
+                },
+                "highlightTag": false,
+                "notes": [
+                    "",
+                    null,
+                    ""
+                ]
+            },
+            {
+                "scheduleId": "2017sm1prd!0C25D92F8615F0C9A2090DEC7CB2FAC1-20171222",
+                "student": "enta",
+                "startDateTime": "2017-12-22T12:00:00+01:00",
+                "endDateTime": "2017-12-22T13:40:00+01:00",
+                "description": "seminar / tutorial",
+                "tags": [
+                    "HvA/Web"
+                ],
+                "_embedded": {
+                    "rooms": [
+                        {
+                            "roomId": "2017sm1prd!LWB A7.10",
+                            "abbreviation": "LWB A7.10",
+                            "name": "LWB A7.10",
+                            "_links": {
+                                "self": {
+                                    "href": null
+                                },
+                                "building": {
+                                    "href": null,
+                                    "title": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "courses": [
+                        {
+                            "href": null,
+                            "title": "Basiswisk. & Integraalrek. Werkcollege 3 (1217WIS3WC)",
+                            "id": "FT/A_1200WISK17_B"
+                        }
+                    ],
+                    "lecturers": [
+                        {
+                            "href": null,
+                            "title": "J.M. Schuurmans"
+                        }
+                    ],
+                    "educationalDepartment": {
+                        "title": "Aviation",
+                        "id": null,
+                        "href": null
+                    },
+                    "scheduleFeed": {
+                        "href": "http://mytimetable-acc.hva.nl/ical?5a391b60&eu=ZW50YQ==&h=AIYfpGlAih010M9ocFvwS7rSdvWtbO6XdQVxHGt5a3A="
+                    }
+                },
+                "highlightTag": false,
+                "notes": [
+                    "",
+                    null,
+                    ""
+                ]
+            },
+            {
+                "scheduleId": "2017sm1prd!0C25D92F8615F0C9A2090DEC7CB2F7F6-20171222",
+                "student": "enta",
+                "startDateTime": "2017-12-22T13:40:00+01:00",
+                "endDateTime": "2017-12-22T15:20:00+01:00",
+                "description": "supervision / consultancy",
+                "tags": [
+                    "HvA/Web"
+                ],
+                "_embedded": {
+                    "rooms": [
+                        {
+                            "roomId": "2017sm1prd!LWB A1.20",
+                            "abbreviation": "LWB A1.20",
+                            "name": "LWB A1.20",
+                            "_links": {
+                                "self": {
+                                    "href": null
+                                },
+                                "building": {
+                                    "href": null,
+                                    "title": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "courses": [
+                        {
+                            "href": null,
+                            "title": "2ENG Werkgroep 2 (1217ENG2BG)",
+                            "id": "FT/A_12002ENG17_B"
+                        }
+                    ],
+                    "lecturers": [
+                        {
+                            "href": null,
+                            "title": "H. Nauzadi"
+                        }
+                    ],
+                    "educationalDepartment": {
+                        "title": "Aviation",
+                        "id": null,
+                        "href": null
+                    },
+                    "scheduleFeed": {
+                        "href": "http://mytimetable-acc.hva.nl/ical?5a391b60&eu=ZW50YQ==&h=AIYfpGlAih010M9ocFvwS7rSdvWtbO6XdQVxHGt5a3A="
+                    }
+                },
+                "highlightTag": false,
+                "notes": [
+                    "",
+                    null,
+                    ""
+                ]
+            },
+            {
+                "scheduleId": "2017sm1prd!0C25D92F8615F0C9A2090DEC7CB2F6A5-20180108",
+                "student": "enta",
+                "startDateTime": "2018-01-08T08:30:00+01:00",
+                "endDateTime": "2018-01-08T10:10:00+01:00",
+                "description": "lecture",
+                "tags": [
+                    "HvA/Web"
+                ],
+                "_embedded": {
+                    "rooms": [
+                        {
+                            "roomId": "2017sm1prd!LWB D1.18",
+                            "abbreviation": "LWB D1.18",
+                            "name": "LWB D1.18",
+                            "_links": {
+                                "self": {
+                                    "href": null
+                                },
+                                "building": {
+                                    "href": null,
+                                    "title": null
+                                }
+                            }
+                        }
+                    ]
+                },
+                "_links": {
+                    "self": {
+                        "href": null
+                    },
+                    "courses": [
+                        {
+                            "href": null,
+                            "title": "2ENG HC Ontwerp en onderhoud van systemen  (1217ENG1HC)",
+                            "id": "FT/A_12002ENG17_B"
+                        }
+                    ],
+                    "lecturers": [
+                        {
+                            "href": null,
+                            "title": "J.T. Hieminga"
+                        }
+                    ],
+                    "educationalDepartment": {
+                        "title": "Aviation",
+                        "id": null,
+                        "href": null
+                    },
+                    "scheduleFeed": {
+                        "href": "http://mytimetable-acc.hva.nl/ical?5a391b60&eu=ZW50YQ==&h=AIYfpGlAih010M9ocFvwS7rSdvWtbO6XdQVxHGt5a3A="
+                    }
+                },
+                "highlightTag": false,
+                "notes": [
+                    "",
+                    null,
+                    ""
+                ]
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "/v2/schedules/me?pageNumber=0&pageSize=10&principalId=500741127"
+        },
+        "next": {
+            "href": "/v2/schedules/me?pageNumber=1&pageSize=10&principalId=500741127"
+        }
+    }
+}

@@ -8,24 +8,28 @@
 
 @supports (display: grid) {
     #berichten{
-        display: flex;
+        /* display: flex; */
         padding: 1rem;
         flex-direction: column;
     }
 
     #berichten>article{
-        height: 75px;
+        min-height: 75px;
         width: 100%;
         border: 2px solid black;
         display: grid;
         grid-template-columns: 75px auto;
+        row-gap: 9px;
         margin-bottom: 1rem;
+        padding: 4px 0;
     }
 
     #berichten>article>section{
         font-size: 1.1rem;
         display:grid;
         align-self: center;
+        /* padding: 6px; */
+        padding: 0px 0;
     }
 
     #berichten>article>section:nth-child(1){
@@ -36,7 +40,7 @@
 
     #berichten>article>section:nth-child(1)>p{
         text-align: center;
-        font-size: 3.2rem;
+        font-size: 3.4rem;
         font-weight: bold;
         color: red;
         font-family: cursive;

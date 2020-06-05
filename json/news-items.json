@@ -1,0 +1,499 @@
+{
+    "meta": {
+        "status": "200",
+        "message": "OK",
+        "took": "589",
+        "totalItems": 30,
+        "totalPages": 1,
+        "pageSize": 30
+    },
+    "_embedded": {
+        "items": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/40cfcb21-e793-4987-b575-b940c503b3b0?newsFeed=news"
+                    }
+                },
+                "newsItemId": "40cfcb21-e793-4987-b575-b940c503b3b0",
+                "title": "Denk mee over verdere invulling eten en drinken op jouw campus",
+                "authors": [
+                    "Facility Services"
+                ],
+                "image": "https://hva-nieuws-mededelingen.mijnhva.nl/hva-nieuws/PublishingImages/kto.jpg",
+                "content": "Verse pasta’s, Aziatische maaltijden, duurzaam en gezond. Vanaf 1 januari 2017 is er een divers aanbod eten en drinken op de campussen van de Hogeschool van Amsterdam. <br><p>Sinds de start, nu bijna een jaar geleden, is er veel veranderd. Veel restaurants en coffee corners ondergingen&#160;een kleine of grotere metamorfose en lokale ondernemers in gezellige, hippe tentjes, werken mee aan een nog aantrekkelijker campus.</p><div>De nieuwe invulling van het eten en drinken op de Hogeschool van Amsterdam gaat uit van dynamiek. De komende vier jaar worden continu de ontwikkelingen in de markt gevolgd en – naar wens – doorgevoerd. Studenten en medewerkers zijn en blijven leidend bij de invulling.&#160;</div><h3>Denk mee</h3><div><strong>In de week van 20 tot en met 30 november wordt op de campussen een enquête afgenomen onder studenten en medewerkers om te onderzoeken hoe tevreden jij nu bent, wat jouw ideeën zijn en op welke specifieke onderwerpen de komende periode de focus zou moeten liggen.&#160;</strong></div><div><br><strong>Op basis van de uitkomsten worden voor iedere campus vervolgstappen uitgewerkt.</strong></div><div><br><strong>Ben je niet op een van de campussen op het moment van de enquête? Geen probleem&#58; je vult de enquête ook gemakkelijk&#160; en snel (binnen vijf minuten) digitaal in. Je vindt de enquête op <a href=\"https&#58;//enjoytoday.amsterdam/feedback\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">https&#58;//enjoytoday.amsterdam/feedback</a></strong></div>",
+                "publishDateTime": "2017-11-21T15:40:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/dde35eaf-23a8-498d-a07d-dadd74117125?newsFeed=news"
+                    }
+                },
+                "newsItemId": "dde35eaf-23a8-498d-a07d-dadd74117125",
+                "title": "Oud-studenten winnen Nestlé scriptieprijs voor Diëtetiek",
+                "authors": [
+                    "Voeding en Diëtetiek"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/nestle%20vierkant.jpg",
+                "content": "Oud-studenten Doreen de Bruin en Lysanne Smit wonnen onlangs de Nestlé scriptieprijs voor Diëtetiek.<br><div></div><div><p>Doreen en Lysanne presenteerden hun onderzoek&#160;op de algemene ledenvergadering van de Nederlandse Vereniging van Diëtisten (NVD). In het MC Slotervaart in&#160;Amsterdam onderzochten zij het verschil tussen individuele diëtistische behandeling en groepsbehandeling van patiënten na bariatrische chirurgie. De twee oud-studenten vonden&#160;geen significant verschil&#160;in gewichtsverlies,&#160;<em>compliance</em>&#160;en vitamine-en mineralenstatus tussen beide&#160;groepen.&#160;&#160;</p><p>De jury was van mening dat deze vergelijking voor diverse patiëntengroepen, en dus voor veel diëtisten, relevant is en goed nieuws voor diëtisten die&#160;overwegen om over te stappen&#160;op groepsbehandeling.&#160;&#160;</p><p>De opleiding Voeding en&#160;Diëtetiek feliciteert Doreen en Lysanne&#160;van harte met dit mooie resultaat!</p></div><div><br>​</div>",
+                "publishDateTime": "2017-11-21T11:03:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/1693a0f7-6fd5-4230-ac30-4483033d9a0c?newsFeed=news"
+                    }
+                },
+                "newsItemId": "1693a0f7-6fd5-4230-ac30-4483033d9a0c",
+                "title": "maak jij gebruik van BSCW? Dit systeem is binnenkort niet meer beschikbaar",
+                "authors": [
+                    "ICT Services"
+                ],
+                "image": "https://hva-nieuws-mededelingen.mijnhva.nl/hva-nieuws/PublishingImages/BSCW.jpg",
+                "content": "Binnenkort kun je geen gebruik meer maken van BSCW. Het systeem achter bscw.hva.nl is verouderd. Bovendien zijn er andere, betere alternatieven. <br><p>​Op vrijdag 1 december worden de rechten van BSCW-gebruikers omgezet naar 'alleen lezen'. Dat betekent dat je vanaf dat moment nog wel je bestanden via BSCW kan lezen, downloaden en verwijderen, maar niets meer actief kunt bewerken. Uiteindelijk zal BSCW worden uitgezet.</p><p>Als je een alternatief systeem voor BSCW wilt gebruiken, dan zijn er een aantal opties, waaronder <em>Teamsites</em>. Met de eenvoudige zip-tool in BSCW kan je zelf je bestanden verplaatsen. Voor verdere informatie kan je terecht op de <a href=\"https&#58;//az.hva.nl/medewerkers/staven-en-diensten/az-lemmas/medewerkers/hva-breed/its-si/bscw/bscw-kopie.html?origin=EYPxGBCiReW4zt5jgW0eJw\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\"><span lang=\"NL\">A-Z lijst</span></a> voor medewerkers of de <a href=\"https&#58;//student.hva.nl/az-lemmas/studenten/hva-breed/its-si/bscw/bscw-kopie-2.html?origin=%2BIhoMBbOSD%2BbG%2BOeXCnbzQ\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\"><span lang=\"NL\">A-Z-lijst</span></a> voor studenten.</p><p>Vragen? Neem contact op met de Servicedesk ICTS via 020 595 1402. </p>",
+                "publishDateTime": "2017-11-17T08:00:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/4bbd5204-3e11-45e9-9e6e-93c838050cf8?newsFeed=news"
+                    }
+                },
+                "newsItemId": "4bbd5204-3e11-45e9-9e6e-93c838050cf8",
+                "title": "SO-HIP: Onderzoek naar vallen en opstaan",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/BB_171020HVAAWARD-9516.jpg%20%28SMALL%202%29.jpg",
+                "content": "In de aanloop naar het Research Awards Event op 7 december stellen we elke keer een genomineerd onderzoek voor. Dit keer: SO-HIP-Studie.<br><p>​​Per jaar breken 15.000 ouderen hun heup bij een val. Een deel hiervan kan dankzij het onderzoek <a href=\"https&#58;//researchawards.mijnhva.nl/so-hip-studie/Paginas/default.aspx\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">SO-HIP</a>&#160;na de breuk weer goed functioneren en bewegen. Met behulp van sensoren worden de bewegingen van ouderen geanalyseerd. Vervolgens worden ouderen gecoacht en gemotiveerd om meer en beter te bewegen. Dit leidt tot minder val<span> </span>partijen doordat o.a. de valangst verdwijnt en kunnen de ouderen langer zelfstandig blijven wonen.&#160;</p><div class=\"ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify\" unselectable=\"on\"><iframe width=\"560\" height=\"315\" src=\"https&#58;//www.youtube.com/embed/jR1h3-kr_As\" frameborder=\"0\"></iframe>&#160;</div><h3>Meer bewegen</h3><p>De deelnemers kunnen ook zelf hun gegevens inzien, dit stimuleert hen meer te bewegen. Eén van deelnemers aan het onderzoek&#58; &quot;Ik zag dat ik gisteren niet zoveel heb bewogen, daarom loop ik vandaag drie rondjes&quot;.&#160;​</p><h3>HvA Research Awards Event</h3><p>SO-HIP is een van de vijf kanshebbers om op 7 december verkozen te worden tot HvA Onderzoek van het Jaar. Kom naar het HvA Research Awards Event en stem mee voor de publieksprijs. Aanmelden kan met dit <span><a href=\"http&#58;//www.hva.nl/forms/hva/nl/evenementen/research-awards-2017.html?origin=yu%2BvIkUQQGCqsXaIOlKp5w\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">formulier</a></span>.&#160;</p><p>Lees meer over de&#160;SO-HIP-Studie op <span><a href=\"https&#58;//researchawards.mijnhva.nl/recurf/Paginas/default.aspx\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">MijnHvA</a>.</span></p><p><br></p><p><br></p>",
+                "publishDateTime": "2017-11-14T10:50:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/e2ef2aa6-2054-46e9-a46f-1b7ca97dad02?newsFeed=news"
+                    }
+                },
+                "newsItemId": "e2ef2aa6-2054-46e9-a46f-1b7ca97dad02",
+                "title": "Blog Lenno Munnikes: november",
+                "authors": [
+                    "Opleidingscommissie Voeding en Diëtetiek"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/Lenno%20Munnikes%20vierkant.jpg",
+                "content": "'Nou, de maand november is begonnen. Dé maand die een hele lange tijd nog ver weg leek, is dan nu opeens toch aangebroken.<br><p>​Zoals iedereen weet, ondergaat de opleiding op 9 november dé accreditatie. Zonder te overdrijven hebben we bijna een jaar bloed, zweet en tranen in de voorbereidingen gestoken. Tuurlijk zijn we er klaar voor, maar spannend is het wel.&#160;</p><p>Tijdens zo'n intensief proces zie je wel goed hoe mooi onze opleiding eigenlijk is. Weten we wel, maar veel zaken zijn vanzelfsprekende dagelijkse praktijken voor ons allen geworden. Wel is het een goed moment om alle mooie dingen van de opleiding te laten zien. En de dialoog aangaan over onze toekomst. </p><p>Toch kijk ik ook wel een beetje uit naar het moment dat de kerstballen uit de doos kunnen halen en het gourmetstel uit de schuur. En dat we november achter ons hebben gelaten.'</p><p>​</p>",
+                "publishDateTime": "2017-11-09T10:44:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/6c0b2cce-c0e8-48db-8bc8-2d96c208b2f8?newsFeed=news"
+                    }
+                },
+                "newsItemId": "6c0b2cce-c0e8-48db-8bc8-2d96c208b2f8",
+                "title": "Janine Reitsema: sportdiëtiste op topniveau ",
+                "authors": [
+                    "Opleidingscommissie Voeding en Diëtetiek"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/janine.jpg",
+                "content": "Janine Reitsema is docent Sportvoeding, Nutrition en Beweging bij Voeding en Dietetiek, topsportcoördinator en hoofddocent van de post-hbo opleiding Sportdiëtetiek. <br>​‘Ik ben sinds 2002 als sportdiëtist betrokken bij Team NL / Team voeding van het NOC*NSF. Hier begeleid ik Olympische sporters met hun voeding. Het werk als sportdiëtiste met topsporters is leuk en uitdagend, vooral om de sportprestatie door middel van voeding te verbeteren. Je werkt met een medisch begeleidingsteam bestaande uit een sportarts, sportfysio, coach, fysieke trainer en sportpsycholoog. De trajecten duren vier jaar, omdat de Olympische Spelen elke vier jaar zijn. Toch ben ik al negen jaar de sportdiëtist van het Nederlands Beach volleybalteam en ben ik op dit moment de sportdiëtist van het Nederlands heren hockey elftal.&#160;<div><div><h2>Team Voeding NOC*NSF</h2><div>Bij Team voeding zitten nog zes andere sportdiëtisten die de sporters op het hoogste niveau met hun voeding begeleiden. Daarnaast is er ook nog een groep sportdiëtisten die de sporters bij het CTO/NTC/RTC begeleiden. Dit zijn de sporters net onder het hoogste niveau.&#160;</div><div><br></div><div>Het mooiste is als de sporters die je begeleidt uiteindelijk op het hoogste niveau iets bereiken. Vorig jaar won het beachvolleybal duo, Robert Meeuwsen en Alexander Brouwer, een bronzen medaille op de Olympische Spelen in Rio. Dat was binnen die sport nog nooit eerder gebeurd voor Nederland. Ook werden Meeuwsen en Brouwer in 2013 wereldkampioen en sportploeg van het jaar. Ik begeleid hen al vanaf hun 18e jaar. Ook werd de Nederlandse heren hockeyploeg afgelopen augustus Europees kampioen.&#160;</div><h2>Speciaal op maat voor de topsport</h2><div>Naast het begeleiden van sporters houdt Team Voeding zich ook bezig met het ontwikkelen van producten, onderzoek op het gebied van sportvoeding en het schrijven van protocollen en factsheets. Ook zorgen we ervoor dat de voeding tijdens de Olympische Spelen zo optimaal mogelijk is. Tijdens de Olympische Spelen in Rio konden onze sporters bijvoorbeeld gebruik maken van een speciale koelboxkoffer, een unieke shakebeker en bepaalde eiwitsupplementen. Ook bepaalden wij wat er in de koelkast kwam te liggen van de locaties waar onze sporters verbleven.</div><h2>Werken bij de HvA</h2><div>Het is een inspirerende combinatie om op de hogeschool te werken met studenten en afgestudeerde diëtisten en daarnaast met topsporters in de praktijk. Ik werk al twaalf jaar met veel plezier op de HvA. Ik houd van leergierige studenten die ik wat bij kan brengen en die met leuke en kritische vragen of onderwerpen aan komen. Praten over voeding vind ik altijd leuk. Hopelijk kan ik dit werk nog lang op deze manier doen. Zelf sport ik ook graag, ik heb ooit de ALO afgerond en geef nu nog steeds spinningslessen in de sportschool.’&#160;</div></div></div>",
+                "publishDateTime": "2017-11-09T10:28:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/55483f5c-8c6d-4fb1-8690-6e757a6d050a?newsFeed=news"
+                    }
+                },
+                "newsItemId": "55483f5c-8c6d-4fb1-8690-6e757a6d050a",
+                "title": "Hoe smaakt het?",
+                "authors": [
+                    "Merel Staverman-van de Beek"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/hoe%20smaakt%20het.png",
+                "content": "Voor de zomervakantie organiseerde onze opleiding SMAAK; een event met innovatieve snacks en een symposium over multisensorisch proeven, smaakzintuigen en historische aroma’s.<br><p>​Garmt Dijksterhuis gaf tijdens het SMAAK-event een lezing over de zintuigen die aan bod komen tijdens het eten. Dijksterhuis is geur- en smaakwetenschapper en auteur van het boek Hoe smaakt het?. Als je de richting New Product Management volgt of overweegt, dan is Hoe smaakt het? zeker een aanrader. Volg je Dietetics of Health Promotion? Ook dan is dit boek de moeite waard.&#160;</p><h2>hoe&#160;ruiken, proeven en voelen je smaak beïnvloeden</h2><div>Bijna alle zintuigen spelen een rol bij het proeven. In de wetenschap ligt de focus vooral op zien en horen. Daarom richt Dijksterhuis zich in dit boek uitgebreid op de invloed van ruiken, proeven en voelen; drie zintuigen die je smaak beïnvloeden. ​Je leest onder andere waarom psychologische eigenschappen een onderschat aspect zijn bij de smaak van een product. De verwachtingen die je hebt bij een bepaald voedingsmiddel, kunnen veel invloed hebben op wat je proeft. Ook kan een bepaalde associatie met voeding, bijvoorbeeld jouw oma die altijd koekjes voor je bakte, ervoor zorgen dat je die koekjes lekkerder vindt.&#160;</div><h2>20 smaakmogelijkheden versus 350 geurreceptoren</h2><div>Ook leer je over de oorzaken van een vermindering van geur- en smaakgevoeligheid bij ouderen. Daarnaast lees je dat er tegenover de 20 verschillende smaakmogelijkheden, 350 geurreceptoren staan. Dit verklaart waarom de ene persoon een totaal andere ‘geurbeleving’ heeft dan de andere persoon. In zijn boek legt Dijksterhuis bijzondere fenomenen uit, bijvoorbeeld waarom een voedingsmiddel koud of warm kan proeven, terwijl dit qua temperatuur niet zo is.</div><h2>hoe vaak kauw je?</h2><div>Ook kauwen en speekselproductie hebben veel invloed op wat je proeft, doordat dit de textuur van een voedingsmiddel beïnvloedt. Als je twee personen hetzelfde voedingsmiddel laat kauwen tot dezelfde grootte van deeltjes, kan de ene slechts 9 kauwbewegingen nodig hebben en de ander 125. Dit varieert enorm. Dijksterhuis wil met dit boek mensen stimuleren om minder op de automatische piloot te eten en meer plezier te beleven aan eten en de gedragingen eromheen. Dit zou tot gezondere voedingskeuzes leiden.</div><h2>Waarom dit boek lezen?</h2><div>Hoe smaakt het? is een goed hulpmiddel bij het ontwikkelen van een product. Je krijgt inzicht in alle aspecten rondom het proeven. Maar ook als je niet de richting op gaat van productontwikkeling is dit boek interessant. Je krijgt meer inzicht in de psychologische factoren rondom proeven. Nuttige kennis voor elke voedingsdeskundige of diëtist. Als je eens wat anders wilt lezen dan de verplichte literatuur, raad ik je zeker aan om dit boek te lenen bij onze bieb.</div><div><br></div><div>Tekst&#58; Claire Orth, lid opleidingscommissie Voeding en Diëtetiek</div><div><br>​</div>",
+                "publishDateTime": "2017-11-09T10:20:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/dec4e25f-e9c3-4078-9ea7-93964f84e4b9?newsFeed=news"
+                    }
+                },
+                "newsItemId": "dec4e25f-e9c3-4078-9ea7-93964f84e4b9",
+                "title": "Studeren in Australië:",
+                "authors": [
+                    "Opleidingscommissie Voeding en Diëtetiek"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/natasja%20chen.jpg",
+                "content": "OC-lid Natasja Chen koos voor het onbekende en vloog naar Australië voor een minor aan de University of Newcastle.<br><p>'Als ik weer naar het buitenland zou kunnen voor mijn minor dan zou ik dat zeker doen. Ik was 19 toen ik naar Australië ging en het was zeker een grote stap. Het is heel goed geweest&#160;voor mijn zelfontwikkeling.&#160;Je leert de locals kennen en andere uitwisselingstudenten van uiteenlopende nationaliteiten.&#160;</p><h2>​relaxte sfeer</h2><div>Ik verbaasde mij over de sfeer. Iedereen is erg sociaal en behulpzaam in Australië. Het grote verschil zit met name in de openheid van mensen. In Nederland is iedereen meer op zichzelf gefocust en altijd “drukdruk”. Ik koos de University of Newcastle (UON) omdat deze universiteit goed aanschreven staat en ik in een Engelstalig land wilde studeren.&#160;</div><h2>Studeren in het buitenland</h2><div>Ik heb vier vakken gevolgd aan de UON, wat neerkomt op 30 studiepunten (= 40 units). De twee voedingsgerelateerde vakken kon ik helaas niet volgen omdat ik de benodigde vereisten niet had, internationale&#160;studenten konden daar namelijk niet aan deelnemen.</div><div>Daarom koos ik voor&#58;</div><div>1. Introduction of Abnormal Behaviour&#58; tijdens dit vak leer je over abnormale gedragingen zoals bijvoorbeeld depressie, schizofrenie en eet- en kinderstoornissen.</div><div>2. Advanced Health Psychology&#58; tijdens dit vak leer je over verslaving en obesitas, de docenten maakten veel vergelijkingen met de Aboriginals (oorspronkelijke bewoners van Australië) en de algemene gezondheid van de Australische bevolking.</div><div>3. English as a Second Language&#58; tijdens dit vak ligt de focus op de Engelse taal. Je leert je over de opbouw van een essay en presentatie en hoe discussies tot stand komen.</div><div>&#160;4. Foundation of Media Productions&#58; tijdens dit vak leer je over hoe films en filmproducties in elkaar zitten en hoe filmtechnieken werken.</div><h2>Wat ik mee naar huis nam</h2><div>De grootste uitdaging vond ik om in Australië alles in mijn eentje te ondernemen. Ik ben daarentegen wel erg zelfstandig dus dingen zelf doen en organiseren gaat prima. Soms was het een lastig om plannen en activiteiten alleen te ondernemen als vrienden niet konden of afzegden. Als je daar eenmaal in je routine zit dan wil je je natuurlijk wel omringen met mensen.</div><div><span><br></span></div><div><span>verbreding horizon</span></div><div><br></div><div>De buitenlandse minor heeft mijn horizon verbreed. Ik heb ontdekt dat ik mijzelf in verschillende richtingen wil ontwikkelen. Zo weet ik nu zeker dat ik mij naast voeding wil verbreden in psychologie. Daarnaast heb ik de keuze gemaakt om een ander pad op te gaan. Naast Health Promotion doe ik nu Nutrition and Dietetics voor een half jaar voor ik start met mijn eindscriptie en stage.&#160;</div><div><br></div><div>Ik wil iedereen meegeven dat het een unieke kans is om naar het buitenland te gaan. Je leert zoveel van de vakken, maar ook van jezelf. Je verbreedt je perspectief en dat heeft mij geholpen om betere keuzes te maken nu ik terug ben in Nederland.​'</div><div><br></div>",
+                "publishDateTime": "2017-11-09T10:03:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/97a5089d-8107-488a-9359-90c11c1caef2?newsFeed=news"
+                    }
+                },
+                "newsItemId": "97a5089d-8107-488a-9359-90c11c1caef2",
+                "title": "Happy2move in Amsterdam Nieuw-West",
+                "authors": [
+                    "Opleidingscommissie Voeding en Diëtetiek"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/happy%202%20move%20600x600.jpg",
+                "content": "Kinderen met een lichamelijke- en/of geestelijke beperking mogen sinds kort na schooltijd lekker bewegen in Amsterdam Nieuw-West, bij de nieuwe locatie van Happy2Move.<br><p><p>Alex Breedt en Elkan van der Reis startten&#160;in 2012 naschoolse opvang&#160;voor kinderen met een beperking. Sporten, gezonde voeding en plezier staan voorop. Amsterdam heeft inmiddels een locatie in Nieuw-West (Dr. Meurerlaan 5),&#160; Amsterdam-Noord en Amsterdam Zuid-Oost. Een vierde locatie in Heemstede volgt in 2018.&#160;​</p><h2>stimuleren sociale contacten</h2><div>Happy2Move richt zich op kinderen met een beperking of chronische ziekte. Voorheen waren er nauwelijks sportmogelijkheden voor deze kinderen in Amsterdam. Ook sportclubs konden maar moeilijk hun weg met hen vinden of hadden niet de juiste apparatuur. Happy2Move stimuleert niet alleen meer bewegen, maar ook het sociale contact met andere kinderen.&#160;</div><h2>complete opvang</h2><div>De kinderen krijgen op de locaties van Happy2Move zorg op maat, inclusief vervoer. Kinderen komen bij elkaar om 15.00 uur, gaan spelen (zowel binnen als buiten), krijgen een gezonde avondmaal en gaan naar huis om 18&#58;00 uur. Het mooie van Happy2Move-programma is dat de kinderen een back-up hebben. Niet alleen na schooltijd, maar ook tijdens vakanties en studiedagen staat het team voor hen klaar.&#160;</div><h2>Bijdrage leveren​</h2><div>Ken jij iemand van 4 t/m 20 jaar met een chronische ziekte of lichamelijke beperking die meer wil sporten? Of wil je zelf helpen? Vlak bij onze opleiding (Dr. Meurerlaan 5) vind je de nieuwe locatie van Happy 2 move. Kijk op <a href=\"http&#58;//www.happy2move.nl/index.php\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">happy2move.nl</a> voor meer informatie.</div><div><br></div>",
+                "publishDateTime": "2017-11-09T09:36:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/002ddb75-c3b2-4229-997f-13f2113c2404?newsFeed=news"
+                    }
+                },
+                "newsItemId": "002ddb75-c3b2-4229-997f-13f2113c2404",
+                "title": "Nieuw kookboek Voedingscentrum: Vandaag Vegetarisch",
+                "authors": [
+                    "Opleidingscommissie Voeding en Diëtetiek"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/vega%20600x600.jpg",
+                "content": "Het is je vast niet ontgaan dat het Voedingscentrum betaalbare boeken uitbrengt over gezond en lekker eten. Onlangs publiceerde het Voedingscentrum het kookboek Vandaag Vegetarisch. Voor een andere blik op eten.<br><p>​Inmiddels zijn steeds meer mensen in Nederland flexita​riër voor één of meerdere dagen in de week. Ook neemt de groep vegetariërs en veganisten in ons land toe. Minder vlees is beter voor het milieu én je gezondheid.&#160;</p><h2>lekker en voedzaam​</h2><div>Koken zonder vlees of vis blijft voor veel mensen een uitdaging. Een kookboek als <em>nudge</em> in de goede richting kan helpen. Het Voedingscentrum past de Schijf van Vijf ook toe in dit boek.​ Vandaag Vegetarisch bevat 60 heerlijke recepten op basis van peulvruchten, noten, ei en soja. Ook komen er aantal vleesvervangers aan te pas, maar het Voedingscentrum gebruikt vooral ‘echte’ producten. Je krijgt zo genoeg vitamine B12 , ijzer en calcium binnen, ook als je altijd vegetarisch&#160;eet.</div><h2>meer dan een kookboek</h2><div>Het kookboek biedt meer dan alleen recepten. Je leert etiketten lezen, duurzaam inkopen en ontdekt nieuwe plantaardige eiwitbronnen. Het boek bevat ook een superhandig overzicht van alle seizoensgroenten&#58; goed voor het milieu ​én je portemonnee. En stiekem heeft het Voedingscentrum een paar BN’ers&#160;bij het kookboek betrokken om het enthousiasme voor vegetarisch koken bij consumenten aan te wakkeren.&#160;</div><div><br></div><div>Zelf schafte ik het boek aan via de website van het Voedingscentrum en kan ik zeggen dat het beleid van <em>nudging</em> goed is toegepast. De eenvoudige recepten en de goede fotografie motiveren je enorm om een dagje vlees of vis te laten staan.</div><div><br></div><div>Tekst&#58; Queeny June Borgman (lid opleidingscommissie Voeding en Diëtetiek)​</div>",
+                "publishDateTime": "2017-11-09T09:16:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/37125686-2622-435d-b9d3-cd2b8462c115?newsFeed=news"
+                    }
+                },
+                "newsItemId": "37125686-2622-435d-b9d3-cd2b8462c115",
+                "title": "Onco-brood geeft kankerpatiënten weer smaak",
+                "authors": [
+                    "Opleidingscommissie Voeding en Diëtetiek"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/oncobrood.jpg",
+                "content": "De behandeling van kanker geeft vaak vervelende bijwerkingen. Patiënten ervaren door chemokuren en medicijnen eten en drinken bijvoorbeeld als bitter of ze verliezen (deels) hun smaak. Gevolgen: vermagering of een verlaagde weerstand.<br><p>​Smaakexpert Micheal van ‘t Hoff (van het Ikazia ziekenhuis Rotterdam) wilde iets terug doen voor kankerpatiënten en hun smaakzintuigen stimuleren. Het weer genieten van eten stond hierbij voorop. Ruim een jaar lang experimenteerde van ‘t Hoff samen met het Vlaamsch Broodhuys in België met verschillende broden en ingrediënten. Ze begonnen met brood omdat dit een belangrijk onderdeel is van de maaltijd en een hoge energiewaarde bevat.</p><h2>​fris, zoet en hartig<br></h2><div>Dit najaar presenteerden van ’t Hoff en het Vlaamsch Broodhuys drie onco-broden met verschillende smaken&#58; lavendel,&#160; gember en zeezout (fris, zoet en hartig). Kankerpatiënten kunnen ook hun eigen brood samenstellen, bijvoorbeeld met venkel, tijm en limoen. Wat moet het deze patiënten opleveren? Meer eetlust en minder afvallen.&#160;</div><h2>betaalbaar</h2><div>Met de drie soorten onco-broden gaat van ‘t Hoff de strijd aan met de gevolgen van kanker, maar dan vanuit voedingsperspectief. Het mooie van het product is dat het betaalbaar blijft. Voor maar 5 euro kunnen familieleden al een heel pakket (fris, zoet en hartig) kopen voor hun naaste. Mocht jij je afvragen waarom het Onco-brood heet? De naam refereert naar de afdeling Oncologie (ook wel kankerkunde) in alle ziekenhuizen. ​</div>",
+                "publishDateTime": "2017-11-09T08:37:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/0c9ff62a-ddbb-48c7-b2a5-78238c03f5fb?newsFeed=news"
+                    }
+                },
+                "newsItemId": "0c9ff62a-ddbb-48c7-b2a5-78238c03f5fb",
+                "title": "RECURF: genomineerd voor het HvA Onderzoek van het Jaar",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/BB_171019HVAAWARD-9296.jpg",
+                "content": "In de aanloop naar de Research Awards op 7 december stellen we elke keer een genomineerd onderzoek aan jullie voor. Dit keer: RECURF.<br><p><a href=\"https&#58;//researchawards.mijnhva.nl/recurf/Paginas/default.aspx\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">​RECURF</a> is een onderzoek van HvA Urban Technology met als doel om de mogelijkheden te verkennen om BioBased plastic te verrijken met natuurlijke reststromen. Dit houdt in dat zij experimenteren met het combineren van verschillende soorten afval met BioBased Plastic. Dit heeft een aantal aantrekkelijke combinaties opgeleverd die het BioBased plastic versterken en mooier maken. Zoals een aktetas, geluiddempende panelen, een koffietafel en terrasstoel. <a href=\"http&#58;//www.hva.nl/content/nieuws/nieuwsberichten/2017/10/designproducten-van-textielresten.html?origin=S8MVyzIXRh2F5lGMDKfHJQ\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">Klik hier</a>&#160;voor meer informatie.&#160;</p><div class=\"ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify\" unselectable=\"on\"><iframe src=\"https&#58;//www.youtube.com/embed/DnK9IwKqQPs\" frameborder=\"0\" height=\"315\" width=\"560\"></iframe>&#160;</div><p>Het onderzoek is bij grote bedrijven zoals Starbucks en Ahrend, kantoormeubilair, ook al opgevallen. Beiden kwamen met de vraag naar een duurzame oplossing voor hun reststromen. Met deze vraag is het onderzoeksteam aan de slag gegaan. Met als resultaat dat jij nu zomaar eens bij de Starbucks kan zitten aan een tafel van gerecyclede jutten koffiezakken of dat je op je stage werkt aan een bureau met onderdelen van hergebruikt snijafval.<br></p><p>RECURF is een van de vijf kanshebbers om op 7 december verkozen te worden tot HvA Onderzoek van het Jaar. Kom naar het HvA Research Awards Event en stem mee voor de publieksprijs. Aanmelden kan <a href=\"http&#58;//www.hva.nl/forms/hva/nl/evenementen/research-awards-2017.html?origin=yu%2BvIkUQQGCqsXaIOlKp5w\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">hier</a>. Voor meer informatie over het onderzoek. Klik <a href=\"http&#58;//www.hva.nl/onderzoek/actueel/research-awards/recurf/recurf.html?origin=yu%2BvIkUQQGCqsXaIOlKp5w\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">hier</a> <br></p>",
+                "publishDateTime": "2017-11-09T08:07:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/4e8bc14e-53c7-40e6-938d-290b87630e3a?newsFeed=news"
+                    }
+                },
+                "newsItemId": "4e8bc14e-53c7-40e6-938d-290b87630e3a",
+                "title": "Geen BubbleDeck-vloeren op HvA",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/openingsbeeld%20mijnhva.jpg",
+                "content": "Naar aanleiding van het instorten van een parkeergarage in aanbouw in Eindhoven en het sluiten van diverse gebouwen door onderwijsinstellingen heeft de HvA alle panden die in gebruik zijn onderzocht.  <br><p>​<span>​De uitkomst daarvan is helder&#58; bij de bouw van de HvA-panden zijn geen\nBubbleDeck vloeren gebruikt.&#160;</span></p>",
+                "publishDateTime": "2017-10-24T12:35:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/f39e481e-01a1-4c79-88ad-cee74a650768?newsFeed=news"
+                    }
+                },
+                "newsItemId": "f39e481e-01a1-4c79-88ad-cee74a650768",
+                "title": "Vitamine-project naar finale HvA Research Awards",
+                "authors": [
+                    "Faculteit Bewegen, Sport en Voeding"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/vitamine%20vierkant.jpg",
+                "content": "Jantine van den Helder en haar onderzoeksteam staan op 7 december in de finale van de HvA research awards: de jaarlijkse prijs voor het beste HvA-onderzoek. <br><p>​Jantine onderzoekt binnen het VITAMINE-project hoe 55-plussers zo lang mogelijk gezond en zelfstandig kunnen blijven functioneren.&#160;</p><div>Het onderzoeksteam van VITAMINE werkt samen met maatschappelijke (zorg)organisaties en onderzoekers, docenten en studenten van de faculteiten Digitale Media en Creatieve Industrie (FDMCI) en Gezondheid (FG). Peter Weijs, lector Gewichtsmanagement&#58; ”VITAMINE is een mooi voorbeeld is van interdisciplinair praktijkgericht onderzoek. We bieden met onze studenten en medewerkers ondersteuning van ouderen in de wijk. Hierbij zetten we innovatieve interventies in om ouderen vitaler te houden in de stedelijke context van Amsterdam.”</div><h2>Thuistraining en eiwitrijke voeding</h2><div>Het vierjarige VITAMINE-onderzoek ontwikkelt sinds 2014 een sportieve en digitale thuistraining voor ouderen met behulp van instructiefilmpjes, online monitoring en coaching. Ook kijken onderzoekers of het gebruik van een eiwitrijk voedingspatroon effect heeft op het langer zelfstandig fysiek functioneren.&#160;</div><h2>​Deelname studenten onderzoek</h2><div>Jantine van den Helder&#58; “Studenten zijn allemaal onderzoeksmedewerker binnen VITAMINE. Zij werken aan hun eigen project of stage binnen ons grote project. Sommige studenten verzamelen data op de meetdagen en gebruiken deze voor hun eigen scriptie. Andere studenten coachen onze ouderen met het thuistrainingsprogramma of eiwitrijk voedingspatroon in de wijk of via Skype.” Het VITAMINE-project leverde tot nu toe 33 afstudeerscripties en 34 (minor)stages op. Twee artikelen staan klaar voor publicatie in 2017 en in 2018 volgen er meer.</div><h2>HvA Research Awards Event&#160;</h2><div>Donderdag 7 december, bij het Research Awards Events, presenteren de vijf onderzoekteams hun onderzoek voor een vakjury én voor jou. In het publiek kan je mede bepalen wie er met de prijzen naar huis gaan.&#160;</div><div>Door deelname aan event krijgen onderzoekers een podium voor hun onderzoek. Ook maken ze kans op bijvoorbeeld een korte onderzoeksfilm, nieuwsberichten, een presentatie- en mediatraining en verschillende prijzen.&#160;</div><div><br></div><div><a href=\"http&#58;//www.hva.nl/forms/hva/nl/evenementen/research-awards-2017.html?origin=yu%2BvIkUQQGCqsXaIOlKp5w\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">Meld je aan voor het&#160;HvA research awards event</a>.​</div>",
+                "publishDateTime": "2017-10-19T13:24:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/811d621f-b057-45de-a37e-bade696ebccd?newsFeed=news"
+                    }
+                },
+                "newsItemId": "811d621f-b057-45de-a37e-bade696ebccd",
+                "title": "Huisvesting: dialoog is gaande",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/Fietsenstalling1.jpg",
+                "content": "In juli nam het CvB een voorgenomen besluit over de toekomstige huisvesting van de verschillende onderdelen van de HvA en legde dit voor aan de Centrale Medezeggenschapsraad (CMR) ter instemming. <br><p>​De CMR spreekt zich naar verwachting begin november uit over de plannen. Ondertussen laait de discussie over het plan op. Het CvB wil de verschillende argumenten zorgvuldig afwegen. Wat is de huidige stand van zaken? </p><p>Eind 2016 stond de HvA voor het besluit om op de kop van de Amstelcampus, op het nu nog braakliggende Rhijnspoorplein, een nieuw gebouw te maken voor de faculteit Techniek (FT)&#58; het Conradhuis. Dat gebouw zou rond 85 miljoen euro kosten. Het College van Bestuur (CvB) besloot het Conradhuis <em>niet</em> te bouwen, want de HvA geeft in vergelijking met andere hogescholen al veel geld uit aan huisvesting en bovendien worden de bestaande gebouwen niet erg intensief gebruikt. Op bepaalde uren van de week is het druk, maar op andere dagen/uren staan veel ruimtes leeg. Geen tientallen miljoenen voor een nieuw gebouw dus, maar het geld investeren in docenten en onderwijs. En daarom de huidige ruimtes waar nodig herinrichten en de bestaande ruimte beter benutten, zo besloot het CvB.</p><p>&#160;</p><h2>Lastige puzzel</h2><p>​Het besluit van eind 2016 was de start van een nieuwe fase, waarin voor alle faculteiten en opleidingen goede ruimte gevonden moet worden binnen de bestaande huisvesting. In Amsterdam-West is de sportcampus van de faculteit Bewegen, Sport en Voeding (FBSV), in zuidoost bij het AMC is de gezondheidscampus met de faculteit Gezondheid (FG), elders in zuidoost op de Fraijlemaborg de economiecampus met de faculteit Business en Economie (FBE) en in de Wibautstraat de Amstelcampus waar de faculteit Onderwijs &amp; Opvoeding (FOO), de faculteit Maatschappij en Recht (FMR), de faculteit Digitale Media en Creatieve Industrie (FDMCI) en onderdelen van de FBE gevestigd zijn. Met elkaar vormen zij ook een centrum voor Amsterdams ondernemerschap in uiteenlopende disciplines. De FT is nu samen met de ondersteunende diensten (Administratief Centrum, Facilitaire Zaken, ICT Services, HvA Bibliotheken en Studentenzaken) gehuisvest in gebouw de Leeuwenburg bij het Amstelstation.</p><p>Dat laatste gebouw (Leeuwenburg) is geen eigendom van de HvA en moet uiterlijk in 2019 leeg opgeleverd worden. Er moet dus geschoven worden, nu het Conradhuis niet langer de oplossing is voor de FT na het vertrek uit de Leeuwenburg. </p><p>Zo begon de zoektocht naar een passende oplossing voor een lastige puzzel waarin verschillende stukjes zorgvuldig in elkaar gepast moeten worden. Het gaat om een plan voor de gehele HvA. Bij het maken van die puzzel geldt een aantal uitgangspunten, vastgelegd in de huisvestingsvisie die in het voorjaar van 2017 werd vastgesteld. </p><p>&#160;</p><h2>UitGangspunten</h2><p>​Het belangrijkste uitgangspunt is dat alle opleidingen en kenniscentra kunnen beschikken over huisvesting die past bij hedendaagse onderwijs- en onderzoeksvormen. Dat houdt onder andere in dat elke opleiding een eigen centrale ontmoetingsruimte krijgt en dat de onderwijszalen en werkruimten gedeeld worden. Wat betreft het aantal beschikbare vierkante meters geldt voor elke faculteit vanzelfsprekend dezelfde rekenformule.</p><p>&#160;</p><p>Het tweede uitgangspunt is dat de HvA niet meer, maar <em>minder</em> geld wil besteden aan huisvesting zodat het beschikbare geld zoveel mogelijk kan worden besteed aan onderwijs en onderzoek en kan bijdragen aan onder anderr de vermindering van de werkdruk.</p><p>Een logisch gevolg van deze beide uitgangspunten is dat de HvA gevestigd blijft in de huidige gebouwen op de vier bestaande campussen. De as die langs de metrolijn loopt vanaf de gezondheidscampus via de economiecampus aan de Fraijlemaborg naar de Amstelcampus aan de Wibautstraat vormt een belangrijke kracht. Elke campus beschikt over de faciliteiten die het tot een inspirerende campus maakt. In nauw overleg met de bewoners van elke campus wordt bekeken wat daarvoor nodig is. </p><p>Belangrijk element van de planvorming is ook dat FT en een aantal opleidingen van FDMCI gezamenlijk gebruik kunnen maken van specialistische (technische) voorzieningen (labs en op ontwerp gerichte onderwijsruimtes) die voor dit doel gerealiseerd worden.&#160; </p><p>&#160;</p><h2>Ruimte voor dialoog</h2><p>Binnen deze context moet de oplossing voor de hele HvA gezocht worden. Een team van in- en externe specialisten heeft in de eerste helft van 2017 grootschalig onderzoek gedaan, schetsen gemaakt, scenario's opgesteld en doorgerekend. Zoals eind 2016 aangekondigd, heeft het CvB – in nauw overleg met de decanen van alle faculteiten - voor de zomervakantie haar plannen voor de toekomstige&#160;huisvesting bekendgemaakt en die in september ter instemming voorgelegd aan de CMR. Die maakt haar standpunt binnenkort bekend. Het CvB baseert het plan dat voorligt op het werk van het specialistenteam. Daaruit blijkt dat sommige scenario's om financiële of andere redenen afvallen. Het plan dat nu voorligt, lijkt op basis van de berekeningen voor alle faculteiten voldoende ruimte te bieden en is betaalbaar. Het is nadrukkelijk een plan op hoofdlijnen. Opleidingen en kenniscentra worden nauw betrokken bij de nadere invulling daarvan. </p><p>In het plan dat het CvB heeft voorgelegd aan de CMR wordt de gehele FBE gehuisvest op de Fraijlemaborg in Amsterdam-zuidoost. Voor een aantal opleidingen betekent dit dat zij verhuizen van het Wibauthuis naar de Fraijlemaborg. Deze verhuizing maakt het mogelijk dat de FT na het verlaten van de Leeuwenburg naar de Amstelcampus daar gebruik maakt van leslokalen en kantoren in het Wibauthuis en van (nieuw te bouwen) technische ruimtes op het Rhijnspoorplein. </p><p>Docenten en studenten van de FBE-opleidingen die volgens het huidige plan verhuizen van het Wibauthuis naar de Fraijlemaborg (HRM, CE en BKM) maken bezwaar tegen die verhuizing. Zij hadden in het bijzonder eerder betrokken willen worden bij de planvorming, betwijfelen of de FBE in zijn geheel past in het gebouw aan de Fraijlemaborg, zien negatieve gevolgen voor het onderwijsprogramma en geven aan zich thuis te voelen op de Amstelcampus en niet nog een keer willen verhuizen. </p><p>In de afgelopen weken is hierover overleg geweest tussen het CvB, de decaan en directeur bedrijfsvoering van FBE, docenten en studenten en opleidingsmanagers. Ook in het CBO, het overleg van de decanen van alle faculteiten met het CvB, is de stand van zaken besproken. Hierbij heeft het CvB toegelicht dat er alle ruimte is voor medewerkers en studenten om mee te denken over de toekomstige huisvesting. Wel moet elke oplossing die bedacht wordt, geschikt zijn voor de gehele HvA. Dat wil zeggen&#58; passen binnen het beschikbare budget en binnen de bestaande gebouwen van de HvA en voor álle opleidingen en kenniscentra goede faciliteiten bieden. </p><p>Het plan dat het CvB heeft voorgelegd, is gebaseerd op grondige berekeningen en zorgvuldige afwegingen. Maar het bestuur is geheel bereid elke andere goed onderbouwde oplossing die recht doet aan de geformuleerde uitgangspunten in overweging te nemen. Ook is er ruimte om in overleg tussen opleidingen, faculteiten en CvB te bezien of aanvullende maatregelen nodig zijn om een campus te vervolmaken.&#160; Dat kan zowel over kwantiteit gaan (past het) of over kwaliteit. </p><p>Het CvB gaat nu verder in overleg met de CMR en met vertegenwoordigers van alle faculteiten en opleidingen bekijken hoe de plannen verder ingevuld kunnen worden.&#160;</p>",
+                "publishDateTime": "2017-10-17T14:49:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/e74a3c50-1644-4bad-9d2e-13670f1148e8?newsFeed=news"
+                    }
+                },
+                "newsItemId": "e74a3c50-1644-4bad-9d2e-13670f1148e8",
+                "title": "SPRONG-subsidie voor onderzoek vitaliteit stadsbewoners",
+                "authors": [
+                    "Faculteit Bewegen, Sport en Voeding"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/sprong%20vierkand.jpg",
+                "content": "​​​​De Hogeschool van Amsterdam (HvA) ontvangt twee miljoen euro subsidie, voor het versterken van onderzoek naar een gezondere leefstijl onder kwetsbare stadsbewoners. <br><p>​​​​​​​Het SPRONG-programma, waarbij SPRONG staat voor Stimulering van Praktijkgerichte Onderzoeksgroepen, ondersteunt hogescholen om de gewenste focus en volume te creëren. Wilma Scholte op Reimer, decaan van de faculteiten Gezondheid en Bewegen, Sport en Voeding en penvoerder van Urban Vitality, is enthousiast. “Met de SPRONG-middelen investeren wij in de verdere ontwikkeling van de onderzoeksgroep. Ook gebruiken we de middelen voor meer expertise op het gebied van methodologie en datamanagement.”</p><h2>VERBETEREN GEZONDHEID EN LEEFSTIJL</h2><div>In het Urban Vitality onderzoeksgroep werken drie HvA-faculteiten samen&#58; Gezondheid, Bewegen, Sport en Voeding en Digitale Media en Creatieve Industrie. Lectoren van deze faculteiten onderzoeken samen met een groot aantal partners uit de regio Amsterdam hoe de gezondheid en de leefstijl van kwetsbare groepen in de stad verbeterd kan worden. Een actuele kwestie, omdat veel stadsbewoners niet automatisch meeliften op de trends rondom sporten en gezonde leefstijl.</div><h2>ONDERZOEKSPROJECTEN 2018</h2><div>De SPRONG-subsidie komt op een goed moment. Begin 2018 starten lectoren met twee langlopende onderzoeksprojecten op het gebied van beweeg- en voedingsinterventies bij cardio-chirurgische patiënten en valpreventie bij ouderen. Ook doen zij onderzoek naar ondersteuning voor kinderen met overgewicht en mogelijkheden om ouderen in beweging te krijgen.​De onderzoeksgroep van het HvA-programma ‘Urban Vitality’ krijgt deze nieuwe SPRONG-subsidie voor de komende acht jaar.</div>",
+                "publishDateTime": "2017-10-17T13:30:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/1732e2be-3c8a-45cb-8bff-544c9523d908?newsFeed=news"
+                    }
+                },
+                "newsItemId": "1732e2be-3c8a-45cb-8bff-544c9523d908",
+                "title": "Studenten kunnen beroep doen op noodfonds",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/Huib%20Foto%20onderteking%20Noodfondsvierkant.jpg",
+                "content": "De HvA start een samenwerking met het Fonds Bijzondere Noden Amsterdam. Vandaag hebben Huib de Jong van de HvA en AnneMieke Sprenger van het fonds hiervoor een convenant getekend. <br><p>​​HvA-studenten kunnen een beroep doen op het fonds wanneer DUO, het profileringsfonds of andere studentenfondsen geen hulp meer kunnen bieden. De financiële bijdrage uit het noodfonds moet ervoor zorgen dat de studie van de student niet in gevaar komt. </p><p>Noodsituaties waarbij het fonds een rol kan spelen zijn bijvoorbeeld&#58; een student die beroofd is van geld en laptop of een studente die vanwege het overlijden van een ouder tijdelijk niet aan financiële voorwaarden kan voldoen.</p><p>De samenwerking is een pilot en geldt voorlopig voor een jaar vanaf 1 oktober 2017. Tijdens die periode word gekeken naar de noodsituaties die zich voordoen en welke rol het fonds hierin kan spelen. Aan het eind wordt gekeken of de samenwerking verlengd wordt.</p><p>​Studenten die een aanvraag willen doen, kunnen dat regelen via de studentendecaan. Het fonds zorgt ervoor dat studentendecanen in staat worden gesteld om snel individuele noodhulp te bieden aan studenten.<br></p><p><a href=\"https&#58;//www.fbna.nl/\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">Het Fonds Bijzondere Noden Amsterdam</a> verleent sinds 1936 hulp aan mensen in een financiële noodsituatie, waarbij een bestaande voorziening niet of onvoldoende beschikbaar is.</p>",
+                "publishDateTime": "2017-10-16T14:09:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/4243801f-ed20-4bac-8e30-792c46b8b4e8?newsFeed=news"
+                    }
+                },
+                "newsItemId": "4243801f-ed20-4bac-8e30-792c46b8b4e8",
+                "title": "Welke onderzoeken maken kans op de titel ‘HvA Onderzoek van het Jaar’?",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/MijnHvA%20jury%20RA.jpg",
+                "content": "Na een spannende voorselectie heeft de jury vandaag de vijf genomineerde onderzoeken voor de HvA Research Awards 2017 bekend gemaakt. Nieuwsgierig? Lees snel verder. <br><h3 class=\"ms-rteElement-H3B\">​​De genomineerde onderzoeken&#58;</h3><ul><li><strong>De online aantrekkingskracht van de fysieke winkel</strong> - Amsterdam Creative Industries<br></li><li><strong>Staying Strong and Sexy</strong>. Research and reflections on sexual occupational influences for social workers assisting sex workers – HvA Urban Management<br></li><li><strong>RECURF</strong> - Re-using Circular Urban Fibres and Biobased Plastics in Urban Products - Hergebruik van textiel in biocomposieten&#58; van&#160;materiaal tot toepassing -&#160;Urban Technology<br></li><li><strong>VITale AMsterdamse ouderen IN dE stad</strong>&#58; VITAMINE -&#160;Urban Vitality<br></li><li><strong>SO-HIP-studie</strong>&#58; Sensortechnologie bij de revalidatie van ouderen na een heupfractuur - Urban Vitality<br></li></ul><h3 class=\"ms-rteElement-H3B\">&#160;7 december&#58; Welk onderzoek wordt het HvA Onderzoek van het Jaar?</h3><p>Donderdag 7 december, bij het Research Awards Events, presenteren de vijf onderzoekteams hun onderzoek voor een vakjury én voor jou. In het publiek kan je mede bepalen wie er met de prijzen naar huis gaan.&#160;Meld je snel <a href=\"http&#58;//www.hva.nl/forms/hva/nl/evenementen/research-awards-2017.html?origin=yu%2BvIkUQQGCqsXaIOlKp5w\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">aan​</a>.</p><br><p>Meer lezen over de Research Awards kan op <a href=\"https&#58;//researchawards.mijnhva.nl/Paginas/default.aspx\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">MijnHvA</a>.</p>",
+                "publishDateTime": "2017-10-16T11:22:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/a4db7120-aacd-41a7-8125-2c60b9dd81e3?newsFeed=news"
+                    }
+                },
+                "newsItemId": "a4db7120-aacd-41a7-8125-2c60b9dd81e3",
+                "title": "Eberhard van der Laan opende internationale deuren voor de HvA ",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/burgemeester-eberhard-van-der-laan-h2a.jpg",
+                "content": "In memoriam: burgemeester vol humor en eruditie<br><p>​Net als vele anderen treurt ook de Hogeschool van Amsterdam om het te vroege overlijden van burgemeester Eberhard van der Laan. Zijn aimabele persoonlijkheid, maar ook zijn doortastendheid hebben de stad Amsterdam veel gebracht. </p><p>Hij was een groot pleitbezorger voor de samenwerking van de HvA met de stad en de partners van de stad. Dat deed hij onder andere in de Amsterdam Economic Board waar hij als voorzitter de gemeente, kennisinstellingen zoals de HvA en private organisaties dichter bij elkaar bracht. Het werd een kruisbestuiving waar hij zich heel direct en persoonlijk voor inzette, hard aan werkte en veel mee heeft bereikt. In zijn handelen wist hij altijd urgentie aan te brengen en duidelijk te maken dat de gemeente en de hogeschool verantwoordelijkheid dragen voor de samenleving. Dat heeft de HvA geholpen om zich verder te ontwikkelen. Het was een stimulans voor de sociale en maatschappelijke buurtinitiatieven van HvA-buurtwinkels (BOOT) en de samenwerking op de Knowledge Mile en op de Amstelcampus.</p><p>Ook buiten de stadsgrenzen was Van der Laan een actief ambassadeur voor zijn doelen. Hij was betrokken bij veel missiereizen naar allerlei werelddelen waar hij de HvA voor uitnodigde en bij ondersteunde. &#160;Met zijn aanzien en gewicht opende hij onder meer deuren in Azië voor onze instelling. Eberhard was zeer prettig reisgezelschap. Vol Amsterdamse humor als de missiepartners onder elkaar waren, maar met voorname eruditie als het er formeel aan toe moest gaan.&#160; </p><p>Een ongeduldig mens was Eberhard van der Laan ook. Hij wilde zo graag zo veel bereiken, maar had met bureaucratie, ook van zijn eigen stad, te dealen. Hij heeft veel bereikt voor de stad, ook waar het om zoiets ongrijpbaars gaat als de eensgezindsheid in de stad. Dat was te merken aan de reacties op zijn terugtreden als burgemeester. </p><p>&quot;Het bericht van zijn overlijden heeft me zeer geraakt,&quot;&#160;aldus&#160; HvA-voorzitter Huib de Jong. &quot;Dat heeft veel te maken met de persoonlijke betrokkenheid die Van der Laan altijd toonde als het over onderwijs in Amsterdam ging. Hij was een hele aparte en bijzondere bestuurder en op de hoogte van alles.&quot;<br><br>&#160;'Hij maakte er een punt van dat iedereen in Amsterdam mee moest kunnen doen, bijvoorbeeld als het gaat om werkgelegenheid. Hij maakte daarbij geen onderscheid tussen de onderwijsinstellingen; we stonden samen voor de stad. Als er spanningen waren, was Van der Laan de eerste die naar wegen zocht om dat op te lossen of om ons adviezen te geven hoe we dat politiek en bestuurlijk konden aanpakken. Maar het meest blijft me zijn warmte bij in contacten met anderen.&quot;</p><p>Zijn opdracht dat alle Amsterdammers kansen moeten krijgen, blijven wij vasthouden als richtsnoer voor ons handelen.</p><p>&#160;<em>Namens het College van Bestuur en de decanen van de Hogeschool van Amsterdam </em></p>",
+                "publishDateTime": "2017-10-06T13:21:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/a0246dd1-9674-4f42-9c2e-f6458ba03bfc?newsFeed=news"
+                    }
+                },
+                "newsItemId": "a0246dd1-9674-4f42-9c2e-f6458ba03bfc",
+                "title": "HvA beste grootstedelijke hogeschool in Elsevier ",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/openingsbeeld%20mijnhva.jpg",
+                "content": "In de Elsevier-ranglijst van beste studies die vandaag verscheen staat de Hogeschool van Amsterdam (HvA) op de elfde plaats in de categorie ‘brede hogescholen’. <br><p>​Daarmee scoort de HvA beter dan de andere grootstedelijke hogescholen in ons land. Net als vorig jaar voert de Brabantse Avans Hogeschool Elsevier-lijst van brede hogescholen dit jaar aan. <br><br>De ranglijst is gebaseerd op de vraag ‘hoe tevreden ben je over de opleiding in het algemeen’ uit de Nationale Studenten Enquete (NSE). Studenten gaven een score van 1 (zeer ontevreden) tot 5 (zeer tevreden). Het saldo van het aantal opleidingen dat significant beter of slechter scoort dan het gemiddelde, is gedeeld door het aantal beoordeelde opleidingen. Die totaalscore bepaalt de positie op de ranglijst. Voor de HvA ziet dat sommetje er als volgt uit&#58; van de 56 opleidingen scoorden er tien significant beter en achttien significant slechter. 28 scoorden gemiddeld. Dat leidt tot een totaalscore van -14,3. <br><br>De vermelding in Elsevier past bij het beeld dat de algemene tevredenheid van HvA studenten gestegen is, zoals dat enkele maanden geleden naar voren kwam uit de jaarlijkse NSE en is positiever dan de vermelding in de Keuzegids, die indicatoren uit dezelfde NSE anders weegt. <br></p>",
+                "publishDateTime": "2017-09-28T13:52:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/5aff194c-dcfb-49d5-a82a-d86555ebec7b?newsFeed=news"
+                    }
+                },
+                "newsItemId": "5aff194c-dcfb-49d5-a82a-d86555ebec7b",
+                "title": "Slechte score HvA in Keuzegids HBO 2018",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/Keuzegids2018-thumbnail.jpg",
+                "content": "Vandaag is de Keuzegids HBO 2018 verschenen. Dit jaar staat de HvA er niet goed voor: we eindigen namelijk als laatste in de ranking, met een gemiddelde score van 52.<br><p>De Keuzegids HBO 2018 vermeldt over de HvA-uitslag, dat met name ‘de economische opleidingen gebukt gaan onder massaliteit en matige begeleiding’.&#160; Opvallend is dat andere grote hogescholen in de Randstad een vergelijkbare score halen als de HvA&#58; Hogeschool Inholland, Hogeschool Utrecht en Hogeschool Rotterdam krijgen allen 53 punten. </p><h2>Serieus signaal&#160;</h2><p>Uiteraard wil de HvA&#160; niet op de laatste plaats staan. We nemen het signaal zeer serieus. Eerder dit jaar werd de Nationale Studenten Enquete (NSE) gehouden, een grootschalig&#160;onderzoek onder studenten. Daaruit bleek dat de algemene tevredenheid van HvA-studenten over hun opleiding voor het tweede achtereenvolgende jaar gestegen was. Ook het studiesucces – het percentage studenten dat de opleiding binnen vijf jaar voltooit – vertoont een stijgende lijn. Dat is nadrukkelijk het geval in de Faculteit Business en Economie. Toch bevestigt de positie in de Keuzegids dat er nog veel zaken zijn die beter kunnen en moeten. De HvA pakt die handschoen op. </p><h2>Verschillende ranglijsten</h2><p>Er bestaan verschillende ranglijsten voor hogescholen en universiteiten. Naast de Keuzegids, verschijnt&#160; jaarlijks ook Elsevier beste studies en de Nationale Studenten Enquête (NSE). Onze positie in die verschillende ranglijsten wisselt. Dat wordt veroorzaakt door verschillen in de weging van indicatoren&#160; die elke ranglijst hanteert. Voor de HvA is de NSE de belangrijkste graadmeter. </p>",
+                "publishDateTime": "2017-09-26T11:36:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/c3b2b272-1796-496b-846c-3489e411b57d?newsFeed=news"
+                    }
+                },
+                "newsItemId": "c3b2b272-1796-496b-846c-3489e411b57d",
+                "title": "Nieuw! Agenda op je startpagina en verbeterde zoekfunctie",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/Laptop.jpg",
+                "content": "Om het gebruik van MijnHvA voor jou nog makkelijker te maken, hebben we in de zomer verschillende veranderingen doorgevoerd. Lees hieronder meer.<br><p>​</p><h2>Agenda op je startpagina</h2><div>Stonden de evenementen waar je voor werd uitgenodigd en belangrijke data bij jou ook ergens verstopt tussen de mededelingen en nieuwsberichten op MijnHvA? Dit verandert door de nieuwe agenda-functie op je startpagina.&#160;</div><div><br></div><div>Als student zie je in de agenda alle evenementen die door je opleiding of door de HvA voor jou worden georganiseerd. Denk hierbij aan een gastcollege voor je opleiding, minorenmarkt of het HvA Carrière-Event. Ook kunnen hier belangrijke data staan, zoals deadlines voor herinschrijving of aanmelden voor een minor.&#160;</div><div><br></div><div>De evenementen staan op volgorde van datum zodat je niets meer mist. Ben je geïnteresseerd in een evenement? Klik het evenement aan voor meer informatie zoals tijden en aanmeldmogelijkheden.&#160;</div><div><br></div><h2>Verbeterde zoekfunctie</h2><div>Maak jij vaak gebruik van de zoekbalk in MijnHvA? Goed nieuws&#58; in de zoekresultaten staan voortaan ook resultaten vanuit de A-Z-lijst. Op deze manier vind je praktische informatie over studeren aan de HvA nog makkelijker.&#160;</div><div><br></div><h2>Meer weten?&#160;</h2><div>Kijk in de A-Z-lijst bij ‘MijnHvA’ of <a href=\"https&#58;//els.mijnhva.nl/nl/Paginas/Veelgestelde-vragen-MijnHA.aspx?wid=WebPartWPQ3&amp;cb=Tags$DLWO-algemeen%3bOndersteuning\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">neem contact op met jouw faculteit</a> (selecteer je faculteit aan de rechter kant van de pagina).</div>",
+                "publishDateTime": "2017-09-04T07:00:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/859b893f-4a78-4372-9a4c-29df57bea63f?newsFeed=news"
+                    }
+                },
+                "newsItemId": "859b893f-4a78-4372-9a4c-29df57bea63f",
+                "title": "Je voorkeuren (opnieuw) aangeven op MijnHvA?",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/Laptop.jpg",
+                "content": "Bij het inloggen op MijnHvA heb je mogelijk (opnieuw) je voorkeuren moeten aangeven. Nieuwsgierig waarom? Lees meer in dit bericht. <br><p><div><div>Deze zomer hebben we verschillende veranderingen doorgevoerd om het gebruik van MijnHvA voor jou nog makkelijker te maken. Door je voorkeuren (opnieuw) aan te geven, verschijnt de voor jou relevante informatie – bijvoorbeeld van je opleiding – op je startpagina van MijnHvA.&#160;</div><div><br></div><div>Heb je je voorkeuren nog niet zorgvuldig aangegeven? Doe dit alsnog door in de groene navigatiebalk op je foto te klikken, vervolgens kies je voor ‘Wizard eerste gebruik’.&#160;</div><div><br></div><h2>Meer weten?&#160;</h2><div>Kijk in de A-Z-lijst bij ‘MijnHvA’ of neem <a href=\"https&#58;//els.mijnhva.nl/nl/Paginas/Veelgestelde-vragen-MijnHA.aspx?wid=WebPartWPQ3&amp;amp%3bamp%3bcb=Tags$DLWO-algemeen%3bOndersteuning\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">contact op met jouw faculteit​</a> (selecteer je faculteit aan de rechter kant van de pagina).​</div><br></div>",
+                "publishDateTime": "2017-08-29T11:10:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/860c665e-6158-4f1b-b2e6-b8bc438b86f9?newsFeed=news"
+                    }
+                },
+                "newsItemId": "860c665e-6158-4f1b-b2e6-b8bc438b86f9",
+                "title": "SMAAK-event",
+                "authors": [
+                    "Faculteit Bewegen, Sport en Voeding"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/smaak%20winnaar.jpg",
+                "content": "Duurzame en gezonde snacks, dan denk je al snel aan een wortel of suikervrije mueslirepen met quinoa. Als we de fitgirls op Instagram moeten geloven een feest, een foodie vraagt zich af: waar blijft het eten? <br><p>​​Voeding en Diëtetiek organiseerde op 29 juni samen met FLOOR de zomermarkt SMAAK! met gezonde en duurzame snackconcepten van studenten, waar ook jij blij van wordt. Van groentesnoep tot falafelvinge​r, verantwoord snoepen was een feest.</p><p>​<br></p><p><em>Foto&#58; Jan-Kees Steenbergen</em></p><h2>GEZONDE SNACKS</h2><p>In de centrale hal van het Kohnstammhuis konden bezoekers zich te goed doen aan de snacks van de studenten. Marktkraampjes aangekleed met productinformatie en marketingcampagnes van de gezonde snacks. Een jury liep alle kraampjes langs om aan het eind van de middag een winnaar uit te roepen. Criteria&#58; smaak, presentatie, eetgemak, duurzaamheid en toepasbaarheid binnen de HvA-kantines.</p><h2>SYMPOSIUM</h2><p>Maar eerst was er een symposium over hoe kan het ook anders&#58; SMAAK! Twee smaakspecialisten en een food-historicus vertelden over 'tastebuds', multisensorisch-proeven en de geschiedenis van het Europese menu.</p><p>BBQ-sparende carnivoor en kok Maurits de Klepper vertelde dat we echt niet bang hoeven te zijn voor MSG (E621) en dat dit juist umami (de vijfde smaak) in zijn puurste vorm is, dat alles lekker maakt. Zet die pot dus maar gewoon op tafel naast het zout en peper.</p><p><em>&quot;MSG is niets anders dan aminozuren&quot; – Maurits de Klepper</em></p><p>Garmt Dijksterhuis, vegetariër en food-onderzoeker vertelde over multisensorisch proeven, dat de alom bekende indeling op onze tong van zoet, zuur, zout, bitter en umami onzin was en dat proeven, horen, zien niet de enige zintuigen zijn waarmee we smaak ervaren.</p><p><em>&quot;Lekker eten ligt aan jezelf&quot; – Garmt Dijksterhuis</em></p><p>Food-historicus Annelies Witteberge nam ons mee in een reis door de eetgeschiedenis van Europa. De Romeinen maakten vroeger blijkbaar vissaus (Gorum) die kilometers buiten de stad gefermenteerd moest worden, omdat het zo erg stonk. Onze vorsten waren dol op specerijen uit Indië omdat ze zich daarmee konden onderscheiden van het plebs. Het verzamelen van receptuur was ook een rijkeluishobby, want als je arm was, was je allang blij dat er eten op tafel stond.</p><p><em>&#160;&quot;Wat op je bord ligt, wordt bepaald door een historische context&quot; - Annelies Witteberge</em></p><p>Dit was slechts een greep uit wat de drie foodkenners vertelden. Het publiek luisterde met open mond. Wil je meer weten?&#160;De smaakspecialisten hebben hun kennis ook opgeschreven in een aantal boeken&#58;&#160;<em>Hoe smaakt het? – Garmt Dijksterhuis en Smaak! Een geschiedenis in 120 recepten – Annelies Witteberge</em></p><h2>winnaar&#160;beste snackconcept</h2><p>Op wat kruimels na waren de meeste snacks uitverkocht. Wie had het beste snackconcept? De publieksprijs ging naar 'Happy Cup', een deegbakje van avocado, haver​mout en chocolade,&#160;met een vulling van yoghurt.&#160;</p><p>De jury viel voor de 'Snackaron', macarons&#160;van rode biet met een geitenkaas-en kersenvulling, alsof er een engeltje over je tong… nou ja, je weet wel. De winnaars gaan in gesprek met <a href=\"https&#58;//www.facebook.com/TheFoodLabHvA/?ref=py_c\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">the Food Lab</a>, een initiatief van Voeding-studenten die&#160;zich bezighouden&#160;met gezonde voeding voor de HvA-schoolkantines.​</p><p>De jury bestond uit&#58;</p><ul><li>Johan Bos (Cormet Catering)</li><li>Floor Uitterhoeven (manager duurzaamheid FNLI)</li><li>Guide Meijer (Facility Services HvA/UvA)</li></ul><p>Naast de gezonde snacks werden ook de afstudeeronderzoeken van de vierdejaarsstudenten beoordeelt. Zij presenteerden hun afstudeerprojecten&#160;op posters in de centrale hal van het Kohnstammhuis. De prijzen gingen naar&#58;</p><ul><li>1<sup>e</sup> prijs&#58; Elke Weener &amp; Iris Caron</li><li>2<sup>e</sup> prijs&#58; Roza Fraza</li><li>3<sup>e</sup> prijs&#58; Doreen Bruin &amp; Lysanne Smit​</li></ul><p><em>Tekst&#58; Chris Ammeraal (redacteur FLOOR)</em></p>",
+                "publishDateTime": "2017-07-03T14:22:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/880839f4-e499-4d26-a9d3-3dbbf6725b8b?newsFeed=news"
+                    }
+                },
+                "newsItemId": "880839f4-e499-4d26-a9d3-3dbbf6725b8b",
+                "title": "Marco Kloek eerste studentassessor HvA",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/Marco%20Kloek%20vierkant%20MijnHvA.jpg",
+                "content": "Bachelor-student HBO-ICT Marco Kloek wordt per 1 september 2017 studentassessor bij de Hogeschool van Amsterdam (HvA). <br><p>​</p>Het College van Bestuur (CvB) heeft hem voor de\nperiode van één jaar benoemd, met ingang van het komende studiejaar. In zijn\nnieuwe rol gaat Kloek het CvB vanuit studentenperspectief adviseren over alle\nonderwerpen die ter tafel komen. De HvA is de eerste hogeschool in Nederland\ndie de functie van studentassessor op CvB-niveau invult. <p>&#160;</p><h2>Sporen verdiend</h2><p>\nMarco Kloek (26) is sinds 2012 student aan de HvA. Hij studeert HBO-ICT met als\nspecialisatie Business\nIT &amp; Management. Hij is nu bezig met zijn afstudeerfase. Op het gebied van\nmedezeggenschap heeft Kloek zijn sporen ruimschoots verdiend. Vrijwel vanaf het\nbegin van zijn studie is hij betrokken bij de medezeggenschap van zijn\nopleiding en faculteit. In januari 2014 kwam daar het lidmaatschap van de\nCentrale Medezeggenschapsraad (CMR) bij. In die functie houdt Marco zich\nsindsdien voornamelijk bezig met financiën en reglementen en met\nstudentgerelateerde onderwerpen. </p><h2>Pioniersrol</h2><p>\nMarco Kloek zegt blij te zijn met zijn benoeming. “Een hogeschool is van en\nvoor de studenten. Het is daarom van groot belang dat alle onderwerpen die in\nhet CvB worden besproken, ook vanuit studentenperspectief worden belicht.\nDaarin heeft de studentassessor een belangrijke rol. Ook kan ik onderwerpen\ninbrengen die soms te weinig prioriteit hebben, maar waar studenten wel heel\ndirect last van hebben. Bijvoorbeeld roosterproblemen of de lange wachttijd van\nteruggave cijfers. Ik verwacht met mijn ervaring deze pioniersrol goed te\nkunnen vervullen. Waarbij ik er meteen aan toevoeg dat ik deze nieuwe rol ook\nbest spannend vind. Maar dat maakt de uitdaging alleen maar groter.”</p><h2>Zeer\ngeschikt</h2><p>\nCvB-voorzitter HvA Huib de Jong kijkt erg uit naar de samenwerking met Marco\nKloek aan de collegetafel. “Het meer betrekken van studenten bij het bestuur en\nbeleid van onze hogeschool is een prioriteit uit ons Instellingsplan. Op\nverschillende manieren geven we hier vorm aan, oa. door investering in 'student\nengagement'. Ik ben heel blij dat dit nu ook handen en voeten krijgt met de\nkomst van Marco als studentassessor. Via hem worden de ideeën en meningen van\nstudenten nog meer onderdeel van de besluitvorming van de hogeschool. Marco is\nervaren in de medezeggenschap en mede daardoor dus zeer geschikt voor deze\nfunctie.” </p><h2>Netvlies</h2><p>\nPieter Claeys, voorzitter van de Centrale Medezeggenschapsraad ziet de\nbenoeming van Marco Kloek als een belangrijk moment in de zeggenschap van de\nHvA. “Studentenparticipatie bij alle geledingen van de HvA is enorm belangrijk.\nOok op CvB-niveau. Daarom hebben wij ons als CMR hard gemaakt voor de komst van\neen studentassessor. Met de ervaring die Marco de afgelopen jaren heeft\nopgedaan als CMR-lid, heb ik er alle vertrouwen in dat hij ook deze functie,\nmet de student centraal op het netvlies, op een goede wijze weet in te vullen.“</p>",
+                "publishDateTime": "2017-06-29T10:30:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/f289f18d-6e66-470b-aee8-b27e9cfc6f76?newsFeed=news"
+                    }
+                },
+                "newsItemId": "f289f18d-6e66-470b-aee8-b27e9cfc6f76",
+                "title": "Rustruimtes HvA in gebruik genomen",
+                "authors": [
+                    "Facility Services"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/hva.jpg",
+                "content": "Vanaf vandaag, donderdag 22 juni, zijn drie rustruimtes in gebruik genomen bij de HvA. De ruimtes zijn bedoeld als plek waar studenten en medewerkers terecht kunnen om zich even te onttrekken aan de hectiek van de dag.<br><p>Je vindt de ruimtes in het Wibauthuis, in de Fraijlemaborg en in de Leeuwenburg. </p><p>De ruimtes hebben een neutrale uitstraling en zijn bedoeld om je even in alle rust terug te kunnen trekken voor een individueel moment van bezinning, meditatie of reflectie. Om te zorgen dat iedereen prettig gebruik kan maken van de rustruimtes zijn er gebruiksregels opgesteld. Deze gebruiksregels vind je in de rustruimte.</p><h2>Locaties<br></h2><p>De rustruimtes bevinden zich op de volgende plekken&#58;<br><br>- Wibauthuis, ruimte 02C25<br>- Fraijlemaborg, ruimte 1.006<br>- Leeuwenburg, ruimte D1.03<br></p><h2>Meer informatie</h2><p>Informatie over (het gebruik van) de rustruimtes en de gebruiksregels vind je via mijnhva.nl in de A-Z-lijst onder het kopje ‘Rustruimtes’.</p>",
+                "publishDateTime": "2017-06-22T07:00:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/b54ff1e7-bc1d-4cf0-afa3-8cd4319da800?newsFeed=news"
+                    }
+                },
+                "newsItemId": "b54ff1e7-bc1d-4cf0-afa3-8cd4319da800",
+                "title": "Bewaartermijn tentamens naar een jaar",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/Dossiers-3.jpg",
+                "content": "Met ingang van studiejaar 2017-2018 is de bewaartermijn van tentamens één jaar na afname. Dat heeft het College van Bestuur besloten. Tot nu toe gold een termijn van twee jaar.  <br><p>​Een werkgroep van docenten, voorzitters van de examencommissie en vertegenwoordigers vanuit Juridische Zaken, Onderwijs en Onderzoek en Documentaire Informatievoorziening heeft het CvB ​geadviseerd de bewaartermijn op één jaar na afname van het tentamen vast te stellen. Het college heeft dit advies overgenomen. Dit verlicht de administratieve last van de onderwijsadministraties zonder dat de service aan de student wordt aangetast. De termijn om bezwaar te maken tegen de uitslag van een tentamen blijft op zes weken staan.<br></p><h2>Service aan studenten</h2><p>De landelijke bewaartermijn voor tentamens is door de Vereniging Hogescholen teruggebracht van twee jaar naar zes weken om de administratieve druk voor docenten en onderwijsadministraties te verminderen. Binnen de HvA bestonden zorgen over een bewaartermijn van zes weken, omdat vanwege de BSA's tentamens uit de propedeuse minstens één studiejaar bewaard moeten worden. Ook vanuit didactisch oogpunt en service aan de student willen opleidingen tentamens niet eerder vernietigen dan na afloop van het studiejaar. Bovendien is een bewaartermijn van zes weken te kort in beroepsprocedures. &#160;​</p><p>​<br></p>",
+                "publishDateTime": "2017-06-21T07:46:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/92231dd3-b4d0-41b6-bbdd-71dd4086c2ad?newsFeed=news"
+                    }
+                },
+                "newsItemId": "92231dd3-b4d0-41b6-bbdd-71dd4086c2ad",
+                "title": "Tevredenheid HvA-studenten wederom gestegen",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/NSE1.jpg",
+                "content": "74% van de HvA-studenten is tevreden tot zeer tevreden over de opleiding. Dat is iets meer dan vorig jaar. Dat blijkt uit de resultaten van de Nationale Studenten Enquête (NSE) die vandaag zijn gepubliceerd. <br><div>De tevredenheid van HvA-studenten stijgt hiermee voor het derde achtereenvolgende jaar. Dit jaar vulde 32% van alle HvA-studenten de enquête in. Lees alle resultaten op <a href=\"https&#58;//www.studiekeuze123.nl/opleidingen\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">de website van Studiekeuze123</a>.&#160;</div><h2>Zeer content</h2><div>HvA-studenten blijken ook dit jaar zeer content met de inhoud van de opleiding en over de docenten,&#160;twee zaken waar zij veel belang aan hechten. Ten opzichte van vorig jaar blijken studenten meer tevreden over toetsten en beoordelen,&#160;studiebegeleiding en het studierooster. Hoewel de tevredenheid over het rooster zelf verbeterd is, blijken veel studenten nog niet tevreden over het tijdig en goed communiceren over het rooster en wijzigingen daarin. Andere zaken waar studenten minder tevreden over zijn dan vorig jaar zijn de voorbereiding en begeleiding van stages vanuit de opleiding en de studiefaciliteiten.&#160;&#160;</div><h2>Terugkoppeling resultaten</h2><div>De Nationale Studenten Enquête wordt jaarlijks afgenomen onder studenten van alle hogescholen en universiteiten in Nederland. Het grootschalige onderzoek levert de HvA belangrijke en betrouwbare informatie op over zaken waar studenten wel of niet tevreden over zijn. Studenten krijgen voor de zomervakantie een terugkoppeling van de resultaten - en over de conclusies die daaraan worden verbonden – van hun opleiding.&#160;&#160;</div><h2>Trots</h2><p>Huib de Jong, rector van de HvA, toont zich verheugd over&#160;de uitkomst van de NSE. ‘Een stijging van de algemene tevredenheid is een groot compliment voor alle medewerkers. In eerste instantie voor de docenten uiteraard. Zij bepalen het beeld van ons onderwijs. Maar ook voor alle medewerkers van de ondersteunende afdelingen. Docenten en ondersteuners zijn samen verantwoordelijk voor de beleving van de studie door studenten. Het is geweldig dat de tevredenheid nu voor het derde jaar is gestegen. Met deze score horen wij tot de beste grote hogescholen in de&#160;Randstad en daar mogen we trots op zijn. Maar daar staan we niet te lang &#160;bij stil, want het onderzoek wijst ons ook op zaken waar we beter in moeten worden. Die boodschap is helder aangekomen en die pakken we op. Zo werken we bijvoorbeeld intensief aan het verbeteren van roostering. Het verbeteren van de informatie naar studenten over roosters en roosterwijzigingen maakt daar deel van uit.&#160;</p><p><br></p><h2>AUAS student satisfaction continues to rise</h2><div>&#160;</div><div>Some 74% of AUAS students are satisfied or very satisfied with their degree programme, which is slightly more than last year. These are results of the National Student Survey (NSE), which were published today.&#160;</div><div><br></div><div>Student satisfaction at the Amsterdam University of Applied Sciences (AUAS) has been on the rise for the third year in succession. This year, 32% of the AUAS students completed the survey. To see the full results, visit the <a href=\"https&#58;//www.studiekeuze123.nl/opleidingen\" title=\"Opent in nieuw tabblad\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">Studiekeuze123 website​</a>.​</div><div>&#160;</div><h2>Very happy</h2><div>This year, AUAS students are once again very happy with the content of their degree programme as well as their lecturers, two aspects we find very important. Compared to last year, students are more satisfied with tests, assessment, student counselling and the study timetables. Although satisfaction with the timetable itself has improved, many students are still dissatisfied with communication about the timetable and any changes to it, which is not as good and as timely as they would like. Other subjects that students were less satisfied about compared to last year included the preparation for and supervision of work placements provided by the degree programme staff, and the study facilities.&#160;</div><div>&#160;</div><h2>Feedback on results</h2><div>The National Student Survey is conducted annually among students of all universities in the Netherlands. The large-scale survey yields a great deal of important and reliable information for AUAS regarding student satisfaction. Prior to the summer holidays, students receive feedback on the results from their programme department, as well as on the conclusions that have been drawn.&#160;</div><div>&#160;</div><h2>Gratified</h2><div>Huib de Jong, rector of AUAS, is gratified with the NSE results. 'The fact that general satisfaction has risen is a huge compliment for all of our employees. First off for our lecturers of course, as they are the ones who determine what our teaching looks like, but it's also a compliment for everyone working in the supporting departments. Lecturers and support staff are jointly responsible for the way students experience their degree programme. It is wonderful that satisfaction has risen for the third year in a row. This score means that we are one of the best universities of applied sciences in the Randstad region and that's something we can be proud of. We won't be resting on our laurels, however, because the survey also shows that there are matters that need our attention. We have received that message loud and clear, and will be taking measures to improve things. One thing we will be doing is introducing a new timetabling system which will hopefully mean that students receive better information.'</div>",
+                "publishDateTime": "2017-05-17T22:05:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/324678eb-f1fd-4fb7-8149-76e504158199?newsFeed=news"
+                    }
+                },
+                "newsItemId": "324678eb-f1fd-4fb7-8149-76e504158199",
+                "title": "Word jij de eerste studentassessor van de HvA?",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/dak%20hva%20thumb.jpg",
+                "content": "De HvA krijgt vanaf het studiejaar 2017-2018 voor het eerst een studentassessor. De assessor wordt een belangrijke adviseur van het College van Bestuur die adviseert vanuit studentenperspectief over alle onderwerpen die ter tafel komen. <br><p>​​<a href=\"/hva-nieuws/Documents/Vacaturetekst%20studentassessor%20CvB.pdf\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">f</a>​​​​Dit&#160;heeft het CvB van de HvA vandaag besloten. Hiermee is de HvA&#160;de eerste hogeschool in Nederland die de functie van studentassessor toevoegt aan het CvB.</p><h2>Bestuurs- of medezeggenschapservaring</h2><p>De vacature voor 24 uur per week staat open voor alle HvA-studenten die minimaal een propedeuse op zak hebben. Studenten die bestuurs- of medezeggenschapservaring hebben, genieten de voorkeur. Na afloop van het eerste jaar zal de HvA de functie evalueren. Lees hier de gehele&#160;<a href=\"/hva-nieuws/Documents/Vacature%20studentassessor%20cvb%202017.pdf\" target=\"_blank\" onclick=\"window.open(this.href, '_blank', 'location=yes'); return false;\">vacaturetekst</a>​​​.&#160;Is het iets voor jou? Reageer dan vóór 1 juni 2017.</p><h2>Grote waarde</h2><p>De HvA hecht grote waarde aan de inbreng van studenten in het beleid van de hogeschool. Daarvoor kent de HvA al de bijdrage van de studenten in de&#160;Centrale Medezeggenschapsraad,&#160;de faculteitsraden en de opleidingscommissies. De hogeschool heeft daarnaast in haar Instellingplan 2015-2020 het meer betrekken van studenten tot prioriteit benoemd. Het aantal studieverenigingen aan de HvA is als gevolg daarvan al substantieel gestegen. Om al in een vroegtijdig stadium in het beleidsproces&#160;het studentenperspectief te betrekken, wordt daar nu de nieuwe functie van studentassessor aan toegevoegd.&#160;</p><h2>Studentenperspectief</h2><p>De studentassessor, die overigens geen bestuurlijke verantwoordelijkheid draagt, zal gaan deelnemen aan alle beraadslagingen van het CvB en woont daartoe alle collegevergaderingen bij. Het student-lid kan ook zelf onderwerpen op de bestuurlijke agenda plaatsen. Over alle onderwerpen die ter tafel komen adviseert de studentassessor het bestuur, waardoor er in een vroegtijdig stadium rekening wordt gehouden met de ideeën en meningen vanuit de&#160;studentengemeenschap. Daarvoor houdt de studentassessor nauw contact met studenten binnen en buiten de officiële medezeggenschap om zodoende goed te weten wat er onder de HvA-studenten leeft.</p><h2>Positief</h2><p>Huib de Jong, rector HvA, ziet uit naar de komst van de eerste studentassessor binnen de HvA. &quot;Betrokkenheid van studenten is essentieel voor een goed draaiende hogeschool. Natuurlijk hebben we al de formele medezeggenschap die daarin een belangrijke rol vervult. Maar het was diezelfde medezeggenschap die positief adviseerde over de aanstelling van een studentassessor. Positief ben ik zelf ook. Ik verwacht dat de studentassessor binnen de HvA een enorme positieve stimulans voor participatie van studenten kan betekenen.&quot;</p><p>",
+                "publishDateTime": "2017-05-09T12:37:00",
+                "lastModified": null
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/v2/news-items/me/32d33922-c6f2-4ce2-b9c9-af13c75f0e19?newsFeed=news"
+                    }
+                },
+                "newsItemId": "32d33922-c6f2-4ce2-b9c9-af13c75f0e19",
+                "title": "HvA en Inholland maken afspraken over lerarenopleidingen",
+                "authors": [
+                    "Communicatie"
+                ],
+                "image": "https://afbeeldingen-hva-nieuws.mijnhva.nl/PublishingImages/MijnHvA-InHolland.jpg",
+                "content": "Hogeschool Inholland zal met ingang van het nieuwe studiejaar (2017-2018) nieuwe studenten voor de tweedegraads lerarenopleidingen doorverwijzen naar de HvA en daarna geen nieuwe studenten meer aannemen. <br><p>​Studenten die in het huidige studiejaar reeds studeren bij Hogeschool Inholland kunnen hun opleiding daar afronden. Deze afspraken zijn gemaakt door de Colleges van Bestuur van Hogeschool Inholland en de Hogeschool van Amsterdam over de lerarenopleidingen van beide instellingen.&#160;</p><div>&#160;</div><h2>Teachers College</h2><div>Omdat lerarenopleidingen relatief klein en kostbaar zijn, is concentratie van opleidingen één van de speerpunten van de Lerarenagenda van het ministerie van OCW. De huidige stap van Hogeschool Inholland sluit aan bij die koers. Inholland en de HvA nemen samen met beide Amsterdamse universiteiten (UvA en VU) hun verantwoordelijkheid voor het opleiden van voldoende en goede leerkrachten voor het basis-, voortgezet- en beroepsonderwijs voor de metropoolregio Amsterdam. In het ‘Teachers College’ stemmen zij het aanbod van lerarenopleidingen (pabo’s; tweedegraads – en eerstegraads lerarenopleidingen) op elkaar af.</div><div><br>​</div>",
+                "publishDateTime": "2017-05-03T10:00:00",
+                "lastModified": null
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "/v2/news-items/me?pageNumber=0&pageSize=30&newsFeed=news&principalId=500741127"
+        }
+    }
+}
