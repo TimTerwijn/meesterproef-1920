@@ -1,3 +1,3 @@
-import * as berichten from "/components/berichten/berichten.js"
+import * as messages from "/components/messages/messages.js"
 
-berichten.load();
+messages.load();

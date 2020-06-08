@@ -1,5 +1,5 @@
 function load(){
-    fetch('/components/berichten/berichten.html')
+    fetch('/components/messages/messages.html')
     .then((response) => {
         return response.text();
     })
@@ -7,7 +7,7 @@ function load(){
         //fill html page 
         document.getElementById("test").innerHTML = html;   
 
-        //get json files and fill berichten
+        //get json files and fill messages
         apiCall();
     });
 }
@@ -31,10 +31,10 @@ function fill(json){
 
     let html = ""
 
-    json.forEach(function(bericht){
-        const urgent = bericht.urgent;
-        const message = bericht.content.replace(/(<([^>]+)>)/ig,"");
-        const date = bericht.publishDateTime;
+    json.forEach(function(object){
+        const urgent = object.urgent;
+        const message = object.content.replace(/(<([^>]+)>)/ig,"");
+        const date = object.publishDateTime;
         
         html += `
             <article> 
@@ -51,7 +51,7 @@ function fill(json){
         `;
     });
 
-    const container = document.getElementById("berichten");
+    const container = document.getElementById("messages");
     container.innerHTML = html;
 }
 

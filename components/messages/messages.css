@@ -1,19 +1,19 @@
-#berichten{
+#messages{
     height: 100%;
 }
 
-#berichten .urgent{
+#messages .urgent{
     font-weight: bold;
 }
 
 @supports (display: grid) {
-    #berichten{
+    #messages{
         /* display: flex; */
         padding: 1rem;
         flex-direction: column;
     }
 
-    #berichten>article{
+    #messages>article{
         min-height: 75px;
         width: 100%;
         border: 2px solid black;
@@ -24,7 +24,7 @@
         padding: 4px 0;
     }
 
-    #berichten>article>section{
+    #messages>article>section{
         font-size: 1.1rem;
         display:grid;
         align-self: center;
@@ -32,13 +32,13 @@
         padding: 0px 0;
     }
 
-    #berichten>article>section:nth-child(1){
+    #messages>article>section:nth-child(1){
         grid-column-start: 1;
         grid-row-start: 1;
         grid-row-end: span 2;
     }
 
-    #berichten>article>section:nth-child(1)>p{
+    #messages>article>section:nth-child(1)>p{
         text-align: center;
         font-size: 3.4rem;
         font-weight: bold;
@@ -46,12 +46,12 @@
         font-family: cursive;
     }
 
-    #berichten>article>section:nth-child(2){
+    #messages>article>section:nth-child(2){
         grid-column-start: 2;
         grid-row-start: 1;
     }
 
-    #berichten>article>section:nth-child(3){
+    #messages>article>section:nth-child(3){
         grid-column-start: 2;
         grid-row-start: 2;
     }
