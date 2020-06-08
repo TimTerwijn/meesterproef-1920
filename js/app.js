@@ -7,3 +7,7 @@ menu.load();
 //submenu.load();
 //messages.load();
 //results.load();
+
+function toggleHide(element){
+    console.log(element);
+}
