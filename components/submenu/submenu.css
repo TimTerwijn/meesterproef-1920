@@ -1,9 +1,9 @@
-#menu{
+#subsubmenu{
     height: 100%;
 }
 
 /* IE CSS */
-#menu>article{
+#subsubmenu>article{
     text-align: center;
     position: relative;
     top: 50%;
@@ -12,18 +12,18 @@
     transform: translateY(-50%);
 }
 
-#menu p, #menu i{
+#subsubmenu p, #subsubmenu i{
     display: none;
 }
 
 /* show only text */
-#menu a>div:nth-child(3)>p{
+#submenu a>div:nth-child(3)>p{
     display: block;
 }
 
 @supports (display: grid) {
     /* remove IE styles */
-    #menu>article{
+    #submenu>article{
         text-align: initial;
         position: initial;
         top: initial;
@@ -32,24 +32,24 @@
         transform: translateY(0);
     }
 
-    #menu p, #menu i{
+    #submenu p, #submenu i{
         display: initial;
     }
 
     /* Acutal css */
-    #menu{
+    #submenu{
         display: grid;
         place-items: center;
     }
 
-    #menu>article{
+    #submenu>article{
         display: grid;
         grid-template-columns: auto auto auto auto;
         column-gap: 20px;
         row-gap: 10px;
     }
 
-    #menu>article>a{
+    #submenu>article>a{
         height: 50px;
         width: 50px;
         border: 2px solid black;
@@ -61,18 +61,18 @@
         font-size: 0.6rem;
     }
 
-    #menu>article>a>div:nth-child(1){
+    #submenu>article>a>div:nth-child(1){
         color: red;
         grid-row-start: 1;
         grid-column-start: 1;
     }
 
-    #menu>article>a>div:nth-child(2){
+    #submenu>article>a>div:nth-child(2){
         grid-row-start: 1;
         grid-column-start: 2;
     }
 
-    #menu>article>a>div:nth-child(2)>p{
+    #submenu>article>a>div:nth-child(2)>p{
         float: right;
         text-align: center;
         background-color: red;
@@ -81,7 +81,7 @@
         color: white;
     }
 
-    #menu>article>a>div:nth-child(3){
+    #submenu>article>a>div:nth-child(3){
         grid-column-start: 1;
         grid-column-end: span 2;
         grid-row-start: 1;
