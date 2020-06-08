@@ -33,21 +33,21 @@ function setInfoButtonsEvent(){
 
     let i = 0;
     for (const infoButton of infoButtons) {
-        infoButton.onclick = (function() {
-            console.log("test");
-            
+        const description = descriptions[i++];
+        infoButton.addEventListener("click", function(event) {
+            event.preventDefault();
+
             //change description of info
-            info.firstElementChild.innerHTML = descriptions[i++];
+            info.firstElementChild.innerHTML = description;
             
             //show info
             info.classList.remove("hidden");
 
             //set button to black
             infoButton.style.backgroundColor = "black";
-        });
+        }, false);
     }
 }
-
 
 export {
     load,
