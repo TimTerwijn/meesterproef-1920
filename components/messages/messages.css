@@ -10,7 +10,6 @@
     #messages{
         /* display: flex; */
         padding: 1rem;
-        flex-direction: column;
     }
 
     #messages>article{
