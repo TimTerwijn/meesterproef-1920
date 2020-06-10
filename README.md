@@ -129,14 +129,25 @@ Thirdly, to split of news, I want to make a menu in the top part of the news too
 ### Make
 As you can see in figure eight I added a speech bubble when someone presses the I button, after the user clicks anywhere it disapears and the I button gets disabled by changing to black. 
 
-I also make some kind of menu as you can see in figure nine tho split the news into four parts. I do not know how to split them because I can't find anything in the JSON for now, but it is nice to show something new to the students.  
+I also make some kind of menu as you can see in figure nine tho split the news into four parts. I do not know how to split them because I can't find anything in the JSON for now, but it is nice to show something new to the students. 
 
+I started working the rest of this week on code because I had not done it before. This means that I do not have that much to show to the students this week during the check phase.
 
 ![Desktop prototype](docs/img/prototype3-info.PNG "Desktop prototype")  
 Figure 8: Showing the information.  
 
 ![Desktop prototype](docs/img/prototype3-nieuws.PNG "Desktop prototype")  
 Figure 9: The news page of the third prototype.
+
+### Check
+
+I explained the situation to the students that I do not have many things to show, and they understand. I showed them the two new features and they liked it. Obe told me that he wanted to see all clicks and that it would be smart to have everything done what I want to test by vriday so that the students can test it one more time.
+
+The students also gave me some feedback, they wanted to see if a button is a link or not and they want Instagram, Facebook and Youtube buttons.
+
+### Make
+
+This week it is importand for me to make all the thinks I want to have tested by the students. Because it is the last week that I can test my work with them.
 
 ## Reflection
 ### Week 2
@@ -149,6 +160,10 @@ I talked with Koop about my designs. He told me that it was useless to test the 
 ### Week 3
 #### Code 
 This week I talked again with Janno and I told him that I have a lot to documentate and to prototype. This takes a lot of my time and I do not have the time to write code yet. I asked him if he had any tips for me. He told me that I should tell the product owner that I also have a deadline and I should focus on coding. He also told me that small changes are okay but should not allow big changes. I agreed with him. Later that day I also had a weekly standup with Koop. I told him about my converversation with Janno, but he disagrees. He told me that it is okay if I the product owner would like big changes in the last week because a happy product owner (and students in my case) are important for this project. He also said to me that it was really important that I started coding this week as soon as possible. I asked him if I do not waste a lot of time if I start code now because edditing code takes a lot of time. He did disagrees again, he told me that if I do it right by having a clean html and a css it would not take a lot of time. After that I made the decicion to add the last most important things to the prototype, then start coding as soon as possible.  
+
+### Week 4
+#### Code
+I talked with Janno about using components, and how I can do it in the best way. He told me that I could use handlebars. I did not know aanything about them, but it is quite simple, with handlebars you can print a string from an object to html so it looks really nice. However after reading the docs I have deceided that I keep using my old Components because I do not have that much time left. I do however want to use handlebars in the future when I am working on a new porject when I need components. 
 
 #### Design  
 I had a meeting with Vasilis this week, I already talked with Koop this week so I liked to talk to someone else this week. Yesterday Koop told me that it would be easier for me to make quick changes to my code if I have a cleaner HTML and CSS. I asked Vasilis today how I could do this. He told me that if I split my code into smaller components it would be a lot easier. I could use imports for it or I could even use a lot of comments. I told him that my CSS is also a big soup of code and that I still use a lot of the selectors I have learned from CSS to the rescue. He told me that that is okay because they are strong selectors. However he agreed with me that those selectors get a mess really quickly. To solve this problem I could give a component an ID or a class, then use those old selectors on top of that component in another file to make my code cleaner.
