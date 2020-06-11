@@ -27,5 +27,27 @@
 
 }
 
+/* Small screen */
+@media (max-width: 1019px) {
+    
+    #container{
+        grid-template-columns: 100%;
+    }
+    
+    #container>article:last-child{
+        display: none;
+    }
+}
+
+/* Small screen */
+@media (max-width: 470px) {
+    #menu{
+        margin-bottom: 1rem;
+    }
+    
+    #container>article:first-child{
+        height: initial;
+    }    
+}
 
 

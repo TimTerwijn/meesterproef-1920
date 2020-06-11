@@ -39,7 +39,8 @@
     /* Acutal css */
     #submenu{
         display: grid;
-        place-items: center;
+        align-items: start;
+        justify-items: center;
     }
 
     #submenu>article{
@@ -90,5 +91,26 @@
         place-content:center;
         text-align:center;
         font-size:0.59rem;
+    }
+
+    /* Small screen */
+    @media (max-width: 316px) {
+        #submenu>article {
+            grid-template-columns: auto auto auto; 
+        }   
+    }
+
+    /* Small screen */
+    @media (max-width: 250px) {
+        #submenu>article {
+            grid-template-columns: auto auto; 
+        }   
+    }
+
+    /* Small screen */
+    @media (max-width: 164px) {
+        #submenu>article {
+            grid-template-columns: auto; 
+        }   
     }
 }

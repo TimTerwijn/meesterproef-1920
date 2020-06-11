@@ -113,4 +113,36 @@
         text-align: center;
         font-size: 0.78rem;
     }
+
+    /* Small screen */
+    /* @media (max-width: 470px) {
+        #menu>article{
+            grid-template-columns: auto auto;
+        }        
+    } */
+
+    
+
+    /* Small screen */
+    @media (max-width: 595px) {
+        #menu>article{
+            grid-template-columns: auto auto auto;
+        }        
+    }
+
+    /* Small screen */
+    @media (max-width: 470px) {
+        #menu>article{
+            grid-template-columns: auto auto;
+        }        
+    }
+
+    /* Small screen */
+    @media (max-width: 290px) {
+        #menu>article{
+            grid-template-columns: auto;
+        }        
+    }
+
+    
 }
