@@ -1,9 +1,13 @@
-var xhttp = new XMLHttpRequest();
-xhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-       // Typical action to be performed when the document is ready:
-       document.getElementById("test").innerHTML = xhttp.responseText;
-    }
-};
-xhttp.open("GET", "/components/berichten/berichten.html", true);
-xhttp.send();
+import * as menu from "/components/menu/menu.js"
+import * as submenu from "/components/submenu/submenu.js"
+import * as messages from "/components/messages/messages.js"
+import * as results from "/components/results/results.js"
+
+// menu.load();
+//submenu.load();
+//messages.load();
+results.load();
+
+function toggleHide(element){
+    console.log(element);
+}

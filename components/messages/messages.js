@@ -1,11 +1,11 @@
-function load(){
+function load(element){
     fetch('/components/messages/messages.html')
     .then((response) => {
         return response.text();
     })
     .then((html) => {
         //fill html page 
-        document.getElementById("test").innerHTML = html;   
+        element.innerHTML = html;   
 
         //get json files and fill messages
         apiCall();

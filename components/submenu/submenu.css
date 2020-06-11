@@ -1,9 +1,9 @@
-#subsubmenu{
+#submenu{
     height: 100%;
 }
 
 /* IE CSS */
-#subsubmenu>article{
+#submenu>article{
     text-align: center;
     position: relative;
     top: 50%;
@@ -12,7 +12,7 @@
     transform: translateY(-50%);
 }
 
-#subsubmenu p, #subsubmenu i{
+#submenu p, #submenu i{
     display: none;
 }
 

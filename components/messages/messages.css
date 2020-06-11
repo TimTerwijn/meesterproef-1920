@@ -15,7 +15,7 @@
     #messages>article{
         min-height: 75px;
         width: 100%;
-        border: 2px solid black;
+        border-bottom: 1px solid;
         display: grid;
         grid-template-columns: 75px auto;
         row-gap: 9px;
