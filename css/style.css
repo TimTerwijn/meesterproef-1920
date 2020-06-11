@@ -24,3 +24,7 @@ p{
 .hidden{
     opacity: 0;
 }
+
+.gone{
+    display: none;
+}

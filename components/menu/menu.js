@@ -13,7 +13,8 @@ function load(element){
 }
 
 function setEvents(){
-    setInfoButtonsEvent();    
+    setInfoButtonsEvent(); 
+    setLinks();   
 }
 
 function setInfoButtonsEvent(){
@@ -45,6 +46,26 @@ function setInfoButtonsEvent(){
 
             //set button to black
             infoButton.style.backgroundColor = "black";
+        }, false);
+    }
+}
+
+function setLinks(){
+    const buttons = document.getElementsByClassName("menu-button");
+
+    for (const button of buttons) {
+        button.addEventListener("click", function(event) {
+            event.preventDefault();
+
+            //hide all items
+            var menu = document.querySelector('.item');
+            menu.classList.remove('gone');
+            
+            //show this item by id
+            const id = button.getAttribute("name");
+            console.log(id)
+            const selectedItem = document.getElementById("#" + id);
+            selectedItem.classList.toggle("gone");
         }, false);
     }
 }

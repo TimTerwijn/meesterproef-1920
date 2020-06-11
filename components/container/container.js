@@ -23,9 +23,11 @@ function loadComponents(){
     const subMenuElement = document.querySelector("#container>article:first-child>section:last-child");
     const itemsElement = document.querySelector("#container>article:last-child");
     
+    messages.load(itemsElement);
+    results.load(itemsElement);
+
     menu.load(menuElement);
     submenu.load(subMenuElement);
-    messages.load(itemsElement);
 }
 
 export {
