@@ -5,7 +5,7 @@ function load(element){
     })
     .then((html) => {
         //fill html page 
-        element.insertAdjacentHTML("beforeend", html);
+        element.innerHTML = html; 
 
         //get json files and fill berichten
         apiCall();

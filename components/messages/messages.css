@@ -15,11 +15,10 @@
     #messages>article{
         min-height: 75px;
         width: 100%;
-        border-bottom: 1px solid;
+        border-bottom: 1px dashed black;
         display: grid;
         grid-template-columns: 75px auto;
         row-gap: 9px;
-        margin-bottom: 1rem;
         padding: 4px 0;
     }
 

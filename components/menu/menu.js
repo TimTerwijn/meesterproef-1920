@@ -1,3 +1,6 @@
+import * as messages from "/components/messages/messages.js"
+import * as results from "/components/results/results.js"
+
 function load(element){
     fetch('/components/menu/menu.html')
     .then((response) => {
@@ -51,21 +54,20 @@ function setInfoButtonsEvent(){
 }
 
 function setLinks(){
+    const itemsElement = document.querySelector("#container>article:last-child");
     const buttons = document.getElementsByClassName("menu-button");
 
     for (const button of buttons) {
         button.addEventListener("click", function(event) {
             event.preventDefault();
 
-            //hide all items
-            var menu = document.querySelector('.item');
-            menu.classList.remove('gone');
+            const name = button.getAttribute("name");
+            if(name === "messages"){
+                messages.load(itemsElement);
+            }else if(name === "results"){
+                results.load(itemsElement);
+            }
             
-            //show this item by id
-            const id = button.getAttribute("name");
-            console.log(id)
-            const selectedItem = document.getElementById("#" + id);
-            selectedItem.classList.toggle("gone");
         }, false);
     }
 }
