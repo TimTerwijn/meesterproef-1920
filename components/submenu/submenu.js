@@ -1,5 +1,5 @@
 function load(element){
-    fetch('/components/submenu/submenu.html')
+    fetch('./components/submenu/submenu.html')
     .then((response) => {
         return response.text();
     })

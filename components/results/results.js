@@ -1,5 +1,5 @@
 function load(element){
-    fetch('/components/results/results.html')
+    fetch('./components/results/results.html')
     .then((response) => {
         return response.text();
     })
@@ -13,7 +13,7 @@ function load(element){
 }
 
 function apiCall(){
-    fetch("/json/resultsv2.json")
+    fetch("./json/resultsv2.json")
     .then(response => {
         return response.json();
     })

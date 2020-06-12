@@ -1,8 +1,8 @@
-import * as messages from "/components/messages/messages.js"
-import * as results from "/components/results/results.js"
+import * as messages from "../messages/messages.js"
+import * as results from "../results/results.js"
 
 function load(element){
-    fetch('/components/menu/menu.html')
+    fetch('./components/menu/menu.html')
     .then((response) => {
         return response.text();
     })

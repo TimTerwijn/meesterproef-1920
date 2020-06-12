@@ -1,9 +1,9 @@
-import * as menu from "/components/menu/menu.js"
-import * as submenu from "/components/submenu/submenu.js"
-import * as messages from "/components/messages/messages.js"
+import * as menu from "../menu/menu.js"
+import * as submenu from "../submenu/submenu.js"
+import * as messages from "../messages/messages.js"
 
 function load(){
-    fetch('/components/container/container.html')
+    fetch('./components/container/container.html')
     .then((response) => {
         return response.text();
     })
