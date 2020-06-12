@@ -54,22 +54,38 @@ function setInfoButtonsEvent(){
 }
 
 function setLinks(){
-    const itemsElement = document.querySelector("#container>article:last-child");
+    let itemsElement = document.querySelector("#container>article:last-child");
     const buttons = document.getElementsByClassName("menu-button");
 
     for (const button of buttons) {
         button.addEventListener("click", function(event) {
             event.preventDefault();
 
+
+            
+            if(getScreenWidth() <= 1019){//mobile            
+               itemsElement = document.querySelector("body>main")
+            }
+            
             const name = button.getAttribute("name");
             if(name === "messages"){
                 messages.load(itemsElement);
             }else if(name === "results"){
                 results.load(itemsElement);
             }
-            
         }, false);
     }
+}
+
+function getScreenWidth()
+{
+    let e = window, a = 'inner';
+    if ( !( 'innerWidth' in window ) )
+    {
+        a = 'client';
+        e = document.documentElement || document.body;
+    }
+    return e[ a+'Width' ]
 }
 
 export {
