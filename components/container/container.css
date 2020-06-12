@@ -37,6 +37,14 @@
     #container>article:last-child{
         display: none;
     }
+
+    #container>article:first-child>section:first-child {
+        height: 100%;
+    }
+
+    #container>article:first-child>section:last-child{
+        display: none;
+    }
 }
 
 /* Small screen */

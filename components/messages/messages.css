@@ -53,4 +53,21 @@
         grid-column-start: 2;
         grid-row-start: 2;
     }
+
+    /* Small screen */
+    @media (max-width: 1019px) {
+        
+        #messages p {
+            /* word-break: break-all; */
+        }
+
+        #messages>article>section{
+            font-size: 0.8rem;
+        }
+
+        #messages>article>section:nth-child(1)>p{
+            font-size: 2rem;
+        }
+    }
+
 }
