@@ -73,6 +73,13 @@ function setLinks(){
             }else if(name === "results"){
                 results.load(itemsElement);
             }
+
+            //set breadcrumb
+            const header = document.querySelector("header");
+            header.innerHTML = "<a href='/index.html'>Home</a>";
+            const link = "/" + name;
+            header.insertAdjacentHTML("beforeend",link);
+
         }, false);
     }
 }
