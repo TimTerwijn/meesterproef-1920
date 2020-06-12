@@ -87,7 +87,7 @@ function setLinks(){
 
             //set breadcrumb
             const header = document.querySelector("header");
-            header.innerHTML = "<a href='/index.html'>Home</a>";
+            header.innerHTML = "<a href='./index.html'>Home</a>";
             const link = "/" + name;
             header.insertAdjacentHTML("beforeend",link);
 
