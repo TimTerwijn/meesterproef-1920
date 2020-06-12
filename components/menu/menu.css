@@ -108,6 +108,10 @@
         justify-self: center;
     }
 
+    #menu>article>a:nth-child(2)>div:nth-child(3)>i{
+        color:#2B78E4;
+    }
+
     #menu>article>a>div:nth-child(4){
         grid-column-end: span 2;
         text-align: center;
@@ -121,7 +125,12 @@
         }        
     } */
 
-    
+    /* Small screen */
+    @media (max-width: 1019px) {
+        #menu>article>a:nth-child(2)>div:nth-child(3)>i{
+            color:black;
+        }
+    }
 
     /* Small screen */
     @media (max-width: 595px) {

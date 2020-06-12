@@ -61,6 +61,11 @@ function setLinks(){
         button.addEventListener("click", function(event) {
             event.preventDefault();
 
+            const pictograms = document.getElementsByClassName("fas");
+            for (const pictogram of pictograms) {
+                pictogram.style = "color:black;";
+            }
+
 
             
             if(getScreenWidth() <= 1019){//mobile            
@@ -70,8 +75,14 @@ function setLinks(){
             const name = button.getAttribute("name");
             if(name === "messages"){
                 messages.load(itemsElement);
+
+                const pictogram = button.querySelector("i");
+                pictogram.style = "color:#2B78E4;";
             }else if(name === "results"){
                 results.load(itemsElement);
+
+                const pictogram = button.querySelector("i");
+                pictogram.style = "color:#F1C232;";
             }
 
             //set breadcrumb
