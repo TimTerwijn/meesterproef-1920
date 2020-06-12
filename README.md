@@ -150,7 +150,24 @@ The students also gave me some feedback, they wanted to see if a button is a lin
 
 ### Make
 
-This week it is importand for me to make all the thinks I want to have tested by the students. Because it is the last week that I can test my work with them.
+This week it is importand for me to make all the thinks I want to have tested by the students. Because it is the last week that I can test my work with them. This means that the site will not be 100% accurate and perfect. As you can see in figure 10, I added some colours, responsive sections and a hamburger menu.
+
+![Desktop prototype](docs/img/prototype4.PNG "Desktop prototype")  
+Figure 10: The current desktop.
+
+![Mobile prototype](docs/img/prototype4-mobile1.PNG "Mobile prototype")  
+Figure 11: Mobile menu.
+
+![Mobile prototype](docs/img/prototype4-mobile2.PNG "Mobile prototype")  
+Figure 12: Mobile content.
+
+### Check
+
+During the demo I devided my demo into three parts. First I wanted to ask the students some questions. Then I wanted to test my desktop version and my mobile version with the students.
+
+In one of the last feedbacks I received from the students they told me that they wanted less less atention at the information button. I did not have an idea how to fix this issue so I asked them to help me with this matter. They told me that I could swap the notivacations number with the I so the focus would go tho that icon. The other thing I wanted to know was that they said to me last time that they wanted to know when a button is a hyper link and when not. I asked them for ideas and they told me that I could use some kind of icon in the right bottom of an button.
+
+
 
 ## Reflection
 ### Week 2
