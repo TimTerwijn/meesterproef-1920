@@ -1,13 +1,5 @@
-import * as menu from "./components/menu/menu.js"
-import * as submenu from "./components/submenu/submenu.js"
-import * as messages from "./components/messages/messages.js"
-import * as results from "./components/results/results.js"
+import * as component from "../components/schedule/schedule.js";
 
-// menu.load();
-//submenu.load();
-//messages.load();
-results.load();
+const container = document.getElementById("test");
 
-function toggleHide(element){
-    console.log(element);
-}
+component.load(container);
