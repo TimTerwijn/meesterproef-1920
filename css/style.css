@@ -28,3 +28,7 @@ p{
 .gone{
     display: none;
 }
+
+.disabled{
+    opacity: 50%;
+}
