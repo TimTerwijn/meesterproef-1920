@@ -1,0 +1,29 @@
+#news>article:first-child{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-bottom: 1rem;
+}
+
+#news>article:first-child>section{
+    height: 3rem;
+    border: 1px solid black;
+    border-right: 0;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    font-size: 1.1rem;
+}
+
+#news>article:first-child>section:last-child{
+    border-right: 1px solid black;
+}
+
+#news>article:not(:first-child)>section{
+    border-bottom: 1px dashed black;
+    margin-bottom: 1rem;
+}
+
+#news>article:not(:first-child)>section>p{
+    margin-bottom: 1rem;
+}

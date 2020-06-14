@@ -1,5 +1,6 @@
 import * as messages from "../messages/messages.js"
 import * as results from "../results/results.js"
+import * as schedule from "../schedule/schedule.js"
 
 function load(element){
     fetch('./components/menu/menu.html')
@@ -61,7 +62,7 @@ function setLinks(){
         button.addEventListener("click", function(event) {
             event.preventDefault();
 
-            const pictograms = document.getElementsByClassName("fas");
+            const pictograms = document.getElementsByClassName("menu-icon");
             for (const pictogram of pictograms) {
                 pictogram.style = "color:black;";
             }
@@ -83,6 +84,11 @@ function setLinks(){
 
                 const pictogram = button.querySelector("i");
                 pictogram.style = "color:#F1C232;";
+            }else if(name === "schedule"){
+                schedule.load(itemsElement);
+
+                const pictogram = button.querySelector("i");
+                pictogram.style = "color:#B45F06;";
             }
 
             //set breadcrumb

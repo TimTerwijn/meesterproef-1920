@@ -1,4 +1,4 @@
-import * as component from "../components/schedule/schedule.js";
+import * as component from "../components/news/news.js";
 
 const container = document.getElementById("test");
 
