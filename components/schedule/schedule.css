@@ -1,7 +1,5 @@
 #schedule{
-    height: 100%;
     display: grid;
-    place-items: center;
 }
 
 #schedule p{
@@ -14,6 +12,7 @@
     grid-template-columns: 4rem auto auto;
     border-bottom: 1px dashed black;
     cursor: pointer;
+    margin-bottom: 15px;
 }
 
 #schedule>article>p:first-child{
