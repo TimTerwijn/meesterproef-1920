@@ -49,7 +49,8 @@ function setInfoButtonsEvent(){
             info.classList.remove("hidden");
 
             //set button to black
-            infoButton.style.backgroundColor = "black";
+            infoButton.style.color = "black";
+            infoButton.style.textDecoration = "none";
         }, false);
     }
 }
