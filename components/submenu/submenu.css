@@ -50,6 +50,23 @@
         row-gap: 10px;
     }
 
+    #submenu>article>section{
+        position: absolute;
+        width: 100%;
+        height: 2.5rem;
+        top: -3.2rem;
+        left: -2px;
+        border: 2px solid black;
+        border-radius: 38px;
+        display: grid;
+    }
+
+    #submenu>article>section>p{
+        align-self:center;
+        text-align: center;
+        font-size: 0.78rem;
+    }
+
     #submenu>article>a{
         height: 50px;
         width: 50px;
