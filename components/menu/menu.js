@@ -67,9 +67,7 @@ function setLinks(){
                 pictogram.style = "color:black;";
             }
 
-
-            
-            if(getScreenWidth() <= 1019){//mobile            
+            if(getScreenWidth() <= 1065){//mobile            
                itemsElement = document.querySelector("body>main")
             }
             

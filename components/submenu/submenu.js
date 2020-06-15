@@ -21,10 +21,10 @@ function setLinks(){
     for (const button of buttons) {
         button.addEventListener("click", function(event) {
             event.preventDefault();
-            
-            // if(getScreenWidth() <= 1019){//mobile            
-            //    itemsElement = document.querySelector("body>main")
-            // }
+
+            if(getScreenWidth() <= 1065){//mobile            
+                itemsElement = document.querySelector("body>main")
+             }
             
             const name = button.getAttribute("name");
             if(name === "news"){
@@ -39,6 +39,17 @@ function setLinks(){
 
         }, false);
     }
+}
+
+function getScreenWidth()
+{
+    let e = window, a = 'inner';
+    if ( !( 'innerWidth' in window ) )
+    {
+        a = 'client';
+        e = document.documentElement || document.body;
+    }
+    return e[ a+'Width' ]
 }
 
 export {
