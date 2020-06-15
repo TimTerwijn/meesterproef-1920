@@ -32,7 +32,7 @@ function setEvents(){
             const newsChildElements = news.children;
 
             for (let ii = 1; ii < newsChildElements.length; ii++) {
-                const child = newsChildElements[i]
+                const child = newsChildElements[ii]
                 child.classList.add("gone");
             }
             

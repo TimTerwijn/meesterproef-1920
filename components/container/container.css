@@ -28,7 +28,7 @@
 }
 
 /* Small screen */
-@media (max-width: 1019px) {
+@media (max-width: 1065px) {
     
     #container{
         grid-template-columns: 100%;

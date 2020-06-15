@@ -1,3 +1,5 @@
+import * as news from "../news/news.js";
+
 function load(element){
     fetch('./components/submenu/submenu.html')
     .then((response) => {
@@ -6,7 +8,37 @@ function load(element){
     .then((html) => {
         //fill html page 
         element.innerHTML = html;   
+
+        //fix button links
+        setLinks();
     });
+}
+
+function setLinks(){
+    let itemsElement = document.querySelector("#container>article:last-child");
+    const buttons = document.getElementsByClassName("submenu-button");
+
+    for (const button of buttons) {
+        button.addEventListener("click", function(event) {
+            event.preventDefault();
+            
+            // if(getScreenWidth() <= 1019){//mobile            
+            //    itemsElement = document.querySelector("body>main")
+            // }
+            
+            const name = button.getAttribute("name");
+            if(name === "news"){
+                news.load(itemsElement);
+            }
+
+            //set breadcrumb
+            const header = document.querySelector("header");
+            header.innerHTML = "<a href='./index.html'>Home</a>";
+            const link = "/" + name;
+            header.insertAdjacentHTML("beforeend",link);
+
+        }, false);
+    }
 }
 
 export {

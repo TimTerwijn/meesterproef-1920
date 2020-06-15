@@ -1,4 +1,4 @@
-import * as component from "../components/news/news.js";
+import * as component from "../components/results/results.js";
 
 const container = document.getElementById("test");
 
