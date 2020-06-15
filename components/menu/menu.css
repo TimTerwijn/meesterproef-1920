@@ -67,6 +67,7 @@
     }
 
     #menu>article>a{
+        position: relative;
         height: 100px;
         width: 100px;
         border: 2px solid black;
@@ -94,7 +95,7 @@
 
     #menu>article>a>div:nth-child(2)>p{
         float: right;
-        color: blue;
+        color: #0000EE;
         font-size: 16px;
         width: 1rem;
         text-align: center;
@@ -121,12 +122,13 @@
         font-size: 0.78rem;
     }
 
-    /* Small screen */
-    /* @media (max-width: 470px) {
-        #menu>article{
-            grid-template-columns: auto auto;
-        }        
-    } */
+    #menu>article>a>i{
+        color: #0000EE;
+        position: absolute;
+        font-size: 0.6rem;
+        right: 1px;
+        bottom: 1px;
+    }
 
     /* Small screen */
     @media (max-width: 1065px) {

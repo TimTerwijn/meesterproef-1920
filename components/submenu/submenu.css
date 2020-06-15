@@ -68,6 +68,7 @@
     }
 
     #submenu>article>a{
+        position: relative;
         height: 50px;
         width: 50px;
         border: 2px solid black;
@@ -117,6 +118,14 @@
         place-content:center;
         text-align:center;
         font-size:0.59rem;
+    }
+
+    #submenu>article>a>i{
+        color: #0000EE;
+        position: absolute;
+        font-size: 0.5rem;
+        right: 1px;
+        bottom: 1px;
     }
 
     /* Small screen */
