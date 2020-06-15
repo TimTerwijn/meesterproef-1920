@@ -29,6 +29,10 @@ p{
     display: none;
 }
 
+.block{
+    display: block !important;
+}
+
 .disabled{
     opacity: 50%;
 }

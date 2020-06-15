@@ -1,6 +1,6 @@
-import * as messages from "../messages/messages.js"
-import * as results from "../results/results.js"
-import * as schedule from "../schedule/schedule.js"
+import * as messages from "../messages/messages.js";
+import * as results from "../results/results.js";
+import * as schedule from "../schedule/schedule.js";
 
 function load(element){
     fetch('./components/menu/menu.html')
