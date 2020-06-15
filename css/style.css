@@ -5,7 +5,37 @@ body{
 }
 
 body>header{
-    height: 1.5rem;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+body>header>article:nth-child(2){
+    text-align: right;
+    font-size: 2rem;
+}
+
+body>header>article:nth-child(2)>a{
+    text-decoration: none;
+}
+
+body>header>article:nth-child(2)>a:nth-child(1){
+   color: #3b5998 ; 
+}
+
+body>header>article:nth-child(2)>a:nth-child(2){
+    color: #8a3ab9; 
+}
+
+body>header>article:nth-child(2)>a:nth-child(3){
+    color: #c4302b; 
+}
+
+body>header>article:nth-child(2)>a:nth-child(4){
+    color: #00acee; 
+}
+
+body>header>article:nth-child(2)>a:nth-child(5){
+    color: #0e76a8; 
 }
 
 body>main{
