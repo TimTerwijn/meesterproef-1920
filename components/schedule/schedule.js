@@ -49,7 +49,7 @@ function fill(json){
         }
         
         html += `
-            <article>
+            <article onclick="{${showTeacherDetails}; showTeacherDetails('${teacher}');}">
                 <p>25</p>
                 <p>${courseName}</p>
                 <p>${teacher}</p>
@@ -63,6 +63,11 @@ function fill(json){
     const container = document.getElementById("schedule");
     container.innerHTML = html;
     console.log(html);
+}
+
+function showTeacherDetails(teacher){
+    const string = `Name: ${teacher}\nEmail: m.d.vanhouten@hva.nl\nTelefoon: 0621156393`;
+    alert(string);
 }
 
 export {
