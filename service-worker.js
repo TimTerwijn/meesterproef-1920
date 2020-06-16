@@ -26,18 +26,18 @@ self.addEventListener('fetch', function(evt) {
 function precache() {
   return caches.open(CACHE).then(function (cache) {
     return cache.addAll([
-      './index.html',
-      './components/container/container.html',
-      './components/menu/menu.html',
-      './components/messages/messages.html',
-      './components/news/news.html',
-      './components/results/results.html',
-      './components/schedule/schedule.html',
-      './components/submenu/submenu.html',
-      './json/scheduleV2.json',
-      './json/resultsv2.json',
-      './json/news-items.json',
-      './json/announcementsV2.json',
+      '../index.html',
+      '../components/container/container.html',
+      '../components/menu/menu.html',
+      '../components/messages/messages.html',
+      '../components/news/news.html',
+      '../components/results/results.html',
+      '../components/schedule/schedule.html',
+      '../components/submenu/submenu.html',
+      '../json/scheduleV2.json',
+      '../json/resultsv2.json',
+      '../json/news-items.json',
+      '../json/announcementsV2.json',
     ]);
   });
 }
