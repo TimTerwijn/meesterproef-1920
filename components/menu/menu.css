@@ -1,16 +1,3 @@
-#menu{
-    height: 100%;
-}
-
-/* IE CSS */
-#menu>article{
-    text-align: center;
-    position: relative;
-    top: 50%;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-}
 
 #menu p, #menu i{
     display: none;
@@ -23,15 +10,6 @@
 
 @supports (display: grid) {
     /* remove IE styles */
-    #menu>article{
-        text-align: initial;
-        position: initial;
-        top: initial;
-        -webkit-transform: translateY(0);
-        -ms-transform: translateY(0);
-        transform: translateY(0);
-    }
-
     #menu p, #menu i{
         display: initial;
     }
