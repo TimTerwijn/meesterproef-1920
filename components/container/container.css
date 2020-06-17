@@ -23,10 +23,12 @@
 
     #container>article:first-child{
         float: none;
+        width: 100%;
     }
     
     #container>article:nth-child(2){
         float: none;
+        width: 100%;
     }
 
     /* actual css */

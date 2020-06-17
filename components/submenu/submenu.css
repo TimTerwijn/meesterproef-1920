@@ -16,6 +16,7 @@
 
     /* Acutal css */
     #submenu{
+        height: 100%;
         display: grid;
         align-items: start;
         justify-items: center;

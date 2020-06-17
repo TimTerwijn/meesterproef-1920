@@ -16,6 +16,7 @@
 
     /* Acutal css */
     #menu{
+        height: 100%;
         display: grid;
         place-items: center;
     }
