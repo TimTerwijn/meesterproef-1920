@@ -31,6 +31,8 @@ function fill(json){
 
     let html = ""
 
+    let i = 0;
+
     json.forEach(function(object){
         const name = object._links.course.title;
         const date = object.testDate.substring(0, 10);
@@ -42,7 +44,7 @@ function fill(json){
         
         html += `
             <article>
-                <section>
+                <section ${i++ <= 0 ? "class='bold'":""}>
                     <p>${name}</p>
                 </section>
                 <section>

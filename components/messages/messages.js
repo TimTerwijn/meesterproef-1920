@@ -31,17 +31,18 @@ function fill(json){
 
     let html = ""
 
+    let i = 0;
     json.forEach(function(object){
         const urgent = object.urgent;
         const message = object.content.replace(/(<([^>]+)>)/ig,"");
-        const date = object.publishDateTime;
+        const date = object.publishDateTime.substring(0, 10);
         
         html += `
             <article> 
                 <section>
                     <p>${urgent ? "!":""}</p>
                 </section>
-                <section>
+                <section ${i++ <= 1 ? "class='bold'":""}>
                     <p>${message}</p>    
                 </section>
                 <section>
