@@ -23,6 +23,7 @@
     }
 
     #submenu>article{
+        position: relative;
         display: grid;
         grid-template-columns: auto auto auto auto;
         column-gap: 20px;
