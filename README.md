@@ -38,6 +38,15 @@ The GGO has already researched a bit what they and their users want for this stu
 * Waar moet mail komen?
 * Waar moet news komen?
 
+### Problem definition
+So the biggest problem that has to be solved is that there are a lot of items that need to fit in one web application. The productowner told us that we should not focus to make a specific part like news of the design pretty, but that we should focus most of our time by and figure out how to solve this problem by iterating and testing with students.
+
+To solve this problem I thought what I would like to see in this portal. First of all I thought that I did not like to scroll because I hate it to find the part that I need, so that means this portal needs to fit on one page. Secondly I am a dyslectic, This means that I want to use a sans-serif font and that I want this application to be simple, you need to understand it with just one look at the screen. After this I tested a lot and iterated with the students to create the demo I have created now.
+
+During the final presentation I gave the productowner three tips for their version of the protal that are important in my opinion. First of all I believe it is important to create something that is easy and simple to understand like my menu. I noticed that the students really liked it because it was so simple.
+
+
+
 #### Features
 * All information must be available on one location.
 * MijnHvA.nl and MijnHvApp must contain the same information and must look and feel the same as the new app.
