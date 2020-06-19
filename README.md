@@ -51,6 +51,9 @@ Figure 2: Fetching HTML code.
 
 I've also added some enhancements, first of all I wanted to add a swipe to the mobile menu so that mobile users have a better overview of the menus. By splitting the menu and submenu the users have a better overview and the small mobile screen is not so crowded. After that the students told me that it was really hard to tell there is an option to swipe. That is why we chose to add some buttons below the screen to show the user he can swipe or to press them to swap from menu. 
 
+![swipe](docs/img/swipe.png "fetch")  
+Figure 3: swipe code. 
+
 ## Product biography (Think, Make, Check)
 ### Think
 We had a meeting with the guys from GGO (Goed Georganiseerd Onderwijs), they told us what they want a student portal app with the features I described above in the debriefing.
