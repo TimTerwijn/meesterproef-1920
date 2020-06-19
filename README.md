@@ -53,7 +53,7 @@ Figure 1: My components.
 ![fetch](docs/img/fetch.png "fetch")  
 Figure 2: Fetching HTML code. 
 
-I've also added some enhancements, first of all I wanted to add a swipe to the moblie menu so that users have a better overview of what 
+I've also added some enhancements, first of all I wanted to add a swipe to the mobile menu so that users have a better overview of the menus. By splitting the menu and submenu I can 
 
 #### Features
 * All information must be available on one location.
