@@ -34,18 +34,14 @@ The GGO has already researched a bit what they and their users want for this stu
 * Link to HvA addresses
 * Link to HvA organization.
 
-##### Other information
-* Waar moet mail komen?
-* Waar moet news komen?
+#### Problem definition
+So the biggest problem that has to be solved is that there are a lot of items that need to fit in one web application. The product owner told us that we should not focus on a specific tool like news to make it pretty, but that we should focus most of our time by  figuring out how to solve the space issue by iterating and testing with a student panel.
 
-### Problem definition
-So the biggest problem that has to be solved is that there are a lot of items that need to fit in one web application. The productowner told us that we should not focus to make a specific part like news of the design pretty, but that we should focus most of our time by and figure out how to solve this problem by iterating and testing with students.
+To solve this problem I thought what I would like to see in this portal. First of all I thought that I did not like to scroll a lot because I hate it to find a part that I need on a page, so that means this portal needs to fit on one page. Secondly I have dyslexia, this means that I like to use a sans-serif font and that I want this application to be simple, you need to understand it with just one look at the screen.
 
-To solve this problem I thought what I would like to see in this portal. First of all I thought that I did not like to scroll because I hate it to find the part that I need, so that means this portal needs to fit on one page. Secondly I am a dyslectic, This means that I want to use a sans-serif font and that I want this application to be simple, you need to understand it with just one look at the screen. After this I tested a lot and iterated with the students to create the demo I have created now.
+During the final presentation I gave the product owner three tips to improve their version of the portal that are important in my opinion. First of all I believe it is important to create something that is easy and simple to understand like my menu. I noticed that the students really liked it because it was so simple. Secondly I think it is important to add something fun to the portal. In one of my prototypes I showed a text bubble to the students that appears when you press the 'I' button in the menu. They really liked it. Third of all, I think it is important that students do not have to log in all the time when they want to click on a button in the menu.
 
-During the final presentation I gave the productowner three tips for their version of the protal that are important in my opinion. First of all I believe it is important to create something that is easy and simple to understand like my menu. I noticed that the students really liked it because it was so simple. Secondly I think it is importand to add something fun to the portal. In one of my prototypes I showed a text bubble to the students when you press an I button in the menu. They really liked it. Third of all, I think it is imortant that students do not have to log in all the time when they want to click on a button in the menu.
-
-I had some issues with making quick changes to my portal. I asked for tips to my coach and he told me that I could make use of components. As you can see in fugure 1, I tried to split all code apard so that I have a lot of compents. Each HTML components is fetched with Javascript as you can see in figure 2. Each CSS component is linked in the main HTML and all JS code is executed after the HTML component is fetched. 
+I had some issues with making quick changes to my portal. I asked for tips to my coach and he told me that I could make use of components. As you can see in figure 1, I tried to split all code apart so that I have a lot of components. Each HTML components is fetched with Javascript as you can see in figure 2. Each CSS component is linked in the main HTML and all JS code is executed after the HTML component is fetched. 
 
 ![Components](docs/img/components.png "Components")  
 Figure 1: My components. 
@@ -53,23 +49,7 @@ Figure 1: My components.
 ![fetch](docs/img/fetch.png "fetch")  
 Figure 2: Fetching HTML code. 
 
-I've also added some enhancements, first of all I wanted to add a swipe to the mobile menu so that users have a better overview of the menus. By splitting the menu and submenu I can 
-
-#### Features
-* All information must be available on one location.
-* MijnHvA.nl and MijnHvApp must contain the same information and must look and feel the same as the new app.
-* The portal looks and apps must be customizable by a user.
-* Students wants to receive push notifications when changes occur in their schedule, when they receive a new grade and when a course has new information.
-* Course overview must have a link to brightspace.
-* All customizable options and settings must be visible on one page.
-* Customizable and personal news.
-* Customizable push notifications, both layout and the content.
-
-#### Final notes
-* The app must be actual, real time, personal and school related.
-* Students wants to know the difference between news en Statements.
-* Absence of teachers is only useful when the app is real time.
-* Schedule needs to have holidays and deadlines.
+I've also added some enhancements, first of all I wanted to add a swipe to the mobile menu so that mobile users have a better overview of the menus. By splitting the menu and submenu the users have a better overview and the small mobile screen is not so crowded. After that the students told me that it was really hard to tell there is an option to swipe. That is why we chose to add some buttons below the screen to show the user he can swipe or to press them to swap from menu. 
 
 ## Product biography (Think, Make, Check)
 ### Think
