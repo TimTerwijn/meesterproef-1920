@@ -43,9 +43,17 @@ So the biggest problem that has to be solved is that there are a lot of items th
 
 To solve this problem I thought what I would like to see in this portal. First of all I thought that I did not like to scroll because I hate it to find the part that I need, so that means this portal needs to fit on one page. Secondly I am a dyslectic, This means that I want to use a sans-serif font and that I want this application to be simple, you need to understand it with just one look at the screen. After this I tested a lot and iterated with the students to create the demo I have created now.
 
-During the final presentation I gave the productowner three tips for their version of the protal that are important in my opinion. First of all I believe it is important to create something that is easy and simple to understand like my menu. I noticed that the students really liked it because it was so simple.
+During the final presentation I gave the productowner three tips for their version of the protal that are important in my opinion. First of all I believe it is important to create something that is easy and simple to understand like my menu. I noticed that the students really liked it because it was so simple. Secondly I think it is importand to add something fun to the portal. In one of my prototypes I showed a text bubble to the students when you press an I button in the menu. They really liked it. Third of all, I think it is imortant that students do not have to log in all the time when they want to click on a button in the menu.
 
+I had some issues with making quick changes to my portal. I asked for tips to my coach and he told me that I could make use of components. As you can see in fugure 1, I tried to split all code apard so that I have a lot of compents. Each HTML components is fetched with Javascript as you can see in figure 2. Each CSS component is linked in the main HTML and all JS code is executed after the HTML component is fetched. 
 
+![Components](docs/img/components.png "Components")  
+Figure 1: My components. 
+
+![fetch](docs/img/fetch.png "fetch")  
+Figure 2: Fetching HTML code. 
+
+Ive also added some enhancements, first of all I wanted to add a swipe to the 
 
 #### Features
 * All information must be available on one location.
