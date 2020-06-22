@@ -143,14 +143,18 @@ Figure 8: Showing the information.
 Figure 9: The news page of the third prototype.
 
 ### Check
-
-I explained the situation to the students that I do not have many things to show, and they understand. I showed them the two new features and they liked it. Obe told me that he wanted to see all clicks and that it would be smart to have everything done what I want to test by vriday so that the students can test it one more time.
+I explained the situation to the students that I do not have many things to show, and they understand. I showed them the two new features and they liked it. Especialy the text bubble. It was interesting to see that they told me they liked a fun thing in the demo. It is nice to hear that something I leaned from webdesign is confirmed by the students. Obe told me that he expected to see all clickable objects for the next demo and that it would be smart to have everything done what I want to test by friday so that the students can test it atleast once.
 
 The students also gave me some feedback, they wanted to see if a button is a link or not and they want Instagram, Facebook and Youtube buttons.
 
-### Make
+### Think
+This week it is importand for me to make all the things I want to have tested by the students with real code. Because it is the last week that I can test my work with them. This means that the site will not be 100% accurate and perfect.  
 
-This week it is importand for me to make all the thinks I want to have tested by the students. Because it is the last week that I can test my work with them. This means that the site will not be 100% accurate and perfect. As you can see in figure 10, I added some colours, responsive sections and a hamburger menu.
+I want to make both the menus and atleast two clickable buttons so that the student can feel how they can switch pages, I want a mobile version so that the student can give me feedback for that aswell.
+
+
+### Make
+As you can see in figure 10, I added some colours, responsive sections and the two menus.
 
 ![Desktop prototype](docs/img/prototype4.PNG "Desktop prototype")  
 Figure 10: The current desktop.
@@ -162,10 +166,12 @@ Figure 11: Mobile menu.
 Figure 12: Mobile content.
 
 ### Check
-
 During the demo I devided my demo into three parts. First I wanted to ask the students some questions. Then I wanted to test my desktop version and my mobile version with the students.
 
 In one of the last feedbacks I received from the students they told me that they wanted less less atention at the information button. I did not have an idea how to fix this issue so I asked them to help me with this matter. They told me that I could swap the notivacations number with the I so the focus would go tho that icon. The other thing I wanted to know was that they said to me last time that they wanted to know when a button is a hyper link and when not. I asked them for ideas and they told me that I could use some kind of icon in the right bottom of an button.
+
+### Think
+
 
 
 
