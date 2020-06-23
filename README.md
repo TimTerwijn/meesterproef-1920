@@ -173,7 +173,7 @@ In one of the last feedbacks I received from the students they told me that they
 I know that I have a lot to do now for the final presentation. So I made a list of the things that are the most important. First of all, like the feedback that I received I want to swap the I button with the notivaction number and adding the blue link icon. Furthermore I want to added more clickable buttons with pages, teacher details in the scheduale, social media buttons, unreaded items and lastly customizable menu items in the settings tab.
 
 ### Make
-As you can see below I was able to add most of the things I wanted to add to the final product,  but I was not able to change 
+As you can see below I was able to add most of the things I wanted to add to the final product, but I was not able to add all the things. I was not able to make 
 
 ![Mobile prototype](docs/img/final-demo.PNG "final product")  
 Figure 13: final product.
