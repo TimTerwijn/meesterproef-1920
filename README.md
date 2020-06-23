@@ -153,7 +153,7 @@ This week it is importand for me to make all the things I want to have tested by
 I want to make both the menus and atleast two clickable buttons so that the student can feel how they can switch pages, I want a mobile version so that the student can give me feedback for that aswell.
 
 ### Make
-As you can see in figure 10, I added some colours, responsive sections and the two menus. I have also added  As you can see in figure 11 
+As you can see in figure 10, I added some colours, responsive sections and the two menus. further more I have added the clickable I button with pupup and I have also made the application responsive so you can use it the application on your phone as you can see in figure 11. 
 
 ![Desktop prototype](docs/img/prototype4.PNG "Desktop prototype")  
 Figure 10: The current desktop.
@@ -165,11 +165,33 @@ Figure 11: Mobile menu.
 Figure 12: Mobile content.
 
 ### Check
-During the demo I devided my demo into three parts. First I wanted to ask the students some questions. Then I wanted to test my desktop version and my mobile version with the students.
+During the demo I devided my demo into three parts. First I wanted to ask the students some questions. Then I wanted to test my desktop version and my mobile version with the students.   
 
 In one of the last feedbacks I received from the students they told me that they wanted less less atention at the information button. I did not have an idea how to fix this issue so I asked them to help me with this matter. They told me that I could swap the notivacations number with the I so the focus would go tho that icon. The other thing I wanted to know was that they said to me last time that they wanted to know when a button is a hyper link and when not. I asked them for ideas and they told me that I could use some kind of icon in the right bottom of an button.
 
 ### Think
+I know that I have a lot to do now for the final presentation. So I made a list of the things that are the most important. First of all, like the feedback that I received I want to swap the I button with the notivaction number and adding the blue link icon. Furthermore I want to added more clickable buttons with pages, teacher details in the scheduale, social media buttons, unreaded items and lastly customizable menu items in the settings tab.
+
+### Make
+As you can see below I was able to add most of the things I wanted to add to the final product,  but I was not able to change 
+
+![Mobile prototype](docs/img/final-demo.PNG "final product")  
+Figure 13: final product.
+
+![Mobile prototype](docs/img/final-mobile1.PNG "final mobile menu")  
+Figure 14: mobile menu.
+
+![Mobile prototype](docs/img/final-mobile2.PNG "final mobile submenu")  
+Figure 15: mobile submenu.
+
+
+
+### Check
+
+### Wishlist
+
+
+
 
 
 
