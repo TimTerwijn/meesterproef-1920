@@ -152,9 +152,8 @@ This week it is importand for me to make all the things I want to have tested by
 
 I want to make both the menus and atleast two clickable buttons so that the student can feel how they can switch pages, I want a mobile version so that the student can give me feedback for that aswell.
 
-
 ### Make
-As you can see in figure 10, I added some colours, responsive sections and the two menus.
+As you can see in figure 10, I added some colours, responsive sections and the two menus. I have also added  As you can see in figure 11 
 
 ![Desktop prototype](docs/img/prototype4.PNG "Desktop prototype")  
 Figure 10: The current desktop.
