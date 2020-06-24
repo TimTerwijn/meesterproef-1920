@@ -173,7 +173,7 @@ In one of the last feedbacks I received from the students they told me that they
 I know that I have a lot to do now for the final presentation. So I made a list of the things that are the most important. First of all, like the feedback that I received I want to swap the I button with the notivaction number and adding the blue link icon. Furthermore I want to added more clickable buttons with pages, teacher details in the scheduale, social media buttons, unreaded items and lastly customizable menu items in the settings tab.
 
 ### Make
-As you can see below I was able to add most of the things I wanted to add to the final product, but I was not able to add all the things. I was not able to make 
+As you can see below I was able to add most of the things I wanted to add to the final product, but I was not able to add all the things. I was not able to finish all of the things I liked to have compleeted before the demo, like the customizable menu items, some json files and the unread documents. But the product owner told me it is fine because I do not have all the data I needed and I think it this enough to make the product owner happy. He did asked me to give him a list of the items I missed so that they can implement it in their api.
 
 ![Mobile prototype](docs/img/final-demo.PNG "final product")  
 Figure 13: final product.
@@ -184,17 +184,23 @@ Figure 14: mobile menu.
 ![Mobile prototype](docs/img/final-mobile2.PNG "final mobile submenu")  
 Figure 15: mobile submenu.
 
-
-
 ### Check
+#### Final demo
+During the final demo, I showed the product owner, the students, an UX designer and some employees from the HvA my work. After that everybody asked me some questions and give me some feedback. The feedback I learned most from is that the landing page could have been some kind of summary of all the tools instead of the message page.
+
+After both demos we had a short brake and after that the ux designer explained his plans to pick up the project and continue it. It was pretty interesting to see how a real project goes.
+
+#### Expo
+The next day we had our last day of class before the summer hollidays. We where suposed to present our project results to the teachers and the other students. I have to say I was a bit nervous, but I was glad to see how positive everybody was about my progress. After that we finnished the day with a Kahoot!, a small speech and a digital frimibo.
 
 ### Wishlist
-
-
-
-
-
-
+Here are some things I woul like have added for the next sprint and Think Make Check phase:
+* Neater design
+* Transitions
+* Menu customizations
+* Fetch from a real API
+* Complete the news page with real code (Json files incompleet)
+* Make unreaded documents interger working with code.
 
 ## Reflection
 ### Week 2
