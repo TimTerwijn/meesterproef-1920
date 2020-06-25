@@ -205,10 +205,7 @@ Here are some things I woul like have added for the next sprint and Think Make C
 ## Reflection
 ### Reflection
 #### Web app from scratch
-
-
-* Fetch check
-* Json check
+When a user presses one of the internal menu buttons, HTML code is feched from the server containing the specific component, this data is manupilated with another promise with a fetch requesting data from a JSON file (API in the future). After that the data is served into the HTML. The buttons that start this algorithm are messages, schedule, results and news. I used this promise with a fetch because I think it is an easy and readable way of receiving external data.
 
 #### Css to the resque
 * Transities?
