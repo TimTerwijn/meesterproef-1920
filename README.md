@@ -213,37 +213,39 @@ I had some issues with maing quick changes to my code because it gets a mess rea
 
 #### Css to the resque
 ##### Rubric
-
+Something I realy liked about the this cource it that I learned about cascade, inheritance and specificity, before this cource I was always using Bootstrap (Eww) and a lot of ugly classes inside my HTML. Lucky for me, I tried to use no id's classes as challenge during this cource AND I also stayed below the 5KB limit, which I am rely poud of. Because of useing this I learned to work with a clean HTML and using selectors in the CSS. As I said above, I improved this way of coding even more by applying components and useing ID's for a components, "#id>article>section". I believe this is a good way of working because this makes my CSS smaller and splits it up in multiple smaller CSS files with a master CSS for general code like ".hidden{opacity:0;}".
 
 ##### Other things
 During this cource I learned to work with grids, from that point one I used grids for everything because I did not knew how to position items in a container in an other way. During this master test I stumbled opon the css position atribute. With position absolute it is posible to place a piece of html anywhere in the parent container class if you make the parent position relative. This is so much faster for me that to use grids for all small containers. I still use grids for larger containers though. It is very handy to make a web app responsive.
 
 #### Progressive web-app
 ##### Rubric
+Service worker
 
 ##### Other things
-Service worker check
 
 #### Browser tech
 ##### Rubric
-
-##### Other things
 Ie versie check?
 Gave enhancment, transitie?
 Voorlees app
 Tabben
 
+##### Other things
+
+
 #### Realtime web
 ##### Rubric
+-
 
 ##### Other things
--
+
 
 #### Web design
 ##### Rubric
+Fun things
 
 ##### Other things
-Fun dinges
 
 
 ### Reviews
