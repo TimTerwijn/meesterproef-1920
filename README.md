@@ -205,24 +205,44 @@ Here are some things I woul like have added for the next sprint and Think Make C
 ## Reflection
 ### Reflection
 #### Web app from scratch
+##### Rubric
 When a user presses one of the internal menu buttons, HTML code is feched from the server containing the specific component, this data is manupilated with another promise with a fetch requesting data from a JSON file (API in the future). After that the data is served into the HTML. The buttons that start this algorithm are messages, schedule, results and news. I used this promise with a fetch because I think it is an easy and readable way of receiving external data.
 
+##### Other things
+I had some issues with maing quick changes to my code because it gets a mess really quickly. During one of my reviews I learned from the teachers that I can split my html in serveral components, by giveing a component an id, and using css from there, "#id>article>section", I learned that you can keep your code pretty clean. I could even split my javascript files with it and fetch the html code.
+
 #### Css to the resque
-* Transities?
+##### Rubric
+
+
+##### Other things
+During this cource I learned to work with grids, from that point one I used grids for everything because I did not knew how to position items in a container in an other way. During this master test I stumbled opon the css position atribute. With position absolute it is posible to place a piece of html anywhere in the parent container class if you make the parent position relative. This is so much faster for me that to use grids for all small containers. I still use grids for larger containers though. It is very handy to make a web app responsive.
 
 #### Progressive web-app
+##### Rubric
+
+##### Other things
 Service worker check
 
 #### Browser tech
+##### Rubric
+
+##### Other things
 Ie versie check?
 Gave enhancment, transitie?
 Voorlees app
 Tabben
 
 #### Realtime web
+##### Rubric
+
+##### Other things
 -
 
 #### Web design
+##### Rubric
+
+##### Other things
 Fun dinges
 
 
