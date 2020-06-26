@@ -228,17 +228,14 @@ Now that I read the rubic I realized that I did something stupid, I tried to wor
 
 #### Realtime web
 ##### Rubric
--
-
-##### Other things
-
+None, I made the choice to spend my time with desinging and iterating and not settingup a whole server. and I also believe I have enough experice with setting up a server. I believe I can learn the most from UX and designing. I made this choice because the product owner told us that the most importand thing (scope) was tho solve the problem to fit all the tools of the HvA in one application. This is the reason I did not use anything I have learned from realtime web. But that does not mean I did like or learned things from cource.
 
 #### Web design
 ##### Rubric
-Fun things
+
 
 ##### Other things
-
+Fun things
 
 ### Reviews
 #### Week 2
