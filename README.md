@@ -232,10 +232,10 @@ None, I made the choice to spend my time with desinging and iterating and not se
 
 #### Web design
 ##### Rubric
-
+This is the real reason I chose this project. During my webdesign classes I had not the chance to test in a proper way because I had to work with Marie. Marie is not a bad person, but because she is Deaf and we have to work from home, I could not let her test my application on her device without seeing what she does. She could also not talk/listen and use the application at the same time because of her beeing Deaf and using her tolks. This time I could test with all the students from the student panel, comunicate with them and ask them what their thoughts where during the tests. I think it is importand to test properly because I noticed during the tests that there are always things you as developer see diffrend than someone who is not a developer, like the studnet panel during this project. By working in sprints with the think make check cycle you find those diffrences as soon as possible to save a lot of time and effort at the end of the project. Please check out my Product biographyif you want to read how those tests have resolved and resulting in my final project.
 
 ##### Other things
-Fun things
+A big thing that I have learned is that I thought to be smart to keep prototyping as long as possible. I thought that if I keep prototyping on paper it would be easier to make changes in the last part of the project. But I have learned that I was wrong. I had a lot of stress during the latter weeks of the project because I started working on code only at the end of the third week and that is why there are a lot of things that I wish to be in the final product that have not been added because of the time shortage. Because of this project I now know that if I split my HTML, CSS and Javascript into pieces, componets, I can have a faster result and can make quicker changes to my code so I do not have to prototype forever.
 
 ### Reviews
 #### Week 2
