@@ -220,19 +220,11 @@ During this cource I learned to work with grids, from that point one I used grid
 
 #### Progressive web-app
 ##### Rubric
-Service worker
-
-##### Other things
+I have also added a Service worker. This service worker is been setup after the page has been loaded so that it can cache all the displayed files. I have done this so that a user can use this webapp when his internet is bad or he has no internet at all.
 
 #### Browser tech
 ##### Rubric
-Ie versie check?
-Gave enhancment, transitie?
-Voorlees app
-Tabben
-
-##### Other things
-
+Now that I read the rubic I realized that I did something stupid, I tried to working with the 3 layers, but with working with compontents I totaly forgot to test the application without Javascript. The application does work on internet explorder, layer one, I detect an old browser with "<script nomodule>" and a new one with " <script type="module". The script tag of the new browser conatains all of the original javascript code. But the old browser javascript tag uses other code. I could not completed the old browser js file due to haveing a real deadline, however I made it possible to see the messages tab, and with the help of CSS @supports (display: grid) I have styled the application for older browsers, layer two. The webapp is not compleet as I have said before, you can not use the internal buttons, but the links to external HvA apps do work. Finaly I have added a cool enhancment, layer three, where it is possible to swipe between menus in the mobile version of the application. I believe it is importand to add support for older browser to your applicaton because there are a lot of people who do use the older browsers, some with some without javascript. It is also important to take other things in account, like colour blind people, people who need tabs to use your app etc. I did use anchor tags for my menu so users can use the tab buttons to navigate, but for reasons some other componets are not using anchors, so sadly I have to admit my webapp does not 100% supports tabbing, more like 80%, however I do believe it is a really importand feature.
 
 #### Realtime web
 ##### Rubric
