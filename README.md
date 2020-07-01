@@ -43,15 +43,15 @@ During the final presentation I gave the product owner three tips to improve the
 
 I had some issues with making quick changes to my portal. I asked for tips to my coach and he told me that I could make use of components. As you can see in figure 1, I tried to split all code apart so that I have a lot of components. Each HTML components is fetched with Javascript as you can see in figure 2. Each CSS component is linked in the main HTML and all JS code is executed after the HTML component is fetched.
 
-![Components](docs/img/components.png "Components")
+![Components](docs/img/components.png "Components")  
 Figure 1: My components.
 
-![fetch](docs/img/fetch.png "fetch")
+![fetch](docs/img/fetch.png "fetch")  
 Figure 2: Fetching HTML code.
 
 I've also added some enhancements, first of all I wanted to add a swipe to the mobile menu so that mobile users have a better overview of the menus. By splitting the menu and submenu the users have a better overview and the small mobile screen is not so crowded. After that the students told me that it was really hard to tell there is an option to swipe. That is why we chose to add some buttons below the screen to show the user he can swipe or to press them to swap from menu.
 
-![swipe](docs/img/swipe.png "fetch")
+![swipe](docs/img/swipe.png "fetch")  
 Figure 3: swipe code.
 
 ## Product biography (Think, Make, Check)
@@ -65,10 +65,10 @@ As you can see in figure one, my prototype is based on a pocket knife. You can u
 
 And of course as you can see in figure two, it is also possible to visit the site on your mobile phone. The right part of the screen disappears and when you use one of the buttons you either open the Schedule, Grades or Education Progress page and when you use the smaller buttons, you will be redirected to one of the other HvA tools.
 
-![Desktop prototype](docs/img/desktop-prototype1.PNG "Desktop prototype")
+![Desktop prototype](docs/img/desktop-prototype1.PNG "Desktop prototype")  
 Figure 1: My first desktop prototype.
 
-![Mobile prototype](docs/img/mobile-prototype1.PNG "Desktop prototype")
+![Mobile prototype](docs/img/mobile-prototype1.PNG "Desktop prototype")  
 Figure 2: My first mobile prototype.
 
 ### Check
@@ -96,19 +96,19 @@ As you can see the figures below, I made some changes and added some pages. Now 
 
 You can also see the "i" button in each tool button for information and a number if there are unread items inside a tool.
 
-![Desktop prototype](docs/img/prototype2-home.PNG "Desktop prototype")
+![Desktop prototype](docs/img/prototype2-home.PNG "Desktop prototype")  
 Figure 3: The home and notivcations page of the second prototype.
 
-![Desktop prototype](docs/img/prototype2-nieuws.PNG "Desktop prototype")
+![Desktop prototype](docs/img/prototype2-nieuws.PNG "Desktop prototype")  
 Figure 4: The news page of the second prototype.
 
-![Desktop prototype](docs/img/prototype2-results.PNG "Desktop prototype")
+![Desktop prototype](docs/img/prototype2-results.PNG "Desktop prototype")  
 Figure 5: The result page of the second prototype.
 
-![Desktop prototype](docs/img/prototype2-rooster.PNG "Desktop prototype")
+![Desktop prototype](docs/img/prototype2-rooster.PNG "Desktop prototype")  
 Figure 6: The schedule page of the second prototype.
 
-![Mobile prototype](docs/img/mobile-prototype2.PNG "Desktop prototype")
+![Mobile prototype](docs/img/mobile-prototype2.PNG "Desktop prototype")  
 Figure 7: The second mobile prototype.
 
 ### Check
@@ -136,10 +136,10 @@ I also make some kind of menu as you can see in figure nine tho split the news i
 
 I started working the rest of this week on code because I had not done it before. This means that I do not have that much to show to the students this week during the check phase.
 
-![Desktop prototype](docs/img/prototype3-info.PNG "Desktop prototype")
+![Desktop prototype](docs/img/prototype3-info.PNG "Desktop prototype")  
 Figure 8: Showing the information.
 
-![Desktop prototype](docs/img/prototype3-nieuws.PNG "Desktop prototype")
+![Desktop prototype](docs/img/prototype3-nieuws.PNG "Desktop prototype")  
 Figure 9: The news page of the third prototype.
 
 ### Check
@@ -155,13 +155,13 @@ I want to make both the menus and at least two clickable buttons so that the stu
 ### Make
 As you can see in figure 10, I added some colors, responsive sections and the two menus. Further more I have added the clickable I button with pup up and I have also made the application responsive so you can use it the application on your phone as you can see in figure 11.
 
-![Desktop prototype](docs/img/prototype4.PNG "Desktop prototype")
+![Desktop prototype](docs/img/prototype4.PNG "Desktop prototype")  
 Figure 10: The current desktop.
 
-![Mobile prototype](docs/img/prototype4-mobile1.PNG "Mobile prototype")
+![Mobile prototype](docs/img/prototype4-mobile1.PNG "Mobile prototype")  
 Figure 11: Mobile menu.
 
-![Mobile prototype](docs/img/prototype4-mobile2.PNG "Mobile prototype")
+![Mobile prototype](docs/img/prototype4-mobile2.PNG "Mobile prototype")  
 Figure 12: Mobile content.
 
 ### Check
@@ -175,13 +175,13 @@ I know that I have a lot to do now for the final presentation. So I made a list 
 ### Make
 As you can see below I was able to add most of the things I wanted to add to the final product, but I was not able to add all the things. I was not able to finish all the things I liked to have completed before the demo, like the customizable menu items, some JSON files and the unread documents. But the product owner told me it is fine because I do not have all the data I needed and I think it this enough to make the product owner happy. He did ask me to give him a list of the items I missed so that they can implement it in their API.
 
-![Mobile prototype](docs/img/final-demo.PNG "final product")
+![Mobile prototype](docs/img/final-demo.PNG "final product")  
 Figure 13: final product.
 
-![Mobile prototype](docs/img/final-mobile1.PNG "final mobile menu")
+![Mobile prototype](docs/img/final-mobile1.PNG "final mobile menu")  
 Figure 14: mobile menu.
 
-![Mobile prototype](docs/img/final-mobile2.PNG "final mobile sub menu")
+![Mobile prototype](docs/img/final-mobile2.PNG "final mobile sub menu")  
 Figure 15: mobile sub menu.
 
 ### Check
